@@ -3,7 +3,7 @@
 
 ### **Description:**
 
-2-dimensional sprites, tiles, & audio I created, edited, &/or collected for use in [Stendhal](https://stendhalgame.org/).
+2-dimensional sprites, tiles, & audio created, edited, &/or collected for use in [Stendhal](https://stendhalgame.org/).
 
 
 ### **Previews:**
