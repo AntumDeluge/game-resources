@@ -8,6 +8,7 @@
 
 ### **Previews:**
 
+![king_cobra](https://raw.githubusercontent.com/AntumDeluge/stendhal-sprites/master/sprites/animal/king_cobra/preview.gif)
 ![minotaur](https://raw.githubusercontent.com/AntumDeluge/stendhal-sprites/master/sprites/creature/minotaur/preview.gif)
 ![chick](https://raw.githubusercontent.com/AntumDeluge/stendhal-sprites/master/sprites/animal/chick/preview.gif)
 
@@ -22,6 +23,7 @@
 
 Created by Jordan Irwin (a.k.a. AntumDeluge):
   - Licensed under [CC BY 3.0](LICENSE.txt):
+    - [king_cobra](sprites/animal/king_cobra) (work-in-progress)
     - [minotaur](sprites/creature/minotaur) (work-in-progress)
 
 Edited by Jordan Irwin (a.k.a. AntumDeluge):
