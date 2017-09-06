@@ -22,7 +22,7 @@
 
 Created by Jordan Irwin (a.k.a. AntumDeluge):
   - Licensed under [CC BY 3.0](LICENSE.txt):
-    - [minotaur](creature/minotaur)
+    - [minotaur](creature/minotaur) (work-in-progress)
 
 Edited by Jordan Irwin (a.k.a. AntumDeluge):
   - Licensed under [CC0 1.0](docs/licenses/CC0-1.0.txt):
