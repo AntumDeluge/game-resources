@@ -8,8 +8,8 @@
 
 ### **Previews:**
 
-![minotaur](https://raw.githubusercontent.com/AntumDeluge/stendhal-sprites/master/creature/minotaur/preview.gif)
-![chick](https://raw.githubusercontent.com/AntumDeluge/stendhal-sprites/master/animal/chick/preview.gif)
+![minotaur](https://raw.githubusercontent.com/AntumDeluge/stendhal-sprites/master/sprites/creature/minotaur/preview.gif)
+![chick](https://raw.githubusercontent.com/AntumDeluge/stendhal-sprites/master/sprites/animal/chick/preview.gif)
 
 
 ### **Notes:**
@@ -22,8 +22,8 @@
 
 Created by Jordan Irwin (a.k.a. AntumDeluge):
   - Licensed under [CC BY 3.0](LICENSE.txt):
-    - [minotaur](creature/minotaur) (work-in-progress)
+    - [minotaur](sprites/creature/minotaur) (work-in-progress)
 
 Edited by Jordan Irwin (a.k.a. AntumDeluge):
   - Licensed under [CC0 1.0](docs/licenses/CC0-1.0.txt):
-    - [chick](animal/chick) (based on [Chicken Sprites by Shepardskin](https://opengameart.org/content/chicken-sprites))
+    - [chick](sprites/animal/chick) (based on [Chicken Sprites by Shepardskin](https://opengameart.org/content/chicken-sprites))
