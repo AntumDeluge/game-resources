@@ -8,10 +8,11 @@
 
 ### **Previews:**
 
-![cobra](https://raw.githubusercontent.com/AntumDeluge/stendhal-sprites/master/sprites/animal/cobra/preview.gif)
-![king_cobra](https://raw.githubusercontent.com/AntumDeluge/stendhal-sprites/master/sprites/animal/king_cobra/preview.gif)
-![minotaur](https://raw.githubusercontent.com/AntumDeluge/stendhal-sprites/master/sprites/creature/minotaur/preview.gif)
-![chick](https://raw.githubusercontent.com/AntumDeluge/stendhal-sprites/master/sprites/animal/chick/preview.gif)
+![cobra](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/animal/cobra/preview.gif)
+![king_cobra](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/animal/king_cobra/preview.gif)
+![minotaur](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/creature/minotaur/preview.gif)
+![chick](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/animal/chick/preview.gif)
+![antipoison_rings](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/icons/antipoison_rings/preview.png)
 
 
 ### **Notes:**
@@ -24,6 +25,7 @@
 
 Created by Jordan Irwin (a.k.a. AntumDeluge):
   - Licensed under [CC BY 3.0](LICENSE.txt):
+    - [antipoison_rings](icons/antipoison_rings)
     - [cobra](sprites/animal/cobra) (work-in-progress)
     - [king_cobra](sprites/animal/king_cobra) (work-in-progress)
     - [minotaur](sprites/creature/minotaur) (work-in-progress)
