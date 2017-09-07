@@ -13,6 +13,7 @@
 ![minotaur](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/creature/minotaur/preview.gif)
 ![chick](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/animal/chick/preview.gif)
 ![antipoison_rings](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/icons/antipoison_rings/preview.png)
+![mushroom_houses](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/tiles/mushroom_houses/preview.png)
 
 
 ### **Notes:**
@@ -29,6 +30,7 @@ Created by Jordan Irwin (a.k.a. AntumDeluge):
     - [cobra](sprites/animal/cobra) (work-in-progress)
     - [king_cobra](sprites/animal/king_cobra) (work-in-progress)
     - [minotaur](sprites/creature/minotaur) (work-in-progress)
+    - [mushroom_houses](tiles/mushroom_houses)
 
 Edited by Jordan Irwin (a.k.a. AntumDeluge):
   - Licensed under [CC0 1.0](docs/licenses/CC0-1.0.txt):
