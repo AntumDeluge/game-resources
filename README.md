@@ -12,6 +12,7 @@
 ![king_cobra](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/animal/king_cobra/preview.gif)
 ![minotaur](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/creature/minotaur/preview.gif)
 ![chick](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/animal/chick/preview.gif)
+![horse_white](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/animal/horse/preview.gif)
 ![mage](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/character/mage/preview.gif)
 ![antipoison_rings](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/icons/antipoison_rings/preview.png)
 ![mushroom_houses](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/tiles/mushroom_houses/preview.png)
@@ -20,7 +21,7 @@
 ### **Notes:**
 
 - GIMP sourced files (.xcf) use RGB color space.
-- PNG images use indexed color for smaller files.
+- Mose PNG images use indexed color for smaller files.
 
 
 ### **Licensing:**
@@ -36,4 +37,6 @@ Created by Jordan Irwin (a.k.a. AntumDeluge):
 Edited by Jordan Irwin (a.k.a. AntumDeluge):
   - Licensed under [CC0 1.0](docs/licenses/CC0-1.0.txt):
     - [chick](sprites/animal/chick) (based on [Chicken Sprites by Shepardskin](https://opengameart.org/content/chicken-sprites))
-    - [mage](sprites/character/mage) (base on [Mage Sprites by Sollision](https://opengameart.org/content/mage-sprites-idle-and-walking))
+    - [mage](sprites/character/mage) (based on [Mage Sprites by Sollision](https://opengameart.org/content/mage-sprites-idle-and-walking))
+  - Licensed under [CC BY-SA 3.0](docs/licenses/CC-BY-SA-3.0.txt):
+    - [horse](sprites/animal/horse) (based on [LPC Horses by bluecarrot16](https://opengameart.org/content/lpc-horses))
