@@ -47,6 +47,9 @@ Reworked by Jordan Irwin (a.k.a. AntumDeluge):
     - [horse](sprites/animal/horse) (based on [LPC Horses by bluecarrot16](https://opengameart.org/content/lpc-horses))
   - Licensed under [OGA BY 3.0][]:
     - [bat](sprites/animal/bat) ([bat by bagzie](https://opengameart.org/node/26447))
+- tileset:
+  - Licensed under [CC BY 3.0][]:
+    - [tent](tileset/tent) (based on [Tent by xhunterko](https://opengameart.org/node/55237))
 
 
 [CC0 1.0]: docs/licenses/CC0-1.0.txt
