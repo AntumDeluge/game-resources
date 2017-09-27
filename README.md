@@ -28,14 +28,18 @@
 ### **Licensing:**
 
 Created by Jordan Irwin (a.k.a. AntumDeluge):
-  - Licensed under [CC BY 3.0](LICENSE.txt):
+- Licensed under [CC BY 3.0](LICENSE.txt):
+  - icon:
     - [antipoison_rings](icons/antipoison_rings)
+  - sprite:
     - [cobra](sprites/animal/cobra) (work-in-progress)
     - [king_cobra](sprites/animal/king_cobra) (work-in-progress)
     - [minotaur](sprites/creature/minotaur) (work-in-progress)
+  - tileset:
     - [mushroom_houses](tiles/mushroom_houses)
 
 Edited by Jordan Irwin (a.k.a. AntumDeluge):
+- sprite:
   - Licensed under [CC0 1.0](docs/licenses/CC0-1.0.txt):
     - [chick](sprites/animal/chick) (based on [Chicken Sprites by Shepardskin](https://opengameart.org/content/chicken-sprites))
     - [mage](sprites/character/mage) (based on [Mage Sprites by Sollision](https://opengameart.org/content/mage-sprites-idle-and-walking))
