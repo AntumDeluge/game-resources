@@ -21,7 +21,7 @@
 ### **Notes:**
 
 - GIMP sourced files (.xcf) use RGB color space.
-- Mose PNG images use indexed color for smaller files.
+- Most PNG images use indexed color for smaller files.
 
 
 ### **Licensing:**
