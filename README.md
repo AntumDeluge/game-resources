@@ -16,7 +16,7 @@
 ![horse_white](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/animal/horse/preview.gif)
 ![mage](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/character/mage/preview.gif)
 ![antipoison_rings](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/icons/antipoison_rings/preview.png)
-![mushroom_houses](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/tiles/mushroom_houses/preview.png)
+![mushroom_houses](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/tileset/mushroom_houses/preview.png)
 
 
 ### **Notes:**
