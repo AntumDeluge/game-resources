@@ -36,7 +36,7 @@ Created by Jordan Irwin (a.k.a. AntumDeluge):
     - [king_cobra](sprites/animal/king_cobra) (work-in-progress)
     - [minotaur](sprites/creature/minotaur) (work-in-progress)
   - tileset:
-    - [mushroom_houses](tiles/mushroom_houses)
+    - [mushroom_houses](tileset/mushroom_houses)
 
 Edited by Jordan Irwin (a.k.a. AntumDeluge):
 - sprite:
