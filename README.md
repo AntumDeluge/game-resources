@@ -12,6 +12,7 @@
 ![king_cobra](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/animal/king_cobra/preview.gif)
 ![minotaur](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/creature/minotaur/preview.gif)
 ![chick](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/animal/chick/preview.gif)
+![bat](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/animal/bat/preview.gif)
 ![horse_white](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/animal/horse/preview.gif)
 ![mage](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/character/mage/preview.gif)
 ![antipoison_rings](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/icons/antipoison_rings/preview.png)
