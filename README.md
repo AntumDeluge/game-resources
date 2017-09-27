@@ -28,7 +28,7 @@
 ### **Licensing:**
 
 Created by Jordan Irwin (a.k.a. AntumDeluge):
-- Licensed under [CC BY 3.0](LICENSE.txt):
+- Licensed under [CC BY 3.0][]:
   - icon:
     - [antipoison_rings](icons/antipoison_rings)
   - sprite:
@@ -40,10 +40,16 @@ Created by Jordan Irwin (a.k.a. AntumDeluge):
 
 Reworked by Jordan Irwin (a.k.a. AntumDeluge):
 - sprite:
-  - Licensed under [CC0 1.0](docs/licenses/CC0-1.0.txt):
+  - Licensed under [CC0 1.0][]:
     - [chick](sprites/animal/chick) (based on [Chicken Sprites by Shepardskin](https://opengameart.org/content/chicken-sprites))
     - [mage](sprites/character/mage) (based on [Mage Sprites by Sollision](https://opengameart.org/content/mage-sprites-idle-and-walking))
-  - Licensed under [CC BY-SA 3.0](docs/licenses/CC-BY-SA-3.0.txt):
+  - Licensed under [CC BY-SA 3.0][]:
     - [horse](sprites/animal/horse) (based on [LPC Horses by bluecarrot16](https://opengameart.org/content/lpc-horses))
-  - Licensed under [OGA BY 3.0](docs/licenses/OGA-BY-3.0.txt):
+  - Licensed under [OGA BY 3.0][]:
     - [bat](sprites/animal/bat) ([bat by bagzie](https://opengameart.org/node/26447))
+
+
+[CC0 1.0]: docs/licenses/CC0-1.0.txt
+[CC BY 3.0]: LICENSE.txt
+[CC BY-SA 3.0]: docs/licenses/CC-BY-SA-3.0.txt
+[OGA BY 3.0]: docs/licenses/OGA-BY-3.0.txt
