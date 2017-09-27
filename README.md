@@ -40,3 +40,5 @@ Edited by Jordan Irwin (a.k.a. AntumDeluge):
     - [mage](sprites/character/mage) (based on [Mage Sprites by Sollision](https://opengameart.org/content/mage-sprites-idle-and-walking))
   - Licensed under [CC BY-SA 3.0](docs/licenses/CC-BY-SA-3.0.txt):
     - [horse](sprites/animal/horse) (based on [LPC Horses by bluecarrot16](https://opengameart.org/content/lpc-horses))
+  - Licensed under [OGA BY 3.0](docs/licenses/OGA-BY-3.0.txt):
+    - [bat](sprites/animal/bat) ([bat by bagzie](https://opengameart.org/node/26447))
