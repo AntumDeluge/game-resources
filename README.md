@@ -38,7 +38,7 @@ Created by Jordan Irwin (a.k.a. AntumDeluge):
   - tileset:
     - [mushroom_houses](tileset/mushroom_houses)
 
-Edited by Jordan Irwin (a.k.a. AntumDeluge):
+Reworked by Jordan Irwin (a.k.a. AntumDeluge):
 - sprite:
   - Licensed under [CC0 1.0](docs/licenses/CC0-1.0.txt):
     - [chick](sprites/animal/chick) (based on [Chicken Sprites by Shepardskin](https://opengameart.org/content/chicken-sprites))
