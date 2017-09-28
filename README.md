@@ -22,7 +22,7 @@
 
 ### **Notes:**
 
-- GIMP sourced files (.xcf) use RGB color space.
+- GIMP source files (.xcf) use RGB color space.
 - Most PNG images use indexed color for smaller files.
 
 
