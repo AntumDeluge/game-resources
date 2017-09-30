@@ -8,16 +8,16 @@
 
 ### **Previews:**
 
-![cobra](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/animal/cobra/preview.gif)
-![king_cobra](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/animal/king_cobra/preview.gif)
-![minotaur](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/creature/minotaur/preview.gif)
-![chick](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/animal/chick/preview.gif)
-![bat](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/animal/bat/preview.gif)
-![horse_white](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/animal/horse/preview.gif)
-![mage](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/sprites/character/mage/preview.gif)
-![antipoison_rings](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/icons/antipoison_rings/preview.png)
-![mushroom_houses](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/tileset/mushroom_houses/preview.png)
-![tent](https://raw.githubusercontent.com/AntumDeluge/stendhal-resources/master/tileset/tent/preview.png)
+![cobra](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/sprite/animal/cobra/preview.gif)
+![king_cobra](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/sprite/animal/king_cobra/preview.gif)
+![minotaur](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/sprite/creature/minotaur/preview.gif)
+![chick](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/sprite/animal/chick/preview.gif)
+![bat](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/sprite/animal/bat/preview.gif)
+![horse_white](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/sprite/animal/horse/preview.gif)
+![mage](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/sprite/character/mage/preview.gif)
+![antipoison_rings](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/icon/antipoison_rings/preview.png)
+![mushroom_houses](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/tileset/mushroom_houses/preview.png)
+![tent](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/tileset/tent/preview.png)
 
 
 ### **Notes:**
