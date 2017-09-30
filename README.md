@@ -46,6 +46,7 @@ Reworked by Jordan Irwin (a.k.a. AntumDeluge):
     - [mage](sprites/character/mage) (based on [Mage Sprites by Sollision](https://opengameart.org/content/mage-sprites-idle-and-walking))
   - Licensed under [CC BY-SA 3.0][]:
     - [horse](sprites/animal/horse) (based on [LPC Horses by bluecarrot16](https://opengameart.org/content/lpc-horses))
+    - [human_LPC](sprites/character/human_LPC) ([source](https://opengameart.org/node/32390))
   - Licensed under [OGA BY 3.0][]:
     - [bat](sprites/animal/bat) ([bat by bagzie](https://opengameart.org/node/26447))
 - tileset:
