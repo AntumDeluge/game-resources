@@ -53,6 +53,13 @@ Reworked by Jordan Irwin (a.k.a. AntumDeluge):
   - Licensed under [CC BY 3.0][]:
     - [tent](tileset/tent) (based on [Tent by xhunterko](https://opengameart.org/node/55237))
 
+Other resources:
+- facesets:
+  - by David Revoy
+    - https://opengameart.org/node/74802
+  - by Svetlana Kushnariova
+    - https://opengameart.org/node/24823
+
 
 [CC0 1.0]: docs/licenses/CC0-1.0.txt
 [CC BY 3.0]: LICENSE.txt
