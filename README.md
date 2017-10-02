@@ -54,11 +54,12 @@ Reworked by Jordan Irwin (a.k.a. AntumDeluge):
     - [tent](tileset/tent) (based on [Tent by xhunterko](https://opengameart.org/node/55237))
 
 Other resources:
-- facesets:
+- sprites & facesets:
   - by David Revoy
     - https://opengameart.org/node/74802
   - by [Svetlana Kushnariova][]
     - https://opengameart.org/node/24823
+    - https://opengameart.org/node/50909
   - by [Svetlana Kushnariova][] & diamonddmgirl
     - https://opengameart.org/node/66147
     - https://opengameart.org/node/72198
