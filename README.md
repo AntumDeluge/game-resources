@@ -57,6 +57,8 @@ Other resources:
 - sprites & facesets:
   - by David Revoy
     - https://opengameart.org/node/74802
+  - by Stephen Challener (Redshrike), Johannes Sjölund, & Nila122
+    - https://opengameart.org/node/22748
   - by [Svetlana Kushnariova][]
     - https://opengameart.org/node/24823
     - https://opengameart.org/node/50909
