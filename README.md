@@ -59,6 +59,8 @@ Other resources:
     - https://opengameart.org/node/74802
   - by Svetlana Kushnariova
     - https://opengameart.org/node/24823
+  - by Svetlana Kushnariova & diamonddmgirl
+    - https://opengameart.org/node/72198
 
 
 [CC0 1.0]: docs/licenses/CC0-1.0.txt
