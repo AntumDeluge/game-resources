@@ -62,6 +62,7 @@ Other resources:
     - https://opengameart.org/node/50909
   - by [Svetlana Kushnariova][] & diamonddmgirl
     - https://opengameart.org/node/66147
+    - https://opengameart.org/node/67861
     - https://opengameart.org/node/72198
 
 
