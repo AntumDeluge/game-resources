@@ -57,9 +57,9 @@ Other resources:
 - facesets:
   - by David Revoy
     - https://opengameart.org/node/74802
-  - by Svetlana Kushnariova
+  - by [Svetlana Kushnariova][]
     - https://opengameart.org/node/24823
-  - by Svetlana Kushnariova & diamonddmgirl
+  - by [Svetlana Kushnariova][] & diamonddmgirl
     - https://opengameart.org/node/72198
 
 
@@ -67,3 +67,5 @@ Other resources:
 [CC BY 3.0]: LICENSE.txt
 [CC BY-SA 3.0]: docs/licenses/CC-BY-SA-3.0.txt
 [OGA BY 3.0]: docs/licenses/OGA-BY-3.0.txt
+
+[Svetlana Kushnariova]: mailto:lana-chan@yandex.ru
