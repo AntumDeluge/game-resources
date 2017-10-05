@@ -16,6 +16,7 @@
 ![horse_white](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/sprite/animal/horse/preview.gif)
 ![mage](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/sprite/character/mage/preview.gif)
 ![rabbit](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/sprite/animal/rabbit_LPC/preview.gif)
+![cat](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/sprite/animal/cat/preview.gif)
 ![antipoison_rings](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/icon/antipoison_rings/preview.png)
 ![mushroom_houses](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/tileset/mushroom_houses/preview.png)
 ![tent](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/tileset/tent/preview.png)
