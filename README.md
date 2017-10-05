@@ -46,6 +46,7 @@ Reworked by Jordan Irwin (a.k.a. AntumDeluge):
     - [chick](sprites/animal/chick) (based on [Chicken Sprites by Shepardskin](https://opengameart.org/content/chicken-sprites))
     - [mage](sprites/character/mage) (based on [Mage Sprites by Sollision](https://opengameart.org/content/mage-sprites-idle-and-walking))
   - Licensed under [CC BY-SA 3.0][]:
+    - [cat](sprites/animal/cat) ([[LPC] Cats and Dogs by bluecarrot16](https://opengameart.org/node/69399))
     - [horse](sprites/animal/horse) (based on [LPC Horses by bluecarrot16](https://opengameart.org/content/lpc-horses))
     - [human_LPC](sprites/character/human_LPC) ([source](https://opengameart.org/node/32390))
     - [rabbit_LPC](sprites/animal/rabbit_LPC) ([Bunny Rabbit LPC style for PixelFarm](https://opengameart.org/node/14851) Stephen Challener (Redshrike))
