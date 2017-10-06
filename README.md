@@ -33,29 +33,29 @@
 Created by Jordan Irwin (a.k.a. AntumDeluge):
 - Licensed under [CC BY 3.0][]:
   - icon:
-    - [antipoison_rings](icons/antipoison_rings)
+    - [antipoison_rings](icon/antipoison_rings)
   - sprite:
-    - [cobra](sprites/animal/cobra) (work-in-progress)
-    - [king_cobra](sprites/animal/king_cobra) (work-in-progress)
-    - [minotaur](sprites/creature/minotaur) (work-in-progress)
+    - [cobra](sprite/animal/cobra) (work-in-progress)
+    - [king_cobra](sprite/animal/king_cobra) (work-in-progress)
+    - [minotaur](sprite/creature/minotaur) (work-in-progress)
   - tileset:
     - [mushroom_houses](tileset/mushroom_houses)
 
 Reworked by Jordan Irwin (a.k.a. AntumDeluge):
 - sprite:
   - Licensed under [CC0 1.0][]:
-    - [chick](sprites/animal/chick) (based on [Chicken Sprites by Shepardskin](https://opengameart.org/content/chicken-sprites))
-    - [mage](sprites/character/mage) (based on [Mage Sprites by Sollision](https://opengameart.org/content/mage-sprites-idle-and-walking))
+    - [chick](sprite/animal/chick) (based on [Chicken Sprites by Shepardskin](https://opengameart.org/content/chicken-sprites))
+    - [mage](sprite/character/mage) (based on [Mage Sprites by Sollision](https://opengameart.org/content/mage-sprites-idle-and-walking))
   - Licensed under [CC BY 3.0][]:
     - [orc](sprite/creature/orc) (based on [Muscleman/Ogre/Minotaur](https://opengameart.org/node/24876) by Tuomo Untinen (Reemax))
   - Licensed under [CC BY-SA 3.0][]:
-    - [cat](sprites/animal/cat) ([[LPC] Cats and Dogs by bluecarrot16](https://opengameart.org/node/69399))
+    - [cat](sprite/animal/cat) ([[LPC] Cats and Dogs by bluecarrot16](https://opengameart.org/node/69399))
     - cat (alternate) ([[LPC] Rat, Cat and Dog](https://opengameart.org/node/39573) by Tuomo Untinen (Reemax))
-    - [horse](sprites/animal/horse) (based on [LPC Horses by bluecarrot16](https://opengameart.org/content/lpc-horses))
-    - [human_LPC](sprites/character/human_LPC) ([source](https://opengameart.org/node/32390))
-    - [rabbit_LPC](sprites/animal/rabbit_LPC) ([Bunny Rabbit LPC style for PixelFarm](https://opengameart.org/node/14851) Stephen Challener (Redshrike))
+    - [horse](sprite/animal/horse) (based on [LPC Horses by bluecarrot16](https://opengameart.org/content/lpc-horses))
+    - [human_LPC](sprite/character/human_LPC) ([source](https://opengameart.org/node/32390))
+    - [rabbit_LPC](sprite/animal/rabbit_LPC) ([Bunny Rabbit LPC style for PixelFarm](https://opengameart.org/node/14851) Stephen Challener (Redshrike))
   - Licensed under [OGA BY 3.0][]:
-    - [bat](sprites/animal/bat) ([bat by bagzie](https://opengameart.org/node/26447))
+    - [bat](sprite/animal/bat) ([bat by bagzie](https://opengameart.org/node/26447))
 - tileset:
   - Licensed under [CC BY 3.0][]:
     - [tent](tileset/tent) (based on [Tent by xhunterko](https://opengameart.org/node/55237))
