@@ -46,6 +46,8 @@ Reworked by Jordan Irwin (a.k.a. AntumDeluge):
   - Licensed under [CC0 1.0][]:
     - [chick](sprites/animal/chick) (based on [Chicken Sprites by Shepardskin](https://opengameart.org/content/chicken-sprites))
     - [mage](sprites/character/mage) (based on [Mage Sprites by Sollision](https://opengameart.org/content/mage-sprites-idle-and-walking))
+  - Licensed under [CC BY 3.0][]:
+    - [orc](sprite/creature/orc) (based on [Muscleman/Ogre/Minotaur](https://opengameart.org/node/24876) by Tuomo Untinen (Reemax))
   - Licensed under [CC BY-SA 3.0][]:
     - [cat](sprites/animal/cat) ([[LPC] Cats and Dogs by bluecarrot16](https://opengameart.org/node/69399))
     - cat (alternate) ([[LPC] Rat, Cat and Dog](https://opengameart.org/node/39573) by Tuomo Untinen (Reemax))
