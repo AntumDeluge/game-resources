@@ -45,6 +45,7 @@ Reworked by Jordan Irwin (a.k.a. AntumDeluge):
 - sprite:
   - Licensed under [CC0 1.0][]:
     - [chick](sprite/animal/chick) (based on [Chicken Sprites by Shepardskin](https://opengameart.org/content/chicken-sprites))
+    - [hat-001 (chef hat)](sprite/character/outfit/PNG/24x32/hat-001.png) (based on [Pig Chef [48x48]](https://opengameart.org/node/69527) by One Man Army
     - [mage](sprite/character/mage) (based on [Mage Sprites by Sollision](https://opengameart.org/content/mage-sprites-idle-and-walking))
   - Licensed under [CC BY 3.0][]:
     - [orc](sprite/creature/orc) (based on [Muscleman/Ogre/Minotaur](https://opengameart.org/node/24876) by Tuomo Untinen (Reemax))
