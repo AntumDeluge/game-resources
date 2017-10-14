@@ -63,6 +63,9 @@ Reworked by Jordan Irwin (a.k.a. AntumDeluge):
     - [tent](tileset/tent) (based on [Tent by xhunterko](https://opengameart.org/node/55237))
 
 Other resources:
+- items & icons:
+  - by [Bevouliin - Imaginary Perception](http://bevouliin.com/)
+    - https://opengameart.org/node/67847 (swords_CC0)
 - sprites & facesets:
   - by David Revoy
     - https://opengameart.org/node/74802
