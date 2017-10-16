@@ -80,6 +80,8 @@ Other resources:
     - https://opengameart.org/node/66147
     - https://opengameart.org/node/67861
     - https://opengameart.org/node/72198
+  - by [Warlock's Gauntlet team](https://musztardasarepska.pl/wgdown/)
+    - https://opengameart.org/node/17442
 
 
 [CC0 1.0]: docs/licenses/CC0-1.0.txt
