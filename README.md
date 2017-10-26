@@ -74,6 +74,7 @@ Other resources:
     - https://opengameart.org/node/74802
   - by Stephen Challener (Redshrike), Johannes Sjölund, & Nila122
     - dark_soldier [CC BY-SA 3.0][]: https://opengameart.org/node/12858
+    - golem [OGA BY 3.0][]: https://opengameart.org/node/6262
     - https://opengameart.org/node/22748
   - by [Svetlana Kushnariova][]
     - https://opengameart.org/node/24823
