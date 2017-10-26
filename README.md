@@ -76,6 +76,7 @@ Other resources:
     - dark_soldier [CC BY-SA 3.0][]: https://opengameart.org/node/12858
     - golem [OGA BY 3.0][]: https://opengameart.org/node/6262
     - redshrik_characters [OGA BY 3.0][]: https://opengameart.org/node/22748
+    - https://opengameart.org/node/4031
     - https://opengameart.org/node/5215
   - by [Svetlana Kushnariova][]
     - https://opengameart.org/node/24823
