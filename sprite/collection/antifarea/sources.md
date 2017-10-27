@@ -14,7 +14,7 @@
     - frankenstein
     - mummy
     - swamp_creature
-    - vampire
+    - vampire-1
     - werewolf
   - [16x18 Zombie Characters + Templates + Extra Template](https://opengameart.org/node/5618) (CC BY 3.0) by Charles Gabriel (Antifarea):
     - zombie-1
@@ -26,8 +26,10 @@
     - zombie-f-2
     - zombie-m-1
     - zombie-m-2
-  - [](https://opengameart.org/node/4031) (CC BY 3.0) by Stephen Challener (Redshrike):
+  - [Rat and Rat King overworld (antifarea style)](https://opengameart.org/node/4031) (CC BY 3.0) by Stephen Challener (Redshrike):
     - rat_king
+  - [Twelve more characters + 3 free characters and a child template](https://opengameart.org/node/3427) (CC BY 3.0) by Charles Gabriel (Antifarea):
+    - vampire-2
 - elemental
   - [Twelve 16x18 RPG character sprites (including NPCs and elementals)](https://opengameart.org/node/3393) (CC BY 3.0) by Charles Gabriel (Antifarea):
     - dark_elemental
