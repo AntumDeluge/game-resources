@@ -9,15 +9,7 @@
     - nun
     - pirate
     - priest
-- elemental
-  - [Twelve 16x18 RPG character sprites (including NPCs and elementals)](https://opengameart.org/node/3393) (CC BY 3.0) by Charles Gabriel (Antifarea):
-    - dark_elemental
-    - earth_elemental
-    - fire_elemental
-    - light_elemental
-    - water_elemental
-    - wind_elemental
-- monster
+- creature
   - [Halloween gift for OGA](https://opengameart.org/node/4125) (CC BY 3.0) by Charles Gabriel (Antifarea):
     - frankenstein
     - mummy
@@ -36,3 +28,11 @@
     - zombie-m-2
   - [](https://opengameart.org/node/4031) (CC BY 3.0) by Stephen Challener (Redshrike):
     - rat_king
+- elemental
+  - [Twelve 16x18 RPG character sprites (including NPCs and elementals)](https://opengameart.org/node/3393) (CC BY 3.0) by Charles Gabriel (Antifarea):
+    - dark_elemental
+    - earth_elemental
+    - fire_elemental
+    - light_elemental
+    - water_elemental
+    - wind_elemental
