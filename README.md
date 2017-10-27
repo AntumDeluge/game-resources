@@ -51,6 +51,7 @@ Reworked by Jordan Irwin (a.k.a. AntumDeluge):
     - [hat-001 (chef hat)](sprite/character/outfit/PNG/24x32/hat-001.png) (based on [Pig Chef [48x48]](https://opengameart.org/node/69527) by One Man Army
     - [mage](sprite/character/mage) (based on [Mage Sprites by Sollision](https://opengameart.org/content/mage-sprites-idle-and-walking))
   - Licensed under [CC BY 3.0][]:
+    - [aruthon](sprite/creature/aruthon) (based on [Space Bot](https://opengameart.org/node/52537) by DoubleU Creativity)
     - [orc](sprite/creature/orc) (based on [Muscleman/Ogre/Minotaur](https://opengameart.org/node/24876) by Tuomo Untinen (Reemax))
     - [troll](sprite/creature/troll) (based on [Muscleman/Ogre/Minotaur](https://opengameart.org/node/24876) by Tuomo Untinen (Reemax))
   - Licensed under [CC BY-SA 3.0][]:
