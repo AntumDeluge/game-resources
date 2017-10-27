@@ -6,3 +6,11 @@
     - nun
     - pirate
     - priest
+- elemental
+  - [Twelve 16x18 RPG character sprites (including NPCs and elementals)](https://opengameart.org/node/3393) (CC BY 3.0) by Antifarea:
+    - dark_elemental
+    - earth_elemental
+    - fire_elemental
+    - light_elemental
+    - water_elemental
+    - wind_elemental
