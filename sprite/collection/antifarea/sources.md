@@ -1,0 +1,8 @@
+- character
+  - [Twelve 16x18 RPG character sprites (including NPCs and elementals)](https://opengameart.org/node/3393) (CC BY 3.0) by Antifarea:
+    - captain
+    - cultist
+    - merchant
+    - nun
+    - pirate
+    - priest
