@@ -66,6 +66,9 @@ Reworked by Jordan Irwin (a.k.a. AntumDeluge):
   - Licensed under [CC BY 3.0][]:
     - [tent](tileset/tent) (based on [Tent by xhunterko](https://opengameart.org/node/55237))
 
+Collections:
+- [antifarea](sprite/collection/antifarea/sources.md) ([CC BY 3.0][])
+
 Other resources:
 - items & icons:
   - by [Bevouliin - Imaginary Perception](http://bevouliin.com/)
