@@ -21,3 +21,13 @@
     - swamp_creature
     - vampire
     - werewolf
+  - [16x18 Zombie Characters + Templates + Extra Template](https://opengameart.org/node/5618) (CC BY 3.0) by Charles Gabriel (Antifarea):
+    - zombie-1
+    - zombie-2
+    - zombie-3
+    - zombie-4
+    - zombie-5
+    - zombie-f-1
+    - zombie-f-2
+    - zombie-m-1
+    - zombie-m-2
