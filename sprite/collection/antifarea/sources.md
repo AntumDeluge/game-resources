@@ -1,5 +1,5 @@
 - character
-  - [Twelve 16x18 RPG character sprites (including NPCs and elementals)](https://opengameart.org/node/3393) (CC BY 3.0) by Antifarea:
+  - [Twelve 16x18 RPG character sprites (including NPCs and elementals)](https://opengameart.org/node/3393) (CC BY 3.0) by Charles Gabriel (Antifarea):
     - captain
     - cultist
     - merchant
@@ -7,10 +7,17 @@
     - pirate
     - priest
 - elemental
-  - [Twelve 16x18 RPG character sprites (including NPCs and elementals)](https://opengameart.org/node/3393) (CC BY 3.0) by Antifarea:
+  - [Twelve 16x18 RPG character sprites (including NPCs and elementals)](https://opengameart.org/node/3393) (CC BY 3.0) by Charles Gabriel (Antifarea):
     - dark_elemental
     - earth_elemental
     - fire_elemental
     - light_elemental
     - water_elemental
     - wind_elemental
+- monster
+  - [Halloween gift for OGA](https://opengameart.org/node/4125) (CC BY 3.0) by Charles Gabriel (Antifarea):
+    - frankenstein
+    - mummy
+    - swamp_creature
+    - vampire
+    - werewolf
