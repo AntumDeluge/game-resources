@@ -1,3 +1,6 @@
+- animal
+  - [](https://opengameart.org/node/4031) (CC BY 3.0) by Stephen Challener (Redshrike):
+    - rat
 - character
   - [Twelve 16x18 RPG character sprites (including NPCs and elementals)](https://opengameart.org/node/3393) (CC BY 3.0) by Charles Gabriel (Antifarea):
     - captain
@@ -31,3 +34,5 @@
     - zombie-f-2
     - zombie-m-1
     - zombie-m-2
+  - [](https://opengameart.org/node/4031) (CC BY 3.0) by Stephen Challener (Redshrike):
+    - rat_king
