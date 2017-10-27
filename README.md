@@ -73,7 +73,7 @@ Other resources:
   - by David Revoy
     - https://opengameart.org/node/74802
   - by DoubleU Creativity:
-    - robot [CC BY 3.0][]: https://opengameart.org/node/52537
+    - spacebot [CC BY 3.0][]: https://opengameart.org/node/52537
   - by Stephen Challener (Redshrike), Johannes Sjölund, & Nila122
     - dark_soldier [CC BY-SA 3.0][]: https://opengameart.org/node/12858
     - golem [OGA BY 3.0][]: https://opengameart.org/node/6262
