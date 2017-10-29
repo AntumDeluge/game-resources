@@ -68,6 +68,7 @@ Reworked by Jordan Irwin (a.k.a. AntumDeluge):
 
 Collections:
 - [antifarea](collection/antifarea/sources.md) ([CC BY 3.0][])
+- [cabbit](collection/cabbit/sources.md)
 
 Other resources:
 - items & icons:
