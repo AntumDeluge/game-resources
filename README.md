@@ -67,7 +67,7 @@ Reworked by Jordan Irwin (a.k.a. AntumDeluge):
     - [tent](tileset/tent) (based on [Tent by xhunterko](https://opengameart.org/node/55237))
 
 Collections:
-- [antifarea](sprite/collection/antifarea/sources.md) ([CC BY 3.0][])
+- [antifarea](collection/antifarea/sources.md) ([CC BY 3.0][])
 
 Other resources:
 - items & icons:
