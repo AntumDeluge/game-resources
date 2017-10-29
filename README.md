@@ -75,6 +75,8 @@ Other resources:
   - by [Bevouliin - Imaginary Perception](http://bevouliin.com/)
     - https://opengameart.org/node/67847 (swords_CC0)
 - sprites & facesets:
+  - artisticdude
+    - myling [CC0][]: https://opengameart.org/node/6669
   - by David Revoy
     - https://opengameart.org/node/74802
   - by DoubleU Creativity:
