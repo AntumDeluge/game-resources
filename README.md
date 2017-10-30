@@ -89,6 +89,8 @@ Other resources:
     - redshrik_characters [OGA BY 3.0][]: https://opengameart.org/node/22748
     - https://opengameart.org/node/4031
     - https://opengameart.org/node/5215
+  - by Stephen Challener (Redshrike) & William.Thompsonj
+    - wolf [OGA BY 3.0][]: https://opengameart.org/node/20830
   - by [Svetlana Kushnariova][]
     - https://opengameart.org/node/24823
     - https://opengameart.org/node/50909
