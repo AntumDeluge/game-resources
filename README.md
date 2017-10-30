@@ -75,10 +75,12 @@ Other resources:
   - by [Bevouliin - Imaginary Perception](http://bevouliin.com/)
     - https://opengameart.org/node/67847 (swords_CC0)
 - sprites & facesets:
-  - artisticdude
+  - by artisticdude
     - myling [CC0][]: https://opengameart.org/node/6669
   - by David Revoy
     - https://opengameart.org/node/74802
+  - by Dominik Gmiterko (ienze):
+    - crab [CC BY 3.0][]: https://opengameart.org/node/6270
   - by DoubleU Creativity:
     - spacebot [CC BY 3.0][]: https://opengameart.org/node/52537
   - by Stephen Challener (Redshrike), Johannes Sjölund, & Nila122
