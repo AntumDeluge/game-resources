@@ -8,4 +8,5 @@ Cabbit collection sources:
   - [24x32 Characters Lying Down](https://opengameart.org/node/72611) by Cabbit & diamonddgirl
   - [24x32 characters with faces (big pack)](https://opengameart.org/node/24823) by Cabbit
   - [24x32 heroine Lyuba (sprites, faces, pictures)](https://opengameart.org/node/50909) by Cabbit
+  - [24x32 Pepper&Carrot Characters](https://opengameart.org/node/74802) by diamonddgirl
   - [Edited and Extended 24x32 Character Pack](https://opengameart.org/node/66147) by Cabbit & diamonddgirl
