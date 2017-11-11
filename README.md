@@ -43,7 +43,7 @@ Created by Jordan Irwin (a.k.a. AntumDeluge):
   - tileset:
     - [mushroom_houses](tileset/mushroom_houses)
 
-Reworked by Jordan Irwin (a.k.a. AntumDeluge):
+Reworked by Jordan Irwin (AntumDeluge):
 - sprite:
   - Licensed under [CC0 1.0][]:
     - [chick](sprite/animal/chick) (based on [Chicken Sprites by Shepardskin](https://opengameart.org/content/chicken-sprites))
@@ -63,6 +63,8 @@ Reworked by Jordan Irwin (a.k.a. AntumDeluge):
   - Licensed under [OGA BY 3.0][]:
     - [bat](sprite/animal/bat) ([bat by bagzie](https://opengameart.org/node/26447))
 - tileset:
+  - Licenced under [CC0 1.0][]:
+    - [rotating_orbs](tileset/rotating_orbs) (based on [Shiny Orbs 64x64]() by Robert C. (Mumu))
   - Licensed under [CC BY 3.0][]:
     - [tent](tileset/tent) (based on [Tent by xhunterko](https://opengameart.org/node/55237))
 
