@@ -33,7 +33,7 @@
 ### **Licensing:**
 
 Created by Jordan Irwin (AntumDeluge):
-- Licensed under [CC BY 3.0][]:
+- Licensed under [OGA BY 3.0][] &/or [CC BY 3.0][]:
   - icon:
     - [antipoison_rings](icon/antipoison_rings)
   - sprite:
@@ -43,6 +43,7 @@ Created by Jordan Irwin (AntumDeluge):
   - tileset:
     - [mushroom_houses](tileset/mushroom_houses)
     - [tables_&_stools](tileset/tables_&_stools)
+    - [torch](tileset/torch)
 
 Reworked by Jordan Irwin (AntumDeluge):
 - sprite:
