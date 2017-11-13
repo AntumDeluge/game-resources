@@ -32,7 +32,7 @@
 
 ### **Licensing:**
 
-Created by Jordan Irwin (a.k.a. AntumDeluge):
+Created by Jordan Irwin (AntumDeluge):
 - Licensed under [CC BY 3.0][]:
   - icon:
     - [antipoison_rings](icon/antipoison_rings)
@@ -42,6 +42,7 @@ Created by Jordan Irwin (a.k.a. AntumDeluge):
     - [minotaur](sprite/creature/minotaur) (work-in-progress)
   - tileset:
     - [mushroom_houses](tileset/mushroom_houses)
+    - [tables_&_stools](tileset/tables_&_stools)
 
 Reworked by Jordan Irwin (AntumDeluge):
 - sprite:
