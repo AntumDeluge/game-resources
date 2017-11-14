@@ -21,6 +21,7 @@
 ![gnome](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/sprite/creature/gnome/preview.gif)
 ![antipoison_rings](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/icon/antipoison_rings/preview.png)
 ![mushroom_houses](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/tileset/mushroom_houses/preview.png)
+![tables_&_stools](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/tileset/tables_&_stools/preview-1.png)
 ![tent](https://raw.githubusercontent.com/AntumDeluge/game-resources/master/tileset/tent/preview.png)
 
 
