@@ -107,6 +107,9 @@ Other resources:
     - https://opengameart.org/node/72198
   - by [Warlock's Gauntlet team](https://musztardasarepska.pl/wgdown/)
     - https://opengameart.org/node/17442
+- tilesets:
+  - by [RedVoxel](https://opengameart.org/user/48490)
+    - skeleton [CC BY 3.0][] (source: [The Spookiest Skeleton](https://opengameart.org/node/77815))
 
 
 [CC0 1.0]: docs/licenses/CC0-1.0.txt
