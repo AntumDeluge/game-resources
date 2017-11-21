@@ -39,6 +39,7 @@ Created by Jordan Irwin (AntumDeluge):
   - icon:
     - [antipoison_rings](icon/antipoison_rings)
   - sprite:
+    - [butterfly](sprite/animal/butterfly)
     - [cobra](sprite/animal/cobra) (work-in-progress)
     - [king_cobra](sprite/animal/king_cobra) (work-in-progress)
     - [minotaur](sprite/creature/minotaur) (work-in-progress)
