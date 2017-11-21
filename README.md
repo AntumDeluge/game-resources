@@ -72,6 +72,9 @@ Reworked by Jordan Irwin (AntumDeluge):
     - [rotating_orbs](tileset/rotating_orbs) (based on [Shiny Orbs 64x64]() by Robert C. (Mumu))
   - Licensed under [CC BY 3.0][]:
     - [tent](tileset/tent) (based on [Tent by xhunterko](https://opengameart.org/node/55237))
+  - Licensed under [CC BY-SA 3.0][]:
+    - [ship](tileset/ship) [CC BY-SA 3.0][] (based on: [[LPC] Wooden ship tiles](https://opengameart.org/node/38270) by Tuomo Untinen)
+
 
 Collections:
 - [antifarea](collection/antifarea/sources.md) ([CC BY 3.0][])
