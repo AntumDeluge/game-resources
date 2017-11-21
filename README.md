@@ -83,7 +83,7 @@ Other resources:
     - https://opengameart.org/node/67847 (swords_CC0)
 - sprites & facesets:
   - by artisticdude
-    - myling [CC0][]: https://opengameart.org/node/6669
+    - myling [CC0 1.0][]: https://opengameart.org/node/6669
   - by David Revoy
     - https://opengameart.org/node/74802
   - by Dominik Gmiterko (ienze):
