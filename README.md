@@ -111,6 +111,8 @@ Other resources:
 - tilesets:
   - by [RedVoxel](https://opengameart.org/user/48490)
     - skeleton [CC BY 3.0][] (source: [The Spookiest Skeleton](https://opengameart.org/node/77815))
+  - by [Tuomo Untinen (Reemax)](https://opengameart.org/user/5257)
+    - [ship](tileset/ship) [CC BY-SA 3.0][] (source: [[LPC] Wooden ship tiles](https://opengameart.org/node/38270))
 
 
 [CC0 1.0]: docs/licenses/CC0-1.0.txt
