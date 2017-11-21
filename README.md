@@ -44,6 +44,7 @@ Created by Jordan Irwin (AntumDeluge):
     - [king_cobra](sprite/animal/king_cobra) (work-in-progress)
     - [minotaur](sprite/creature/minotaur) (work-in-progress)
   - tileset:
+    - [cannon](tileset/cannon) (based on CC0 vector image [cannon](https://openclipart.org/detail/170842) by hatalar205)
     - [mushroom_houses](tileset/mushroom_houses)
     - [tables_&_stools](tileset/tables_&_stools)
     - [torch](tileset/torch)
