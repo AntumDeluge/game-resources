@@ -36,6 +36,7 @@
 
 Created by Jordan Irwin (AntumDeluge):
 - Licensed under [CC0 1.0][]:
+  - [food](tileset/food) ([OGA](https://opengameart.org/node/20711))
   - [mounted_swordfish](tileset/building/decor) (based on vector image [Xiphias Gladius](https://openclipart.org/detail/70381))
   - [corpse](tileset/corpse) ([OGA](https://opengameart.org/node/79121))
 - Licensed under [OGA BY 3.0][] &/or [CC BY 3.0][]:
