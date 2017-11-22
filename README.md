@@ -73,6 +73,7 @@ Reworked by Jordan Irwin (AntumDeluge):
 - tileset:
   - Licenced under [CC0 1.0][]:
     - [rotating_orbs](tileset/rotating_orbs) (based on [Shiny Orbs 64x64]() by Robert C. (Mumu))
+    - [wooden_bench](tileset/bench) (reworked from [Mage City Arcanos](https://opengameart.org/node/11192) by Hyptosis)
   - Licensed under [CC BY 3.0][]:
     - [tent](tileset/tent) (based on [Tent by xhunterko](https://opengameart.org/node/55237))
   - Licensed under [CC BY-SA 3.0][]:
