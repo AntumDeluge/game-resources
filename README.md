@@ -48,6 +48,7 @@ Created by Jordan Irwin (AntumDeluge):
     - [mushroom_houses](tileset/mushroom_houses)
     - [tables_&_stools](tileset/tables_&_stools)
     - [torch](tileset/torch)
+    - [wooden_stairs-ns](tileset/building/stairs)
 
 Reworked by Jordan Irwin (AntumDeluge):
 - sprite:
