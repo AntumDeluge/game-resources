@@ -52,7 +52,7 @@ Created by Jordan Irwin (AntumDeluge):
     - [drapes](tileset/drapes) ([OGA](https://opengameart.org/node/79123))
     - [mushroom_houses](tileset/mushroom_houses)
     - [rope_ladder](tileset/rope_ladder)
-    - [stone_terrain](tileset/terrain/stone)
+    - [stone_terrain](tileset/terrain/stone) ([OGA](https://opengameart.org/node/79141))
     - [tables_&_stools](tileset/tables_&_stools)
     - [torch](tileset/torch)
     - [wooden_stairs-ns](tileset/building/stairs)
