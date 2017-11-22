@@ -37,33 +37,34 @@
 Created by Jordan Irwin (AntumDeluge):
 - Licensed under [CC0 1.0][]:
   - [food](tileset/food) ([OGA](https://opengameart.org/node/20711))
-  - [mounted_swordfish](tileset/building/decor) (based on vector image [Xiphias Gladius](https://openclipart.org/detail/70381))
+  - [mounted_swordfish](tileset/building/decor) ([OGA](https://opengameart.org/node/79120))
   - [corpse](tileset/corpse) ([OGA](https://opengameart.org/node/79121))
 - Licensed under [OGA BY 3.0][] &/or [CC BY 3.0][]:
   - icon:
-    - [antipoison_rings](icon/antipoison_rings)
+    - [antipoison_rings](icon/antipoison_rings) ([OGA](https://opengameart.org/node/20712))
   - sprite:
-    - [butterfly](sprite/animal/butterfly)
-    - [cobra](sprite/animal/cobra) (work-in-progress)
-    - [king_cobra](sprite/animal/king_cobra) (work-in-progress)
-    - [minotaur](sprite/creature/minotaur) (work-in-progress)
+    - [butterfly](sprite/animal/butterfly) ([OGA](https://opengameart.org/node/79095))
+    - cobra ([OGA](https://opengameart.org/node/20678))
+      - [cobra](sprite/animal/cobra) (work-in-progress)
+      - [king_cobra](sprite/animal/king_cobra) (work-in-progress)
+    - [minotaur](sprite/creature/minotaur) ([OGA](https://opengameart.org/node/76913)) (work-in-progress)
   - tileset:
-    - [cannon](tileset/cannon) (based on CC0 vector image [cannon](https://openclipart.org/detail/170842) by hatalar205)
+    - [cannon](tileset/cannon) ([OGA](https://opengameart.org/node/79098))
     - [drapes](tileset/drapes) ([OGA](https://opengameart.org/node/79123))
-    - [mushroom_houses](tileset/mushroom_houses)
+    - [mushroom_houses](tileset/mushroom_houses) ([OGA](https://opengameart.org/node/20713))
     - [rope_ladder](tileset/rope_ladder) ([OGA](https://opengameart.org/node/79116))
     - [stone_terrain](tileset/terrain/stone) ([OGA](https://opengameart.org/node/79141))
-    - [tables_&_stools](tileset/tables_&_stools)
-    - [torch](tileset/torch)
-    - [wooden_stairs-ns](tileset/building/stairs)
+    - [tables_&_stools](tileset/tables_&_stools) ([OGA](https://opengameart.org/node/20715))
+    - [torch](tileset/torch) ([OGA](https://opengameart.org/node/20714))
+    - [wooden_stairs-ns](tileset/building/stairs) ([OGA](https://opengameart.org/node/79115))
 
 Reworked by Jordan Irwin (AntumDeluge):
 - sprite:
   - Licensed under [CC0 1.0][]:
-    - [chick](sprite/animal/chick) (based on [Chicken Sprites by Shepardskin](https://opengameart.org/content/chicken-sprites))
+    - [chick](sprite/animal/chick) (based on [Chicken Sprites by Shepardskin](https://opengameart.org/node/21393))
     - [gnome](sprite/creature/gnome) (based on [Green Cap Character 16x18](https://opengameart.org/node/66252) by isaiah658)
     - [hat-001 (chef hat)](sprite/character/outfit/PNG/24x32/hat-001.png) (based on [Pig Chef [48x48]](https://opengameart.org/node/69527) by One Man Army
-    - [mage](sprite/character/mage) (based on [Mage Sprites by Sollision](https://opengameart.org/content/mage-sprites-idle-and-walking))
+    - [mage](sprite/character/mage) (based on [Mage Sprites by Sollision](https://opengameart.org/node/52761))
   - Licensed under [CC BY 3.0][]:
     - [orc](sprite/creature/orc) (based on [Muscleman/Ogre/Minotaur](https://opengameart.org/node/24876) by Tuomo Untinen (Reemax))
     - [spaceman](sprite/character/spaceman) (based on [Space Bot](https://opengameart.org/node/52537) by DoubleU Creativity)
@@ -71,7 +72,7 @@ Reworked by Jordan Irwin (AntumDeluge):
   - Licensed under [CC BY-SA 3.0][]:
     - [cat](sprite/animal/cat) ([[LPC] Cats and Dogs by bluecarrot16](https://opengameart.org/node/69399))
     - cat (alternate) ([[LPC] Rat, Cat and Dog](https://opengameart.org/node/39573) by Tuomo Untinen (Reemax))
-    - [horse](sprite/animal/horse) (based on [LPC Horses by bluecarrot16](https://opengameart.org/content/lpc-horses))
+    - [horse](sprite/animal/horse) (based on [LPC Horses by bluecarrot16](https://opengameart.org/node/69398))
     - [human_LPC](sprite/character/human_LPC) ([source](https://opengameart.org/node/32390))
     - [rabbit_LPC](sprite/animal/rabbit_LPC) ([Bunny Rabbit LPC style for PixelFarm](https://opengameart.org/node/14851) Stephen Challener (Redshrike))
   - Licensed under [OGA BY 3.0][]:
