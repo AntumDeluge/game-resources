@@ -51,7 +51,7 @@ Created by Jordan Irwin (AntumDeluge):
     - [cannon](tileset/cannon) (based on CC0 vector image [cannon](https://openclipart.org/detail/170842) by hatalar205)
     - [drapes](tileset/drapes) ([OGA](https://opengameart.org/node/79123))
     - [mushroom_houses](tileset/mushroom_houses)
-    - [rope_ladder](tileset/rope_ladder)
+    - [rope_ladder](tileset/rope_ladder) ([OGA](https://opengameart.org/node/79116))
     - [stone_terrain](tileset/terrain/stone) ([OGA](https://opengameart.org/node/79141))
     - [tables_&_stools](tileset/tables_&_stools)
     - [torch](tileset/torch)
