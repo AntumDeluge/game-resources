@@ -46,6 +46,7 @@ Created by Jordan Irwin (AntumDeluge):
   - tileset:
     - [cannon](tileset/cannon) (based on CC0 vector image [cannon](https://openclipart.org/detail/170842) by hatalar205)
     - [mushroom_houses](tileset/mushroom_houses)
+    - [rope_ladder](tileset/rope_ladder)
     - [tables_&_stools](tileset/tables_&_stools)
     - [torch](tileset/torch)
     - [wooden_stairs-ns](tileset/building/stairs)
