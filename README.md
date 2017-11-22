@@ -123,6 +123,8 @@ Other resources:
   - by [Warlock's Gauntlet team](https://musztardasarepska.pl/wgdown/)
     - https://opengameart.org/node/17442
 - tilesets:
+  - by durkham
+   - [red_paving](tileset/terrain/red_paving) [GPL 2.0][] (source: [Stendhal Project](https://github.com/arianne/stendhal/blob/1de18c7/tiled/tileset/ground/red_paving.png))
   - by [RedVoxel](https://opengameart.org/user/48490)
     - skeleton [CC BY 3.0][] (source: [The Spookiest Skeleton](https://opengameart.org/node/77815))
   - by [Tuomo Untinen (Reemax)](https://opengameart.org/user/5257)
@@ -132,6 +134,7 @@ Other resources:
 [CC0 1.0]: docs/licenses/CC0-1.0.txt
 [CC BY 3.0]: LICENSE.txt
 [CC BY-SA 3.0]: docs/licenses/CC-BY-SA-3.0.txt
+[GPL 2.0]: docs/licenses/GPL-2.0.txt
 [OGA BY 3.0]: docs/licenses/OGA-BY-3.0.txt
 
 [Svetlana Kushnariova]: mailto:lana-chan@yandex.ru
