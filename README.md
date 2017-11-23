@@ -127,6 +127,8 @@ Other resources:
   - by Crack.com
     - [brick_wall](texture/brick_wall) [CC0 1.0][] (source: [OGA](https://opengameart.org/node/2048))
 - tilesets:
+  - by Tomas Sobek
+    - [buddha](tileset/statue/buddha) [CCO 1.0][] (source: [Golden Buddha](https://openclipart.org/detail/79567))
   - by durkham
     - [red_paving](tileset/terrain/red_paving) [GPL 2.0][] (source: [Stendhal Project](https://github.com/arianne/stendhal/blob/1de18c7/tiled/tileset/ground/red_paving.png))
   - by [RedVoxel](https://opengameart.org/user/48490)
