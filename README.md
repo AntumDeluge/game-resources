@@ -122,9 +122,12 @@ Other resources:
     - https://opengameart.org/node/72198
   - by [Warlock's Gauntlet team](https://musztardasarepska.pl/wgdown/)
     - https://opengameart.org/node/17442
+- textures:
+  - by Crack.com
+    - [brick_wall](texture/brick_wall) [CC0 1.0][] (source: [OGA](https://opengameart.org/node/2048))
 - tilesets:
   - by durkham
-   - [red_paving](tileset/terrain/red_paving) [GPL 2.0][] (source: [Stendhal Project](https://github.com/arianne/stendhal/blob/1de18c7/tiled/tileset/ground/red_paving.png))
+    - [red_paving](tileset/terrain/red_paving) [GPL 2.0][] (source: [Stendhal Project](https://github.com/arianne/stendhal/blob/1de18c7/tiled/tileset/ground/red_paving.png))
   - by [RedVoxel](https://opengameart.org/user/48490)
     - skeleton [CC BY 3.0][] (source: [The Spookiest Skeleton](https://opengameart.org/node/77815))
   - by [Tuomo Untinen (Reemax)](https://opengameart.org/user/5257)
