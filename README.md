@@ -80,6 +80,7 @@ Reworked by Jordan Irwin (AntumDeluge):
     - [bat](sprite/animal/bat) ([bat by bagzie](https://opengameart.org/node/26447))
 - tileset:
   - Licenced under [CC0 1.0][]:
+    - [barrels](tileset/barrels) (reworked from [Mage City Arcanos](https://opengameart.org/node/11192))
     - [rotating_orbs](tileset/rotating_orbs) (based on [Shiny Orbs 64x64]() by Robert C. (Mumu))
     - [wooden_bench](tileset/bench) (reworked from [Mage City Arcanos](https://opengameart.org/node/11192) by Hyptosis)
   - Licensed under [CC BY 3.0][]:
