@@ -37,6 +37,7 @@
 Created by Jordan Irwin (AntumDeluge):
 - Licensed under [CC0 1.0][]:
   - [food](tileset/food) ([OGA](https://opengameart.org/node/20711))
+  - [huge_pot](tileset/huge_pot) ([OGA](https://opengameart.org/node/79171))
   - [mounted_swordfish](tileset/building/decor) ([OGA](https://opengameart.org/node/79120))
   - [corpse](tileset/corpse) ([OGA](https://opengameart.org/node/79121))
   - [ukulele](tileset/instrument) ([OGA](https://opengameart.org/node/79149))
