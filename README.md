@@ -125,6 +125,8 @@ Other resources:
     - https://opengameart.org/node/72198
   - by [Warlock's Gauntlet team](https://musztardasarepska.pl/wgdown/)
     - https://opengameart.org/node/17442
+  - by ZaPaper:
+    - [dragon](sprite/creature/dragon) [CC BY 3.0][] ([OGA](https://opengameart.org/node/79018))
 - textures:
   - by Crack.com
     - [brick_wall](texture/brick_wall) [CC0 1.0][] (source: [OGA](https://opengameart.org/node/2048))
