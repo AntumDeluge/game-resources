@@ -131,6 +131,9 @@ Other resources:
   - by Crack.com
     - [brick_wall](texture/brick_wall) [CC0 1.0][] (source: [OGA](https://opengameart.org/node/2048))
 - tilesets:
+  - by [Daniel Eddeland (daneeklu)](https://opengameart.org/user/2667)
+    - [rowboat](tileset/rowboat) [CC BY-SA 3.0][] (source: [[LPC] Farming tilesets, magic animations and UI 
+elements](https://opengameart.org/node/11117))
   - by Tomas Sobek
     - [buddha](tileset/statue/buddha) [CCO 1.0][] (source: [Golden Buddha](https://openclipart.org/detail/79567))
   - by durkham
