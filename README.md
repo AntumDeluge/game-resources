@@ -93,6 +93,7 @@ Reworked by Jordan Irwin (AntumDeluge):
 Collections:
 - [antifarea](collection/antifarea/sources.md) ([CC BY 3.0][])
 - [cabbit](collection/cabbit/sources.md)
+- [lpc](collection/lpc/sources.md)
 
 Other resources:
 - items & icons:
