@@ -74,6 +74,8 @@ Reworked by Jordan Irwin (AntumDeluge):
   - Licensed under [CC BY-SA 3.0][]:
     - [cat](sprite/animal/cat) ([[LPC] Cats and Dogs by bluecarrot16](https://opengameart.org/node/69399))
     - cat (alternate) ([[LPC] Rat, Cat and Dog](https://opengameart.org/node/39573) by Tuomo Untinen (Reemax))
+    - [centaur](sprite/creature/centaur)
+      - Based on [LPC Horses](https://opengameart.org/node/69398) by bluecarrot16 & [24x32 bases](https://opengameart.org/node/24944) by Svetlana Kushnariova.
     - [horse](sprite/animal/horse) (based on [LPC Horses by bluecarrot16](https://opengameart.org/node/69398))
     - [human_LPC](sprite/character/human_LPC) ([source](https://opengameart.org/node/32390))
     - [rabbit_LPC](sprite/animal/rabbit_LPC) ([Bunny Rabbit LPC style for PixelFarm](https://opengameart.org/node/14851) Stephen Challener (Redshrike))
