@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="401" height="271" viewBox="-.5 -.5 401 271">
+	<g stroke="#000" stroke-width="1">
+		<rect x="70" width="60" height="270" fill="#fff"/>
+		<rect x="270" width="60" height="270" fill="#fff"/>
+		<path d="M 100,0 v 270 M 300,0 v 270 M 70,30 h 260 M 70,60 h 260 M 70,90 h 260 M 70,120 h 260 M 70,150 h 260 M 70,180 h 260 M 70,210 h 260 M 70,240 h 260"/>
+		<rect width="70" height="30" fill="#f4f2f5"/>
+		<rect y="30" width="70" height="30" fill="#ecebe9"/>
+		<rect y="60" width="70" height="30" fill="#faf9f7"/>
+		<rect y="90" width="70" height="30" fill="#fdfbe6"/>
+		<rect y="120" width="70" height="30" fill="#fdf6e6"/>
+		<rect y="150" width="70" height="30" fill="#fef7e5"/>
+		<rect y="180" width="70" height="30" fill="#faf0ef"/>
+		<rect y="210" width="70" height="30" fill="#f3eae5"/>
+		<rect y="240" width="70" height="30" fill="#f4f1ea"/>
+		<rect x="130" width="70" height="30" fill="#fbfcf4"/>
+		<rect x="130" y="30" width="70" height="30" fill="#fcf8ed"/>
+		<rect x="130" y="60" width="70" height="30" fill="#fef6e1"/>
+		<rect x="130" y="90" width="70" height="30" fill="#fff9e1"/>
+		<rect x="130" y="120" width="70" height="30" fill="#fff9e1"/>
+		<rect x="130" y="150" width="70" height="30" fill="#f1e7c3"/>
+		<rect x="130" y="180" width="70" height="30" fill="#efe2ad"/>
+		<rect x="130" y="210" width="70" height="30" fill="#e0d293"/>
+		<rect x="130" y="240" width="70" height="30" fill="#f2e297"/>
+		<rect x="200" width="70" height="30" fill="#ebd69f"/>
+		<rect x="200" y="30" width="70" height="30" fill="#ebd985"/>
+		<rect x="200" y="60" width="70" height="30" fill="#e3c467"/>
+		<rect x="200" y="90" width="70" height="30" fill="#e1c16a"/>
+		<rect x="200" y="120" width="70" height="30" fill="#dfc17b"/>
+		<rect x="200" y="150" width="70" height="30" fill="#deb877"/>
+		<rect x="200" y="180" width="70" height="30" fill="#c7a464"/>
+		<rect x="200" y="210" width="70" height="30" fill="#bc9762"/>
+		<rect x="200" y="240" width="70" height="30" fill="#9c6b43"/>
+		<rect x="330" width="70" height="30" fill="#8e583e"/>
+		<rect x="330" y="30" width="70" height="30" fill="#794d30"/>
+		<rect x="330" y="60" width="70" height="30" fill="#643116"/>
+		<rect x="330" y="90" width="70" height="30" fill="#653020"/>
+		<rect x="330" y="120" width="70" height="30" fill="#603121"/>
+		<rect x="330" y="150" width="70" height="30" fill="#573229"/>
+		<rect x="330" y="180" width="70" height="30" fill="#402015"/>
+		<rect x="330" y="210" width="70" height="30" fill="#312529"/>
+		<rect x="330" y="240" width="70" height="30" fill="#1b1c2e"/>
+	</g>
+	<g fill="#000" font-family="Times New Roman" font-size="22" text-anchor="middle">
+		<text x="85" y="22.5">1</text>
+		<text x="85" y="52.5">2</text>
+		<text x="85" y="82.5">3</text>
+		<text x="85" y="112.5">4</text>
+		<text x="85" y="142.5">5</text>
+		<text x="85" y="172.5">6</text>
+		<text x="85" y="202.5">7</text>
+		<text x="85" y="232.5">8</text>
+		<text x="85" y="262.5">9</text>
+		<text x="115" y="22.5">10</text>
+		<text x="115" y="52.5">11</text>
+		<text x="115" y="82.5">12</text>
+		<text x="115" y="112.5">13</text>
+		<text x="115" y="142.5">14</text>
+		<text x="115" y="172.5">15</text>
+		<text x="115" y="202.5">16</text>
+		<text x="115" y="232.5">17</text>
+		<text x="115" y="262.5">18</text>
+		<text x="285" y="22.5">19</text>
+		<text x="285" y="52.5">20</text>
+		<text x="285" y="82.5">21</text>
+		<text x="285" y="112.5">22</text>
+		<text x="285" y="142.5">23</text>
+		<text x="285" y="172.5">24</text>
+		<text x="285" y="202.5">25</text>
+		<text x="285" y="232.5">26</text>
+		<text x="285" y="262.5">27</text>
+		<text x="315" y="22.5">28</text>
+		<text x="315" y="52.5">29</text>
+		<text x="315" y="82.5">30</text>
+		<text x="315" y="112.5">31</text>
+		<text x="315" y="142.5">32</text>
+		<text x="315" y="172.5">33</text>
+		<text x="315" y="202.5">34</text>
+		<text x="315" y="232.5">35</text>
+		<text x="315" y="262.5">36</text>
+	</g>
+</svg>
