@@ -96,6 +96,7 @@ Collections:
 - [antifarea](collection/antifarea/sources.md) ([CC BY 3.0][])
 - [cabbit](collection/cabbit/sources.md)
 - [lpc](collection/lpc/sources.md)
+- [silveira_neto](collection/silveira_neto/sources.md)
 
 Other resources:
 - items & icons:
@@ -143,9 +144,6 @@ elements](https://opengameart.org/node/11117))
     - [red_paving](tileset/terrain/red_paving) [GPL 2.0][] (source: [Stendhal Project](https://github.com/arianne/stendhal/blob/1de18c7/tiled/tileset/ground/red_paving.png))
   - by [RedVoxel](https://opengameart.org/user/48490)
     - skeleton [CC BY 3.0][] (source: [The Spookiest Skeleton](https://opengameart.org/node/77815))
-  - by [Silveira Neto](http://silveiraneto.net/)
-    - [silveira_neto](tileset/silveira_neto) [CC BY-SA 2.5][] ([source](http://silveiraneto.net/2009/07/31/my-free-tileset-version-10))
-([source](http://silveiraneto.net/2008/12/31/my-free-tileset-version-6))
   - by [Tuomo Untinen (Reemax)](https://opengameart.org/user/5257)
     - [ship](tileset/ship) [CC BY-SA 3.0][] (source: [[LPC] Wooden ship tiles](https://opengameart.org/node/38270))
 
