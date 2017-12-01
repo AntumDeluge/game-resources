@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Create Palette version 1.0
+# Create Palette version 1.1
 #
 # Script for creating a color palette file from an indexed image.
 # Supports formats supported by ImageMagick.
@@ -43,12 +43,12 @@ echo
 # STEP 1: Create the palette (includes transparency of source image)
 # Arguments:
 #   -colors 256: Make 8-bit palette
-#   -unique-colors: Unknown
+#   -unique-colors: Create palette-like image
 #   -scale 1000%: Creates 10x10 pixel tiles
 #   -type PaletteAlpha: Ensures that output image has an alpha channel
 #   -alpha activate: Ensures that output image has an alpha channel (unused)
-#convert "${SOURCE}" -verbose -colors 256 -unique-colors -scale 1000% -alpha activate "${PTARGET}"
-convert "${SOURCE}" -verbose -colors 256 -unique-colors -scale 1000% -type PaletteAlpha "${PTARGET}"
+#convert -verbose “${SOURCE}" -colors 256 -unique-colors -scale 1000% -alpha activate "${PTARGET}"
+convert -verbose "${SOURCE}" -colors 256 -unique-colors -scale 1000% -type PaletteAlpha "${PTARGET}"
 
 # FIXME: Getting return code from "convert" executable doesn't seem to
 # work, so we check if palette exists.
@@ -65,7 +65,7 @@ fi
 # Arguments:
 #   -bordercolor none: Makes transparent border
 #   -border 5: Creates a 5px border (must be called AFTER -bordercolor)
-convert "${PTARGET}" -verbose -bordercolor none -border 5 "${PTARGET}"
+convert -verbose "${PTARGET}" -bordercolor none -border 5 "${PTARGET}"
 
 # FIXME: Currently does nothing here.
 RET=$?
@@ -82,7 +82,7 @@ fi
 #     (appears that alpha channel is removed with '-trim', but we call
 #      '-alpha deactivate' just to be sure)
 #   -alpha deactivate: Ensures that alpha channel is removed
-convert "${PTARGET}" -verbose -trim -alpha deactivate "${PTARGET}"
+convert -verbose "${PTARGET}" -trim -alpha deactivate "${PTARGET}"
 
 # FIXME: Currently does nothing here.
 RET=$?
