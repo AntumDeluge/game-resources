@@ -45,8 +45,10 @@ echo
 #   -colors 256: Make 8-bit palette
 #   -unique-colors: Unknown
 #   -scale 1000%: Creates 10x10 pixel tiles
-#   -alpha activate: Ensures that output image has an alpha channel
-convert "${SOURCE}" -verbose -colors 256 -unique-colors -scale 1000% -alpha activate "${PTARGET}"
+#   -type PaletteAlpha: Ensures that output image has an alpha channel
+#   -alpha activate: Ensures that output image has an alpha channel (unused)
+#convert "${SOURCE}" -verbose -colors 256 -unique-colors -scale 1000% -alpha activate "${PTARGET}"
+convert "${SOURCE}" -verbose -colors 256 -unique-colors -scale 1000% -type PaletteAlpha "${PTARGET}"
 
 # FIXME: Getting return code from "convert" executable doesn't seem to
 # work, so we check if palette exists.
