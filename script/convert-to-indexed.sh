@@ -34,7 +34,7 @@ for IMG in ${SOURCE}; do
 
     # Step 1: Remove semi-transparency from pixels.
     # Arguments:
-    convert -verbose "${IMG}" -define png:color-type=6 -channel Alpha -threshold 20% "${IMG}"
+    #convert -verbose "${IMG}" -define png:color-type=6 -channel Alpha -threshold 20% "${IMG}"
 
 
     echo
