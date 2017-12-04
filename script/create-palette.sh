@@ -47,8 +47,10 @@ echo
 #   -scale 1000%: Creates 10x10 pixel tiles
 #   -type PaletteAlpha: Ensures that output image has an alpha channel
 #   -alpha activate: Ensures that output image has an alpha channel (unused)
+#   -crop 120x10: Maximum 12 colors per row
+#   -append: Merge rows into a single image
 #convert -verbose “${SOURCE}" -colors 256 -unique-colors -scale 1000% -alpha activate "${PTARGET}"
-convert -verbose "${SOURCE}" -colors 256 -unique-colors -scale 1000% -type PaletteAlpha "${PTARGET}"
+convert -verbose "${SOURCE}" -colors 256 -unique-colors -scale 1000% -crop 120x10 -append -type PaletteAlpha "${PTARGET}"
 
 # FIXME: Getting return code from "convert" executable doesn't seem to
 # work, so we check if palette exists.
