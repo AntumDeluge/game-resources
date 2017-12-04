@@ -42,13 +42,13 @@ echo
 
 # STEP 1: Create the palette (includes transparency of source image)
 # Arguments:
-#   -colors 256: Make 8-bit palette
+#   -colors 255: Make 8-bit palette (preserve 1 color for transparency)
 #   -unique-colors: Create palette-like image
 #   -scale 1000%: Creates 10x10 pixel tiles
 #   -crop 120x10: Maximum 12 colors per row
 #   -append: Merge rows into a single image
 #   -type PaletteAlpha: Ensures that output image has an alpha channel
-convert -verbose "${SOURCE}" -colors 256 -unique-colors -scale 1000% -crop 120x10 -append -type PaletteAlpha "${PTARGET}"
+convert -verbose "${SOURCE}" -colors 255 -unique-colors -scale 1000% -crop 120x10 -append -type PaletteAlpha "${PTARGET}"
 
 # FIXME: Getting return code from "convert" executable doesn't seem to
 # work, so we check if palette exists.
