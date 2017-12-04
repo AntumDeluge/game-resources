@@ -79,10 +79,7 @@ fi
 # STEP 3: Trim all transparency & remove alpha channel
 # Arguments:
 #   -trim: Trims border pixels from image (in this case, transparent pixels)
-#     (appears that alpha channel is removed with '-trim', but we call
-#      '-alpha deactivate' just to be sure)
-#   -alpha deactivate: Ensures that alpha channel is removed
-convert -verbose "${PTARGET}" -trim -alpha deactivate "${PTARGET}"
+convert -verbose "${PTARGET}" -trim "${PTARGET}"
 
 # FIXME: Currently does nothing here.
 RET=$?
