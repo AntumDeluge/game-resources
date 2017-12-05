@@ -79,6 +79,7 @@ Reworked by Jordan Irwin (AntumDeluge):
     - [horse](sprite/animal/horse) (based on [LPC Horses by bluecarrot16](https://opengameart.org/node/69398))
     - [human_LPC](sprite/character/human_LPC) ([source](https://opengameart.org/node/32390))
     - [rabbit_LPC](sprite/animal/rabbit_LPC) ([Bunny Rabbit LPC style for PixelFarm](https://opengameart.org/node/14851) Stephen Challener (Redshrike))
+    - [unicorn](sprite/creature/unicorn) (based on [LPC Horses](https://opengameart.org/node/69398) by bluecarrot16)
   - Licensed under [OGA BY 3.0][]:
     - [bat](sprite/animal/bat) ([bat by bagzie](https://opengameart.org/node/26447))
 - tileset:
