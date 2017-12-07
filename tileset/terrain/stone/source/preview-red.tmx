@@ -6,17 +6,17 @@
  <tileset firstgid="3" name="stairs" tilewidth="32" tileheight="32" tilecount="9" columns="3">
   <image source="../PNG/32x32/stone_stairs-red.png" width="96" height="96"/>
  </tileset>
- <tileset firstgid="12" name="wall" tilewidth="32" tileheight="32" tilecount="56" columns="8">
-  <image source="../PNG/32x32/stone_wall-red.png" width="256" height="224"/>
+ <tileset firstgid="12" name="wall" tilewidth="32" tileheight="32" tilecount="72" columns="8">
+  <image source="../PNG/32x32/stone_wall-red.png" width="256" height="288"/>
  </tileset>
  <layer name="Ground" width="15" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjZGBgYKQAM1GoH5c5uMxlorG9gwVT4i7kMCLFnMEaFtRwNxMaJtZcaqc3bG4GAK7TAPY=
+   eJxjYmBgYAJiRjIw0wDrJYQHs15K/EsvvaOYfGxEAgYAOIYDLQ==
   </data>
  </layer>
  <layer name="Walls" width="15" height="15">
   <data encoding="base64" compression="zlib">
-   eJxjYGBgEGMgH1CiVwqIedGwNhKbb4DcRYxeISBWAmJZJBqE5Yg0XwALFiRSrwQWLIlDvQySG0FuU8CCFXHo5UdzmyoWrIZDrzia23SxYD0i9ZIC5BkI+wsXUAdiDSjWJFGvPhAbQLEhiXoB3/gI6w==
+   eJxjYGBgEGMgH1CiVwqIHdCwNhLbcYDcRYxeISBWAmJZJBqE5Yg0XwALFiRSrwQWLIlDvQySG0FuU8CCFXHo5UdzmyoWrIZDrzia23SxYD0i9ZIC5BlQ/SVMgl51INaAYk0gFiFBrz4QG0CxIRC7ALErkRgAXP8NbQ==
   </data>
  </layer>
  <layer name="Stairs" width="15" height="15">
