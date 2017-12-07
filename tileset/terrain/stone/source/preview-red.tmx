@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="15" height="15" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="ground" tilewidth="32" tileheight="32" tilecount="2" columns="2">
+  <image source="../PNG/32x32/stone_ground-red.png" width="64" height="32"/>
+ </tileset>
+ <tileset firstgid="3" name="stairs" tilewidth="32" tileheight="32" tilecount="9" columns="3">
+  <image source="../PNG/32x32/stone_stairs-red.png" width="96" height="96"/>
+ </tileset>
+ <tileset firstgid="12" name="wall" tilewidth="32" tileheight="32" tilecount="56" columns="8">
+  <image source="../PNG/32x32/stone_wall-red.png" width="256" height="224"/>
+ </tileset>
+ <layer name="Ground" width="15" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYKQAM1GoH5c5uMxlorG9gwVT4i7kMCLFnMEaFtRwNxMaJtZcaqc3bG4GAK7TAPY=
+  </data>
+ </layer>
+ <layer name="Walls" width="15" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYGBgEGMgH1CiVwqIedGwNhKbb4DcRYxeISBWAmJZJBqE5Yg0XwALFiRSrwQWLIlDvQySG0FuU8CCFXHo5UdzmyoWrIZDrzia23SxYD0i9ZIC5BkI+wsXUAdiDSjWJFGvPhAbQLEhiXoB3/gI6w==
+  </data>
+ </layer>
+ <layer name="Stairs" width="15" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF1ADMQMxKpl42IOYY1UsU4ARibjL1DlYAAJBEAGM=
+  </data>
+ </layer>
+</map>
