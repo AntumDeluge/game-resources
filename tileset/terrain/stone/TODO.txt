@@ -1,1 +1,2 @@
+- Rearrange & add more tiles for v2.0 (will be incompatible with 1.0).
 - Add blue set
