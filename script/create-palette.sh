@@ -84,13 +84,14 @@ fi
 
 # Create RGBA palette image.
 # Arguments:
+#   -alpha Off: Seems to add one more color (FIXME: should be checked agains "On" for accuracty).
 #   -define png:format=png32: Creates 32-bit RGBA PNG
 #   -unique-colors: Create palette-like image
 #   -scale 1000%: Creates 10x10 pixel tiles
 #   -background none: Makes BG color transparent
 #   -crop $((${COLS}*10))x10: COLS is number of columns per row
 #   -append: Merge rows into a single image
-convert -verbose "${PTARGET}" -define png:format=png32 -unique-colors -scale 1000% -background none -crop $((${COLS}*10))x10 -append "${PTARGET}"
+convert -verbose "${PTARGET}" -alpha Off -define png:format=png32 -unique-colors -scale 1000% -background none -crop $((${COLS}*10))x10 -append "${PTARGET}"
 
 RET=$?
 if [ "${RET}" -gt "0" ]; then
@@ -101,13 +102,13 @@ if [ "${RET}" -gt "0" ]; then
 fi
 
 
-# STEP 2: Create a transparent border buffer for trimming
+# Create a transparent border buffer for trimming
 # Arguments:
 #   -bordercolor none: Makes transparent border
 #   -border 5: Creates a 5px border (must be called AFTER -bordercolor)
 # Notes:
 #   - Automatically converted to indexed if colors less than 256.
-convert -verbose "${PTARGET}" -bordercolor none -border 5 "${PTARGET}"
+convert -verbose "${PTARGET}" -background none -bordercolor none -border 5 "${PTARGET}"
 
 RET=$?
 if [ "${RET}" -gt "0" ]; then
@@ -118,10 +119,10 @@ if [ "${RET}" -gt "0" ]; then
 fi
 
 
-# STEP 3: Trim all transparency & remove alpha channel
+# Trim all transparency & remove alpha channel
 # Arguments:
 #   -trim: Trims border pixels from image (in this case, transparent pixels)
-convert -verbose "${PTARGET}" -trim "${PTARGET}"
+#convert -verbose "${PTARGET}" -trim "${PTARGET}"
 
 RET=$?
 if [ "${RET}" -gt "0" ]; then
