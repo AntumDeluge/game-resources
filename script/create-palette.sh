@@ -33,7 +33,13 @@ PTARGET="${SDIR}/${PNAME}"
 # Settings
 
 # Number of columns per row
-COLS=4
+COLS="${COLS:-12}"
+
+# Force quantization
+FQUANT="${FQUANT:-0}"
+
+# Max number of colors for quantization
+COLORS="${COLORS:-256}"
 
 
 echo
@@ -43,11 +49,40 @@ echo "Palette file: ${PNAME}"
 echo "Target file: ${PTARGET}"
 
 echo
+echo "Copying image ..."
+echo
+
+cp -v "${SOURCE}" "${PTARGET}"
+RET=$?
+if [ "${RET}" -gt "0" ]; then
+    echo
+    echo "ERROR: Could not copy image (error code: ${RET})"
+    echo "Exiting ..."
+    exit ${RET}
+fi
+
+echo
 echo "Creating palette ..."
 echo
 
 
-# STEP 1: Create RGBA palette image.
+if [ "${FQUANT}" -gt "0" ]; then
+    echo
+    echo "Reducing image colors to ${COLORS} ..."
+
+    convert -verbose "${PTARGET}" -colors ${COLORS} "${PTARGET}"
+fi
+
+RET=$?
+if [ "${RET}" -gt "0" ]; then
+    echo
+    echo "ERROR: convert returned error code ${RET}"
+    echo "Exiting ..."
+    exit ${RET}
+fi
+
+
+# Create RGBA palette image.
 # Arguments:
 #   -define png:format=png32: Creates 32-bit RGBA PNG
 #   -unique-colors: Create palette-like image
@@ -55,16 +90,13 @@ echo
 #   -background none: Makes BG color transparent
 #   -crop $((${COLS}*10))x10: COLS is number of columns per row
 #   -append: Merge rows into a single image
-convert -verbose "${SOURCE}" -define png:format=png32 -unique-colors -scale 1000% -background none -crop $((${COLS}*10))x10 -append "${PTARGET}"
+convert -verbose "${PTARGET}" -define png:format=png32 -unique-colors -scale 1000% -background none -crop $((${COLS}*10))x10 -append "${PTARGET}"
 
-
-# FIXME: Getting return code from "convert" executable doesn't seem to
-# work, so we check if palette exists.
-test -f "${PTARGET}"
 RET=$?
 if [ "${RET}" -gt "0" ]; then
     echo
-    echo "ERROR: Palette not created (error code: ${RET})"
+    echo "ERROR: convert returned error code ${RET}"
+    echo "Exiting ..."
     exit ${RET}
 fi
 
@@ -77,11 +109,11 @@ fi
 #   - Automatically converted to indexed if colors less than 256.
 convert -verbose "${PTARGET}" -bordercolor none -border 5 "${PTARGET}"
 
-# FIXME: Currently does nothing here.
 RET=$?
 if [ "${RET}" -gt "0" ]; then
     echo
-    echo "ERROR: Palette not created (error code: ${RET})"
+    echo "ERROR: convert returned error code ${RET}"
+    echo "Exiting ..."
     exit ${RET}
 fi
 
@@ -91,11 +123,11 @@ fi
 #   -trim: Trims border pixels from image (in this case, transparent pixels)
 convert -verbose "${PTARGET}" -trim "${PTARGET}"
 
-# FIXME: Currently does nothing here.
 RET=$?
 if [ "${RET}" -gt "0" ]; then
     echo
-    echo "ERROR: Palette not created (error code: ${RET})"
+    echo "ERROR: convert returned error code ${RET}"
+    echo "Exiting ..."
     exit ${RET}
 fi
 
