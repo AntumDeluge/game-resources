@@ -14,20 +14,9 @@
 # Please report any bugs to: antumdeluge@gmail.com
 
 
-# Source file
-SOURCE=$1
-
-# Directory of source image
-SDIR=$(dirname "${SOURCE}")
-
-# Source filename
-SNAME=$(basename "${SOURCE}")
-
-# Output palette file name
-PNAME=palette-"${SNAME}"
-
-# Absolute path to output file
-PTARGET="${SDIR}/${PNAME}"
+# KNOWN BUGS:
+#
+# - Creates different palette if source file is indexed as opposed to RGB.
 
 
 # Settings
@@ -42,95 +31,110 @@ FQUANT="${FQUANT:-0}"
 COLORS="${COLORS:-256}"
 
 
-echo
-echo "Directory: ${SDIR}"
-echo "Source file: ${SNAME}"
-echo "Palette file: ${PNAME}"
-echo "Target file: ${PTARGET}"
+for SOURCE in $@; do
+    # Directory of source image
+    SDIR=$(dirname "${SOURCE}")
 
-echo
-echo "Copying image ..."
-echo
+    # Source filename
+    SNAME=$(basename "${SOURCE}")
 
-cp -v "${SOURCE}" "${PTARGET}"
-RET=$?
-if [ "${RET}" -gt "0" ]; then
+    # Output palette file name
+    PNAME=palette-"${SNAME}"
+
+    # Absolute path to output file
+    PTARGET="${SDIR}/${PNAME}"
+
+
     echo
-    echo "ERROR: Could not copy image (error code: ${RET})"
-    echo "Exiting ..."
-    exit ${RET}
-fi
+    echo "Directory: ${SDIR}"
+    echo "Source file: ${SNAME}"
+    echo "Palette file: ${PNAME}"
+    echo "Target file: ${PTARGET}"
 
-echo
-echo "Creating palette ..."
-echo
-
-
-if [ "${FQUANT}" -gt "0" ]; then
     echo
-    echo "Reducing image colors to ${COLORS} ..."
-
-    convert -verbose "${PTARGET}" -colors ${COLORS} "${PTARGET}"
-fi
-
-RET=$?
-if [ "${RET}" -gt "0" ]; then
+    echo "Copying image ..."
     echo
-    echo "ERROR: convert returned error code ${RET}"
-    echo "Exiting ..."
-    exit ${RET}
-fi
 
+    cp -v "${SOURCE}" "${PTARGET}"
+    RET=$?
+    if [ "${RET}" -gt "0" ]; then
+        echo
+        echo "ERROR: Could not copy image (error code: ${RET})"
+        echo "Exiting ..."
+        exit ${RET}
+    fi
 
-# Create RGBA palette image.
-# Arguments:
-#   -alpha Off: Seems to add one more color (FIXME: should be checked agains "On" for accuracty).
-#   -define png:format=png32: Creates 32-bit RGBA PNG
-#   -unique-colors: Create palette-like image
-#   -scale 1000%: Creates 10x10 pixel tiles
-#   -background none: Makes BG color transparent
-#   -crop $((${COLS}*10))x10: COLS is number of columns per row
-#   -append: Merge rows into a single image
-convert -verbose "${PTARGET}" -alpha Off -define png:format=png32 -unique-colors -scale 1000% -background none -crop $((${COLS}*10))x10 -append "${PTARGET}"
-
-RET=$?
-if [ "${RET}" -gt "0" ]; then
     echo
-    echo "ERROR: convert returned error code ${RET}"
-    echo "Exiting ..."
-    exit ${RET}
-fi
-
-
-# Create a transparent border buffer for trimming
-# Arguments:
-#   -bordercolor none: Makes transparent border
-#   -border 5: Creates a 5px border (must be called AFTER -bordercolor)
-# Notes:
-#   - Automatically converted to indexed if colors less than 256.
-convert -verbose "${PTARGET}" -background none -bordercolor none -border 5 "${PTARGET}"
-
-RET=$?
-if [ "${RET}" -gt "0" ]; then
+    echo "Creating palette ..."
     echo
-    echo "ERROR: convert returned error code ${RET}"
-    echo "Exiting ..."
-    exit ${RET}
-fi
 
 
-# Trim all transparency & remove alpha channel
-# Arguments:
-#   -trim: Trims border pixels from image (in this case, transparent pixels)
-#convert -verbose "${PTARGET}" -trim "${PTARGET}"
+    if [ "${FQUANT}" -gt "0" ]; then
+        echo
+        echo "Reducing image colors to ${COLORS} ..."
 
-RET=$?
-if [ "${RET}" -gt "0" ]; then
-    echo
-    echo "ERROR: convert returned error code ${RET}"
-    echo "Exiting ..."
-    exit ${RET}
-fi
+        convert -verbose "${PTARGET}" -colors ${COLORS} "${PTARGET}"
+    fi
+
+    RET=$?
+    if [ "${RET}" -gt "0" ]; then
+        echo
+        echo "ERROR: convert returned error code ${RET}"
+        echo "Exiting ..."
+        exit ${RET}
+    fi
+
+
+    # Create RGBA palette image.
+    # Arguments:
+    #   -alpha Off: Seems to add one more color (FIXME: should be checked agains "On" for accuracy).
+    #   -define png:format=png32: Creates 32-bit RGBA PNG
+    #   -unique-colors: Create palette-like image
+    #   -scale 1000%: Creates 10x10 pixel tiles
+    #   -background none: Makes BG color transparent
+    #   -crop $((${COLS}*10))x10: COLS is number of columns per row
+    #   -append: Merge rows into a single image
+    convert -verbose "${PTARGET}" -alpha Off -define png:format=png32 -unique-colors -scale 1000% -background none -crop $((${COLS}*10))x10 -append "${PTARGET}"
+
+    RET=$?
+    if [ "${RET}" -gt "0" ]; then
+        echo
+        echo "ERROR: convert returned error code ${RET}"
+        echo "Exiting ..."
+        exit ${RET}
+    fi
+
+
+    # Create a transparent border buffer for trimming
+    # Arguments:
+    #   -bordercolor none: Makes transparent border
+    #   -border 5: Creates a 5px border (must be called AFTER -bordercolor)
+    # Notes:
+    #   - Automatically converted to indexed if colors less than 256.
+    convert -verbose "${PTARGET}" -background none -bordercolor none -border 5 "${PTARGET}"
+
+    RET=$?
+    if [ "${RET}" -gt "0" ]; then
+        echo
+        echo "ERROR: convert returned error code ${RET}"
+        echo "Exiting ..."
+        exit ${RET}
+    fi
+
+
+    # Trim all transparency & remove alpha channel
+    # Arguments:
+    #   -trim: Trims border pixels from image (in this case, transparent pixels)
+    convert -verbose "${PTARGET}" -trim "${PTARGET}"
+
+    RET=$?
+    if [ "${RET}" -gt "0" ]; then
+        echo
+        echo "ERROR: convert returned error code ${RET}"
+        echo "Exiting ..."
+        exit ${RET}
+    fi
+done
 
 
 echo
