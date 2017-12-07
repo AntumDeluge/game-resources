@@ -29,6 +29,13 @@ PNAME=palette-"${SNAME}"
 # Absolute path to output file
 PTARGET="${SDIR}/${PNAME}"
 
+
+# Settings
+
+# Number of columns per row
+COLS=4
+
+
 echo
 echo "Directory: ${SDIR}"
 echo "Source file: ${SNAME}"
@@ -40,15 +47,16 @@ echo "Creating palette ..."
 echo
 
 
-# STEP 1: Create the palette (includes transparency of source image)
+# STEP 1: Create RGBA palette image.
 # Arguments:
-#   -colors 255: Make 8-bit palette (preserve 1 color for transparency)
+#   -define png:format=png32: Creates 32-bit RGBA PNG
 #   -unique-colors: Create palette-like image
 #   -scale 1000%: Creates 10x10 pixel tiles
-#   -crop 120x10: Maximum 12 colors per row
+#   -background none: Makes BG color transparent
+#   -crop $((${COLS}*10))x10: COLS is number of columns per row
 #   -append: Merge rows into a single image
-#   -type PaletteAlpha: Ensures that output image has an alpha channel
-convert -verbose "${SOURCE}" -colors 255 -unique-colors -scale 1000% -crop 120x10 -append -type PaletteAlpha "${PTARGET}"
+convert -verbose "${SOURCE}" -define png:format=png32 -unique-colors -scale 1000% -background none -crop $((${COLS}*10))x10 -append "${PTARGET}"
+
 
 # FIXME: Getting return code from "convert" executable doesn't seem to
 # work, so we check if palette exists.
@@ -65,6 +73,8 @@ fi
 # Arguments:
 #   -bordercolor none: Makes transparent border
 #   -border 5: Creates a 5px border (must be called AFTER -bordercolor)
+# Notes:
+#   - Automatically converted to indexed if colors less than 256.
 convert -verbose "${PTARGET}" -bordercolor none -border 5 "${PTARGET}"
 
 # FIXME: Currently does nothing here.
