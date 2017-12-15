@@ -1,1 +1,4 @@
 - Touch-up pirate-f-001-brown N-facing hat.
+- Extract outfit parts.
+- Clean up or remove *-alt sprites.
+- Add more skin tone alternatives.
