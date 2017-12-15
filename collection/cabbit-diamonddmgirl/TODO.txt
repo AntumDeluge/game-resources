@@ -2,3 +2,5 @@
 - Extract outfit parts.
 - Clean up or remove *-alt sprites.
 - Add more skin tone alternatives.
+- Create RPG Maker/RPGBoss compatible sheets.
+- Extract remaining facesets to individual sheets.
