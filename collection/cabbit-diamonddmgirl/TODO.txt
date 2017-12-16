@@ -3,3 +3,4 @@
 - Clean up or remove *-alt sprites & facesets.
 - Add more skin tone alternatives.
 - Create RPG Maker/RPGBoss compatible sheets.
+- Create document for attribution of individual assets.
