@@ -1,3 +1,6 @@
+Next
+- Applied scale2x filter on more sprites.
+
 0.2
 - Extracted more facesets.
 - Touched up some sprites & added GIMP source files.
