@@ -1,0 +1,7 @@
+0.2
+- Extracted more facesets.
+- Touched up some sprites & added GIMP source files.
+
+0.1
+- Initial collection for OpenGameArt.org.
+- Added resources by Svetlana Kushnariova (Cabbit) & diamonddmgirl.
