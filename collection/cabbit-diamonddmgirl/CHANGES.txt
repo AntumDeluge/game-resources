@@ -5,8 +5,11 @@ Next
   - beard-002
   - hat-005
   - suit-001
+- Created outfit parts:
+  - hair-balding-004 from hair-balding-001.
+  - beard-003 from beard-001
+  - beard-004 from beard-003
 - Added black recolor of hair-balding-001.
-- Created hair-balding-004 from hair-balding-001.
 
 0.2
 - Extracted more facesets.
