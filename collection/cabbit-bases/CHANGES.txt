@@ -1,0 +1,9 @@
+Next
+- Applied scale2x filter on current bases.
+- Re-organized sprites.
+
+0.2
+
+0.1
+- Initial collection for OpenGameArt.org.
+- Added resources by Svetlana Kushnariova (Cabbit) & diamonddmgirl.
