@@ -1,6 +1,7 @@
 Next
 - Applied scale2x filter on current bases.
 - Re-organized sprites.
+- Created "tough" body sprites.
 
 0.2
 
