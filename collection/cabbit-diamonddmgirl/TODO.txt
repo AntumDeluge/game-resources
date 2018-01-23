@@ -4,3 +4,4 @@
 - Add more skin tone alternatives.
 - Create RPG Maker/RPGBoss compatible sheets.
 - Create document for attribution of individual assets.
+- Version older sprites with "v" filename suffix.
