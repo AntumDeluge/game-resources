@@ -1,2 +1,1 @@
-- Rework to fit Cabbit's bases (https://opengameart.org/node/79237).
 - Create dirndl (female version of lederhosen).
