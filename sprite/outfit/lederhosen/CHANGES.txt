@@ -1,3 +1,4 @@
 1.0
 - Initial release for OpenGameArt.org.
-- Lederhosen for Charas sprites created.
+- Created lederhosen outfit for Charas sprites (48x64).
+- Reworked lederhosen outfit for Cabbit sprites (48x64).
