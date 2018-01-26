@@ -1,0 +1,15 @@
+1.3:
+- Created warrior sprite (sword & black cape).
+- Created commander sprite (w/ red cape & horns).
+- Created dragonrider sprite (w/ red horns, pitchfork, cape, & decor).
+
+1.2:
+- Created some re-colors.
+- Created lord sprite (black w/ cape & helmet decor).
+- Created overlord sprite (red w/ black wings).
+
+1.1:
+- Created sprite with sword.
+
+1.0:
+- Initial release for OpenGameArt.org.
