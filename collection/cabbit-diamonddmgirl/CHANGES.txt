@@ -1,4 +1,4 @@
-Next
+0.3
 - Applied scale2x filter on more sprites.
 - Created sprites:
   - Santa-001
