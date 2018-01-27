@@ -64,10 +64,12 @@ for SOURCE in $@; do
         exit ${RET}
     fi
 
+    # Convert target image to RGBA for color accuracy.
+    convert "${PTARGET}" -alpha On -define png:format=png32 -background none "${PTARGET}"
+
     echo
     echo "Creating palette ..."
     echo
-
 
     if [ "${FQUANT}" -gt "0" ]; then
         echo
@@ -87,14 +89,15 @@ for SOURCE in $@; do
 
     # Create RGBA palette image.
     # Arguments:
-    #   -alpha Off: Seems to add one more color (FIXME: should be checked agains "On" for accuracy).
+    #   -alpha On: Ensures transparent channel color is not included.
     #   -define png:format=png32: Creates 32-bit RGBA PNG
     #   -unique-colors: Create palette-like image
     #   -scale 1000%: Creates 10x10 pixel tiles
     #   -background none: Makes BG color transparent
     #   -crop $((${COLS}*10))x10: COLS is number of columns per row
     #   -append: Merge rows into a single image
-    convert -verbose "${PTARGET}" -alpha Off -define png:format=png32 -unique-colors -scale 1000% -background none -crop $((${COLS}*10))x10 -append "${PTARGET}"
+    #convert -verbose "${PTARGET}" -alpha On -define png:format=png32 -unique-colors -scale 1000% -background none -crop $((${COLS}*10))x10 -append "${PTARGET}"
+    convert -verbose "${PTARGET}" -alpha On -background none -define png:format=png32 -unique-colors "${PTARGET}"
 
     RET=$?
     if [ "${RET}" -gt "0" ]; then
@@ -134,6 +137,9 @@ for SOURCE in $@; do
         echo "Exiting ..."
         exit ${RET}
     fi
+
+    # Scale & limit colors per line.
+    convert "${PTARGET}" -alpha On -background none -unique-colors -scale 1000% -crop $((${COLS}*10))x10 -append "${PTARGET}"
 done
 
 
