@@ -1,5 +1,7 @@
 Next
 - Added more outfit recolors.
+- Created outfit parts:
+  - gi-001
 
 0.3
 - Applied scale2x filter on more sprites.
