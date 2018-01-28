@@ -1,6 +1,7 @@
 Next
 - Added more outfit recolors.
 - Created outfit parts:
+  - dress-006 from dress-001
   - gi-001
 
 0.3
