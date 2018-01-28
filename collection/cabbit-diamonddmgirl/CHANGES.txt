@@ -3,6 +3,7 @@ Next
 - Created outfit parts:
   - dress-006 from dress-001
   - gi-001
+  - necktie-001
 
 0.3
 - Applied scale2x filter on more sprites.
