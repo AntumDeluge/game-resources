@@ -9,6 +9,7 @@ Next
 - Extracted outfit parts:
   - hair-short-004 from townfolk-adult-m-003
   - hair-short-005 from townfolk-adult-m-002
+  - hair-short-006 from townfolk-adult-m-004
 
 0.3
 - Applied scale2x filter on more sprites.
