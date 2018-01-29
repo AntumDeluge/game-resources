@@ -4,6 +4,7 @@ Next
   - dress-006 from dress-001
   - gi-001
   - necktie-001
+  - outfit-005 from suit-002
   - suit-002 from townfolk-adult-m-009
 
 0.3
