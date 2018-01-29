@@ -4,6 +4,7 @@ Next
   - dress-006 from dress-001
   - gi-001
   - necktie-001
+  - suit-002 from townfolk-adult-m-009
 
 0.3
 - Applied scale2x filter on more sprites.
