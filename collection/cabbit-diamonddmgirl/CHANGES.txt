@@ -6,6 +6,8 @@ Next
   - necktie-001
   - outfit-005 from suit-002
   - suit-002 from townfolk-adult-m-009
+- Extracted outfit parts:
+  - hair-short-004 from townfolk-adult-m-003
 
 0.3
 - Applied scale2x filter on more sprites.
