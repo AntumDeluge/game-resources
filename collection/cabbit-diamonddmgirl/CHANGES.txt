@@ -2,6 +2,7 @@ Next
 - Added more outfit recolors.
 - Created outfit parts:
   - dress-006 from dress-001
+  - dress-007 from dress-005
   - gi-001
   - necktie-001
   - outfit-005 from suit-002
