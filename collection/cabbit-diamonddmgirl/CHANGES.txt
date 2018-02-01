@@ -1,16 +1,16 @@
 Next
 - Added more outfit recolors.
 - Created outfits:
-  - outfit-007 from suit-002
+  - suit-002 from townfolk-adult-m-009
 - Created outfit parts:
   - dress-006 from dress-001
   - dress-007 from dress-005
   - gi-001
   - necktie-001
   - outfit-005 from suit-002
-  - suit-002 from townfolk-adult-m-009
 - Extracted outfits:
   - outfit-006 from townfolk-adult-m-001
+  - outfit-007 from townfolk-adult-m-009
 - Extracted outfit parts:
   - hair-short-004 from townfolk-adult-m-003
   - hair-short-005 from townfolk-adult-m-002
