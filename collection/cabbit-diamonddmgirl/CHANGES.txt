@@ -17,7 +17,13 @@ Next
   - hair-short-008 from fighter-m-002
   - jacket-001 from outfit-006
   - pants-001 from outfit-006
+  - pants-002 from suit-002
+  - shirt-001 from suit-002
+  - shirt-002 from suit-002
+  - shoes-001 from suit-002
   - t-shirt-001 from outfit-006
+  - vest-001 from suit-002
+  - vest-002 from suit-002
 
 0.3
 - Applied scale2x filter on more sprites.
