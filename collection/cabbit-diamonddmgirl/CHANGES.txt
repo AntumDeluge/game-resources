@@ -23,6 +23,7 @@ Next
   - shirt-001 from suit-002
   - shirt-002 from suit-002
   - shoes-001 from suit-002
+  - shoes-002 from pants-001
   - t-shirt-001 from outfit-006
   - vest-001 from suit-002
   - vest-002 from suit-002
