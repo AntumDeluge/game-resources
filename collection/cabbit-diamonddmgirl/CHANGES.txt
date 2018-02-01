@@ -15,6 +15,9 @@ Next
   - hair-short-006 from townfolk-adult-m-004
   - hair-short-007 from fighter-m-001
   - hair-short-008 from fighter-m-002
+  - jacket-001 from outfit-006
+  - pants-001 from outfit-006
+  - t-shirt-001 from outfit-006
 
 0.3
 - Applied scale2x filter on more sprites.
