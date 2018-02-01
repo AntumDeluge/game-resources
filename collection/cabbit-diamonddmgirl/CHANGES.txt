@@ -3,6 +3,7 @@ Next
 - Created outfits:
   - suit-002 from townfolk-adult-m-009
 - Created outfit parts:
+  - bowtie-001
   - dress-006 from dress-001
   - dress-007 from dress-005
   - gi-001
