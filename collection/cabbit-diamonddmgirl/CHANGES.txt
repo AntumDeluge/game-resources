@@ -2,6 +2,7 @@ Next
 - Added more outfit recolors.
 - Created outfits:
   - suit-002 from townfolk-adult-m-009
+  - tuxedo-001 from suit-002 (custom bowtie & jacket)
 - Created outfit parts:
   - bowtie-001
   - dress-006 from dress-001
