@@ -1,0 +1,6 @@
+1.1
+- Created unicorn sprite.
+
+1.0
+- Initial release for OpenGameArt.org.
+- Reworked [LPC] Horses by bluecarrot16 for Stendhal: https://opengameart.org/node/69398
