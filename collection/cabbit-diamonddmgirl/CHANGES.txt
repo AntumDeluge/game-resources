@@ -14,6 +14,7 @@ Next
   - outfit-006 from townfolk-adult-m-001
   - outfit-007 from townfolk-adult-m-009
 - Extracted outfit parts:
+  - dress-child-001 from townfolk-child-f-003 (diamonddmgirl)
   - hair-short-004 from townfolk-adult-m-003
   - hair-short-005 from townfolk-adult-m-002
   - hair-short-006 from townfolk-adult-m-004
@@ -26,6 +27,7 @@ Next
   - shirt-002 from suit-002
   - shoes-001 from suit-002
   - shoes-002 from pants-001
+  - shoes-child-001 from townfolk-child-f-003 (diamonddmgirl)
   - t-shirt-001 from outfit-006
   - vest-001 from suit-002
   - vest-002 from suit-002
