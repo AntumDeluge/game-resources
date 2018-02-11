@@ -114,6 +114,7 @@ Other resources:
     - spacebot [CC BY 3.0][]: https://opengameart.org/node/52537
   - by Kimmo Rundelin (kiheru):
     - death (OGA BY / CC BY / CC BY-SA / GPL): https://opengameart.org/node/81236
+    - Stendhal animals (OGA BY / CC BY / CC BY-SA / GPL): https://opengameart.org/node/81251
   - by Stephen Challener (Redshrike), Johannes Sjölund, & Nila122
     - dark_soldier [CC BY-SA 3.0][]: https://opengameart.org/node/12858
     - golem [OGA BY 3.0][]: https://opengameart.org/node/6262
