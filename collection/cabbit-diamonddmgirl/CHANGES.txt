@@ -1,4 +1,4 @@
-Next
+0.4
 - Added more outfit recolors.
 - Created outfits:
   - suit-002 from townfolk-adult-m-009
