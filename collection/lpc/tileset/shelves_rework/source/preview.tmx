@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.2" orientation="orthogonal" renderorder="right-down" width="4" height="3" tilewidth="32" tileheight="32" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="drawer_shelf-brown" tilewidth="32" tileheight="32" tilecount="12" columns="4">
+  <image source="../PNG/32x32/drawer_shelf-brown.png" width="128" height="96"/>
+ </tileset>
+ <tileset firstgid="13" name="bookshelf-green" tilewidth="32" tileheight="32" tilecount="12" columns="4">
+  <image source="../PNG/32x32/bookshelf-green.png" width="128" height="96"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="4" height="3">
+  <data encoding="csv">
+1,2,15,16,
+5,6,19,20,
+9,10,23,24
+</data>
+ </layer>
+</map>
