@@ -41,6 +41,7 @@ Created by Jordan Irwin (AntumDeluge):
   - [mounted_swordfish](tileset/building/decor) ([OGA](https://opengameart.org/node/79120))
   - [corpse](tileset/corpse) ([OGA](https://opengameart.org/node/79121))
   - [ukulele](tileset/instrument) ([OGA](https://opengameart.org/node/79149))
+  - [wall decor](tileset/building/decor) ([OGA](https://opengameart.org/node/79120))
 - Licensed under [OGA BY 3.0][] &/or [CC BY 3.0][]:
   - icon:
     - [antipoison_rings](icon/antipoison_rings) ([OGA](https://opengameart.org/node/20712))
