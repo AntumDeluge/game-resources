@@ -8,6 +8,12 @@ Sprites:
     - snake (CC BY-SA 3.0)
 
 Tilesets:
+- By Daniel Eddeland (daneeklu) & Zachariah Husiar (Zabin):
+  - bazaar_rework (CC BY-SA 3.0 / GPL 3.0)
+    - Sources:
+      - [RPG Tiles: Cobble stone paths & town objects](https://opengameart.org/node/14914)
+      - [[LPC] Farming tilesets, magic animations and UI elements](https://opengameart.org/node/11117)
+      - [LPC Submissions Merged](https://opengameart.org/node/79256)
 - By Lanea Zimmerman (Sharm):
   - shelves_rework (CC BY-SA 3.0 / GPL 3.0)
     - Sources: [LPC Submissions Merged](https://opengameart.org/node/79256) & [LPC Asset List](http://lpc.opengameart.org/static/lpc-style-guide/assets.html#building-indoors)
