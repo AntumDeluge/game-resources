@@ -8,6 +8,9 @@ Sprites:
     - snake (CC BY-SA 3.0)
 
 Tilesets:
+- By Lanea Zimmerman (Sharm):
+  - Sources: [LPC Submissions Merged](https://opengameart.org/node/79256) & [LPC Asset List](http://lpc.opengameart.org/static/lpc-style-guide/assets.html#building-indoors)
+    - shelves_rework
 - By Stephen Challener (Redshrike) & Zachariah Husiar (Zabin):
   - Source: [RPG Tiles: Cobble stone paths & town objects](https://opengameart.org/node/14914)
     - vendors_table (CC BY-SA 3.0)
