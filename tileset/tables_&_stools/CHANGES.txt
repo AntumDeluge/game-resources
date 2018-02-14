@@ -1,0 +1,5 @@
+1.2
+- Created table_linen tileset.
+
+1.1
+- Created square & round tables & stools tilesets.
