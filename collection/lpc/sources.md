@@ -9,8 +9,11 @@ Sprites:
 
 Tilesets:
 - By Lanea Zimmerman (Sharm):
-  - Sources: [LPC Submissions Merged](https://opengameart.org/node/79256) & [LPC Asset List](http://lpc.opengameart.org/static/lpc-style-guide/assets.html#building-indoors)
-    - shelves_rework
+  - shelves_rework (CC BY-SA 3.0 / GPL 3.0)
+    - Sources: [LPC Submissions Merged](https://opengameart.org/node/79256) & [LPC Asset List](http://lpc.opengameart.org/static/lpc-style-guide/assets.html#building-indoors)
+  - tables_rework (CC BY-SA 3.0 / GPL 3.0)
+    - Source: [[LPC] House Insides](https://opengameart.org/node/20850)
+    - Candlesticks are CC0 licensed (created by Jordan Irwin, based on [CC0 vector image](https://openclipart.org/detail/2658))
 - By Stephen Challener (Redshrike) & Zachariah Husiar (Zabin):
-  - Source: [RPG Tiles: Cobble stone paths & town objects](https://opengameart.org/node/14914)
-    - vendors_table (CC BY-SA 3.0)
+  - vendors_table (CC BY-SA 3.0)
+    - Source: [RPG Tiles: Cobble stone paths & town objects](https://opengameart.org/node/14914)
