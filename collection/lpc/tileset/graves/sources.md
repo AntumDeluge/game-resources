@@ -13,5 +13,5 @@ By Carlo Enrico Victoria (Nemisys) & Tuomo Untinen (Reemax):
 By Casper Nilsson, Barbara Rivera, & ak-blanc:
 - [[LPC] Misc tile atlas](https://opengameart.org/node/49103)
 
-Unknown:
-- [LPC Submissions Merged](https://opengameart.org/node/79256)
+By Johann C:
+- [[LPC] A shoot'em up complete graphic kit](https://opengameart.org/node/11079)
