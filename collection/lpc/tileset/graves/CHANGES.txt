@@ -1,5 +1,6 @@
 Next:
 - Touch up Barbara Rivera's headstone (missing pixel).
+- Created smaller version of one of Casper Nilsson's headstones.
 
 1.1:
 - Rework a couple of Tuomo Untinen's grave markers.
