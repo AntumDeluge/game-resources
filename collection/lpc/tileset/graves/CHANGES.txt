@@ -1,3 +1,6 @@
+Next:
+- Touch up Barbara Rivera's headstone (missing pixel).
+
 1.1:
 - Rework a couple of Tuomo Untinen's grave markers.
 
