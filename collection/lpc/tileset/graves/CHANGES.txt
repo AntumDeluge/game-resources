@@ -1,2 +1,5 @@
+1.1:
+- Rework a couple of Tuomo Untinen's grave markers.
+
 1.0
 - Add LPC grave markers tilesets from multiple sources.
