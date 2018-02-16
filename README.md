@@ -155,6 +155,8 @@ elements](https://opengameart.org/node/11117))
   - by [Tuomo Untinen (Reemax)](https://opengameart.org/user/5257)
     - [ship](tileset/ship) [CC BY-SA 3.0][] (source: [[LPC] Wooden ship tiles](https://opengameart.org/node/38270))
 - misc:
+  - by [Angry Amish]()
+    - [skull](misc/skull/skull.png) [CC0][] (source: [Skull](https://opengameart.org/node/79522))
   - by [Colin M.L. Burnett](https://en.wikipedia.org/wiki/User:Cburnett)
     - [skin_color_chart](misc/skin_color_chart) [CC BY-SA 3.0][] [ (source: [Felix von Luschan Skin Color chart](https://commons.wikimedia.org/wiki/File:Felix_von_Luschan_Skin_Color_chart.svg))
 
