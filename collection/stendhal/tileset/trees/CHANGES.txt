@@ -1,3 +1,6 @@
+b0f40e9
+- kiheru created old_ent/dead_tree.
+
 e81eea4
 - kiheru created locust_tree.
 
