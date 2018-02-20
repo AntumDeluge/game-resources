@@ -1,4 +1,4 @@
 **LPC Lamp Posts Sources**
 
-By Casper Nilsson:
-- [LPC C.Nilsson](https://opengameart.org/content/lpc-cnilsson)
+By Curt, Lanea Zimmerman (Sharm), & Hyptosis:
+- [[LPC] Street Lamp](https://opengameart.org/node/20039)
