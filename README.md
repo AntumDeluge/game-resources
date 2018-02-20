@@ -96,7 +96,6 @@ Reworked by Jordan Irwin (AntumDeluge):
 
 Collections:
 - [antifarea](collection/antifarea/sources.md) ([CC BY 3.0][])
-- [cabbit](collection/cabbit/sources.md)
 - [LPC](collection/lpc/sources.md)
 - [silveira_neto](collection/silveira_neto/sources.md)
 
