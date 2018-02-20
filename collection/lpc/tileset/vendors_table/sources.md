@@ -1,5 +1,7 @@
 ### LPC Vendor's Table Sources
 
+![Preview](preview.png)
+
 [OpenGameArt.org submission](https://opengameart.org/node/81361)
 
 By [Zachariah Husiar (Zabin)](https://opengameart.org/user/3356) & [Stephen Challener (Redshrike)](https://opengameart.org/user/47):

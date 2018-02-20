@@ -1,5 +1,7 @@
 ### LPC Lamp Posts Rework Sources
 
+![Preview](preview.png)
+
 [OpenGameArt.org submission](https://opengameart.org/node/81455)
 
 By [Curt](https://opengameart.org/user/6231), [Lanea Zimmerman (Sharm)](https://opengameart.org/user/1727), & [Hyptosis](https://opengameart.org/user/2937):

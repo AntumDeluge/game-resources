@@ -1,5 +1,7 @@
 ### LPC Tables Rework Sources
 
+![Preview](preview.png)
+
 [OpenGameArt.org submission](https://opengameart.org/node/81367)
 
 By [Lanea Zimmerman (Sharm)](https://opengameart.org/user/1727) & [Jordan Irwin (AntumDeluge)](https://opengameart.org/user/5625):

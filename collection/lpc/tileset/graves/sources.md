@@ -1,5 +1,7 @@
 ### LPC Graves Sources
 
+![Preview](preview.png)
+
 [OpenGameArt.org submission](https://opengameart.org/node/81422)
 
 By Barbara Rivera:

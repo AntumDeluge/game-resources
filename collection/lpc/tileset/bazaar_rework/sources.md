@@ -1,5 +1,7 @@
 ### LPC Bazaar Rework Sources
 
+![Preview](preview.png)
+
 [OpenGameArt.org submission](https://opengameart.org/node/81369)
 
 By [Zachariah Husiar (Zabin)](https://opengameart.org/user/3356) & [Daniel Eddeland (daneeklu)](https://opengameart.org/user/2667):

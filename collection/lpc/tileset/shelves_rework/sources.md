@@ -1,5 +1,7 @@
 ### LPC Shelves Rework Sources
 
+![Preview](preview.png)
+
 [OpenGameArt.org submission](https://opengameart.org/node/81362)
 
 By [Lanea Zimmerman (Sharm)](https://opengameart.org/user/1727) & ???:
