@@ -10,4 +10,4 @@ By [Curt](https://opengameart.org/user/6231), [Lanea Zimmerman (Sharm)](https://
 By [Lanea Zimmerman (Sharm)](https://opengameart.org/user/1727) & [William Thompson](https://opengameart.org/user/7593) (contributor):
 - [[LPC] Misc](https://opengameart.org/node/20941)
 
-U-shaped crossbar edited by [mold](https://opengameart.org/user/12427)
+Lamp 2 & U-shaped crossbar edited by [mold](https://opengameart.org/user/12427)
