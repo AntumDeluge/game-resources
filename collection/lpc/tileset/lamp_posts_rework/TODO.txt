@@ -1,0 +1,3 @@
+- Create attribution image.
+- Create tiles for animating.
+- May do another rework with the black lamp post from Zabin's submission (https://opengameart.org/node/13880).
