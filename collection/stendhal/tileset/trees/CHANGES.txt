@@ -1,3 +1,6 @@
+7e096de
+- Use kiheru's pine tree trunks for dead trees.
+
 b0f40e9
 - kiheru created old_ent/dead_tree.
 
