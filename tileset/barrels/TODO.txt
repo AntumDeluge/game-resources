@@ -1,1 +1,3 @@
 - Create GIMP source for standard barrels tileset (extract layers).
+- Create standard barrels with contents from short barrels.
+- Create short barrels with contents from standard barrels.
