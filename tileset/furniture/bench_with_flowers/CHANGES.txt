@@ -1,0 +1,8 @@
+1.0:
+- Created N/S facing bench_with_flower tilesets from multiple sources:
+  - [LPC] Flowers / Plants / Fungi / Wood: https://opengameart.org/node/80124 (OGA BY 2.0+ / CC BY 2.0+ / GPL 2.0+)
+  - [LPC] Guido Bos entries cut up: https://opengameart.org/node/11319 (CC BY-SA 3.0 / GPL 3.0)
+  - LPC: Interior Castle Tiles: https://opengameart.org/node/17021 (OGA BY 3.0 / CC BY 3.0 / CC BY-SA 3.0 / GPL 3.0)
+  - LPC Asset List (victorian furniture and decoration): http://lpc.opengameart.org/static/lpc-style-guide/assets.html#building-indoors (CC BY-SA 3.0 / GPL 3.0)
+  - RPG item set: https://opengameart.org/node/4531 (CC0)
+  - Wooden Bench Rework: https://opengameart.org/node/79117 (CC0)
