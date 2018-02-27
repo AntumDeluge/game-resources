@@ -1,6 +1,6 @@
 ## Barrels Sources
 
-![Preview](PNG/32x32/barrels.png)![Preview Short](PNG/32x32/barrels-short.png)
+![Preview](contents.png)
 
 [OpenGameArt.org Submission](https://opengameart.org/node/79172)
 
