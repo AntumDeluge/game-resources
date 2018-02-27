@@ -1,0 +1,1 @@
+- Finish chestnut-002 & chestnut-003 trunk layers in GIMP sources.
