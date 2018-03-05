@@ -1,4 +1,5 @@
 - Fix mirrored version of bust statue so shading matches.
+- Animate smaller fountain from Mage City Arcanos.
 - Potential additions:
   - 2d Lost Garden Statue: https://opengameart.org/node/11758
   - Buddha statues 32x32: https://opengameart.org/node/17215
