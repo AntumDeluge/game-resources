@@ -2,10 +2,10 @@
 
 <table style="border: 0px;">
   <tr style="border: 0px;">
-    <td style="border: 0px; vertical-align: bottom;">
+    <td style="border: 0px; vertical-align: top;">
       ![Bust](preview.png)
     </td>
-    <td style="border: 0px; vertical-align: bottom;">
+    <td style="border: 0px; vertical-align: top;">
       ![Fountain](PNG/32x32/fountain-shadow.png)
     </td>
     <td style="border: 0px;">
@@ -18,3 +18,6 @@
 
 By [Hyptosis](https://opengameart.org/user/2937):
 - bust & fountain from [Mage City Arcanos](https://opengameart.org/node/11192) (CC0)
+
+By [Hyptosis](https://opengameart.org/user/2937) & [mold](https://opengameart.org/user/12427):
+- child praying (CC0)
