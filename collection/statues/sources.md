@@ -5,9 +5,6 @@
     <td style="border: 0px; vertical-align: top;">
       ![Bust](preview.png)
     </td>
-    <td style="border: 0px; vertical-align: top;">
-      ![Fountain](PNG/32x32/fountain-shadow.png)
-    </td>
     <td style="border: 0px;">
       ![Attribution](attribution.png)
     </td>
