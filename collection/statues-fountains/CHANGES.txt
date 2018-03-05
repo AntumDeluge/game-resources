@@ -1,3 +1,6 @@
+0.2
+- Added Zabin's stone armor statue (CC BY 3.0).
+
 0.1
 - Added bust statue & fountain by Hyptosis (CC0).
 - Added child praying statue reworked by mold (CC0).
