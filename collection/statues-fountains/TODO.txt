@@ -9,3 +9,4 @@
   - Solarus Fountain: https://opengameart.org/node/79385
   - Statues: https://opengameart.org/node/70109
   - Suit of Armor: https://opengameart.org/node/20394
+- Separate CC0 licensed works into separate attribution image.
