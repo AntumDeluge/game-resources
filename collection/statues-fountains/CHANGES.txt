@@ -1,3 +1,7 @@
+0.3
+- Corrected some attributions.
+- Added wolf statue reworked by mold (CC0).
+
 0.2
 - Added Zabin's stone armor statue (CC BY 3.0).
 
