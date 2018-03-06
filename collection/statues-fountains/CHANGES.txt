@@ -1,3 +1,6 @@
+Next
+- Reworked Hyptosis's smaller fountain to be a simple pedestal.
+
 0.3
 - Corrected some attributions.
 - Added wolf statue reworked by mold (CC0).
