@@ -1,6 +1,8 @@
-Next
+0.4
 - Reworked Hyptosis's smaller fountain to be a simple pedestal.
-- Added angel/romanic statue by TheraHedwig (CC BY-SA 3.0 / GPL 3.0)
+- Added romanic angel statue by TheraHedwig (CC BY-SA 3.0 / GPL 3.0).
+- Added larger fountain from Mage City Arcanos (CC0).
+  - Animated by Zabin.
 
 0.3
 - Corrected some attributions.
