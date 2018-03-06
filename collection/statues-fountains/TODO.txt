@@ -4,7 +4,6 @@
   - Buddha statues 32x32: https://opengameart.org/node/17215
   - Daemon statue: https://opengameart.org/node/18189
   - Knight statue: https://opengameart.org/node/5884
-  - LPC Romanic Statues: https://opengameart.org/node/64532
   - LPC Statue: https://opengameart.org/node/79256
   - LPC Statue: https://opengameart.org/node/33913
   - Solarus Fountain: https://opengameart.org/node/79385

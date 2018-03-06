@@ -1,5 +1,6 @@
 Next
 - Reworked Hyptosis's smaller fountain to be a simple pedestal.
+- Added angel/romanic statue by TheraHedwig (CC BY-SA 3.0 / GPL 3.0)
 
 0.3
 - Corrected some attributions.
