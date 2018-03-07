@@ -1,0 +1,8 @@
+1.1
+- Created 24x32 scaled down versions.
+- Created 48x64 scaled up versions using scale2x filter.
+
+1.0
+- Initial release.
+- Reworked Sollision's mage sprite to use as drop-in replacement in Stendhal.
+- Recolored to create light mage.

@@ -1,0 +1,1 @@
+- Clean up pixellation of 48x64 sprites.
