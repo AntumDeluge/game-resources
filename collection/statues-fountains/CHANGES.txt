@@ -1,3 +1,6 @@
+Next
+- Added knight w/ sword, owls, & bear statues by RayaneFLX.
+
 0.4
 - Reworked Hyptosis's smaller fountain to be a simple pedestal.
 - Added romanic angel statue by TheraHedwig (CC BY-SA 3.0 / GPL 3.0).

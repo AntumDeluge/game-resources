@@ -29,5 +29,8 @@ By [Hyptosis](https://opengameart.org/user/2937) & [mold](https://opengameart.or
 By [Hyptosis](https://opengameart.org/user/2937) & [Zachariah Husiar (Zabin)](https://opengameart.org/user/3356):
 - animated large fountain from [Mage City Arcanos](https://opengameart.org/node/11192), reworked & animated by Zabin (CC0)
 
+By [Rayane Félix (RayaneFLX)](https://opengameart.org/user/42888):
+- knight w/ sword, owls, & bear from [Statues](https://opengameart.org/node/70109) (CC BY-SA 3.0)
+
 By [TheraHedwig](https://opengameart.org/user/32795):
 - romanic angel from [LPC Compatible Ancient Roman Architecture](https://opengameart.org/node/64532) (CC BY-SA 3.0 / GPL 3.0)
