@@ -1,0 +1,7 @@
+0.2
+- Created dark red recolor.
+- Created alternate dark red drapes.
+
+0.1
+- Initial release.
+- Created drapes & multiple recolors as drop-in replacements for Stendhal.
