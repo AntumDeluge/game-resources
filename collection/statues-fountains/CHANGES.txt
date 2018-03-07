@@ -2,6 +2,7 @@ Next
 - Added knight w/ sword, owls, & bear statues by RayaneFLX (CC BY-SA 3.0).
 - Created alternate knight w/ sword without ponytail from RayaneFLX's statue.
 - Added Casper Nilsson's foodog statue (CC BY-SA 3.0 / GPL 3.0).
+- Centered foodog statue.
 
 0.4
 - Reworked Hyptosis's smaller fountain to be a simple pedestal.
