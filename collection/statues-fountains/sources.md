@@ -13,11 +13,12 @@
 
 [OpenGameArt.org submission](https://opengameart.org/node/81798)
 
+By [Casper Nilsson](https://opengameart.org/user/2664):
+- foodog from [LPC Contest Entry](https://opengameart.org/content/lpc-cnilsson) (CC BY-SA 3.0 / GPL 3.0)
+
 By [Daniel Cook](https://plus.google.com/+DanielCookGameDesign):
-- stone armor
-  - Sources:
-    - [lostgarden.com](http://www.lostgarden.com/2006/07/more-free-game-graphics.html)
-    - [2d Lost Garden Zelda style tiles resized to 32x32 with additions](https://opengameart.org/node/11758) (CC BY 3.0)
+- stone armor from [lostgarden.com](http://www.lostgarden.com/2006/07/more-free-game-graphics.html)
+  - OpenGameArt.org submission by Zabin: [2d Lost Garden Zelda style tiles resized to 32x32 with additions](https://opengameart.org/node/11758) (CC BY 3.0)
 
 By [Hyptosis](https://opengameart.org/user/2937):
 - bust, column, & fountains from [Mage City Arcanos](https://opengameart.org/node/11192) (CC0)
