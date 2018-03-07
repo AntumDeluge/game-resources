@@ -99,6 +99,7 @@ Collections:
 - [LPC](collection/lpc/sources.md)
 - [OpenPixels](collection/openpixels/sources.md)
 - [Redshrike](collection/redshrike/sources.md)
+- [Statues & Fountains](collection/statues-fountains/sources.md)
 
 Other resources:
 - items & icons:
