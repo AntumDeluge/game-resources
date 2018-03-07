@@ -7,4 +7,4 @@
   - LPC Statue: https://opengameart.org/node/33913
   - Solarus Fountain: https://opengameart.org/node/79385
   - Suit of Armor: https://opengameart.org/node/20394
-- Separate CC0 licensed works into separate attribution image.
+- Possibly put all static images into alternative single sheet.
