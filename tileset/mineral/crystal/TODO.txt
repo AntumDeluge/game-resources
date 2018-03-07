@@ -1,1 +1,3 @@
 - Mirror tiles.
+- Create re-colors of alternate small crystal.
+- Merge alternate small crystal with other tilesets.
