@@ -1,0 +1,7 @@
+1.1
+- Added alternate small red crystal.
+- Re-licensed under CC0.
+
+1.0
+- Initial release.
+- Created crystals tilesets & multiple re-colors.
