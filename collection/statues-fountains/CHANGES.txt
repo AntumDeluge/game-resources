@@ -1,5 +1,6 @@
 Next
 - Added knight w/ sword, owls, & bear statues by RayaneFLX.
+- Created alternate knight w/ sword without ponytail from RayaneFLX's statue.
 
 0.4
 - Reworked Hyptosis's smaller fountain to be a simple pedestal.
