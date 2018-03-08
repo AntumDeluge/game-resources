@@ -1,0 +1,5 @@
+3c493b0-1
+- Added dragon corpse sprite.
+
+3c493b0
+- Added dragon sprites from Stendhal Git commit 3c493b0.
