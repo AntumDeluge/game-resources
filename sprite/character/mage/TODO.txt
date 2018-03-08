@@ -1,1 +1,2 @@
 - Clean up pixellation of 48x64 sprites.
+- Possibly make fullsheet images compatible with RPG Maker & RPGBoss.
