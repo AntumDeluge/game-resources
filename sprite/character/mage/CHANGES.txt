@@ -1,6 +1,8 @@
 1.1
 - Created 24x32 scaled down versions.
 - Created 48x64 scaled up versions using scale2x filter.
+- Fixed tile alignment on N & S facing frames.
+- Created alternate "offset" sprites.
 
 1.0
 - Initial release.
