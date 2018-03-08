@@ -1,0 +1,2 @@
+fbe764a
+- Added frogmen sprites from Stendhal Git commit fbe764a.
