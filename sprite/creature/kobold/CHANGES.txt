@@ -1,4 +1,4 @@
-1.0
+0.2
 - Reworked Cabbit style body.
 - Created outfit.
 - Created alternate eyes.

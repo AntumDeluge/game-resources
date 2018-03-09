@@ -1,4 +1,4 @@
-- Slightly raise head, eyes, & ears on N & S facing frames.
+- Touch up neck to make thicker/wider.
 - Create kobold archer.
 - Create kobold leader.
 - Create kobold soldier.
