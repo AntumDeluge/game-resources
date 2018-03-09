@@ -1,6 +1,6 @@
 - Touch up neck to make thicker/wider.
+- Scale leader kobold down to 24x32.
 - Create kobold archer.
-- Create kobold leader.
 - Create kobold soldier.
 - Create kobold veteran.
 - Create giant kobold.
