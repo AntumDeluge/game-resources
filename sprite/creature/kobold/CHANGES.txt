@@ -1,0 +1,12 @@
+1.0
+- Reworked Cabbit style body.
+- Created outfit.
+- Created alternate eyes.
+
+0.1
+- Created prototype kobold sprites from yolkati's Dog Soldier.
+  - Made side-facing head slightly smaller.
+  - Created short kobold.
+  - Created tall kobold.
+  - Created kobold with Cabbit style bodies.
+  - Created alternate ears.
