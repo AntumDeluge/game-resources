@@ -1,3 +1,6 @@
+Next
+- Scaled kobold-005 up to 96x128 with scale2x filter for Stendhal "giant kobold".
+
 0.2
 - Reworked Cabbit style body.
 - Created outfit.
