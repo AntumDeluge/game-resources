@@ -4,5 +4,3 @@
   - Needs bow & possibly quiver.
 - Create kobold soldier.
   - Needs axe.
-- Create kobold veteran.
-  - Needs beret.
