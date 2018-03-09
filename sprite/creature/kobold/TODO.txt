@@ -1,0 +1,6 @@
+- Slightly raise head, eyes, & ears on N & S facing frames.
+- Create kobold archer.
+- Create kobold leader.
+- Create kobold soldier.
+- Create kobold veteran.
+- Create giant kobold.
