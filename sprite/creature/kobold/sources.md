@@ -3,14 +3,16 @@
 <table style="border: 0px;">
   <tr style="border: 0px;">
     <td style="border: 0px; vertical-align: top;">
-      ![Original](PNG/24x32/kobold.png)
+      ![Static Preview](preview.png)
     </td>
     <td style="border: 0px; vertical-align: top;">
-      ![Cabbit](PNG/24x32/kobold-cabbit.png)
+      ![Animated Preview](preview.gif)
     </td>
   </tr>
 </table>
 
+
+[OpenGameArt.org submission](https://opengameart.org/node/81952)
 
 By [yolkati](https://opengameart.org/user/1404):
 - [Dog soldier](https://opengameart.org/node/15636) (CC BY-SA 3.0)
