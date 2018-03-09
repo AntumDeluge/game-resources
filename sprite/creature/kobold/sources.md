@@ -17,9 +17,6 @@
 By [Michael Williams (BizmasterStudios)](https://opengameart.org/user/34190):
 - [Shield Icons (from "PixelTime" videos)](https://opengameart.org/node/64857) (CC BY 3.0)
 
-By [Stephen Challener (Redshrike)](https://opengameart.org/user/47):
-- [Four characters: My LPC entries](https://opengameart.org/node/11152) (OGA BY 3.0 / CC BY 3.0 / CC BY-SA 3.0)
-
 By [Svetlana Kushnariova (Cabbit)](https://opengameart.org/user/15048):
 - [24x32 bases](https://opengameart.org/node/24944) (CC0)
 - [24x32 characters, 16x16 tiles](https://opengameart.org/node/72969) (OGA BY 3.0 / CC BY 3.0)
