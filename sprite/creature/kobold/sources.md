@@ -22,6 +22,7 @@ By [Stephen Challener (Redshrike)](https://opengameart.org/user/47):
 
 By [Svetlana Kushnariova (Cabbit)](https://opengameart.org/user/15048):
 - [24x32 bases](https://opengameart.org/node/24944) (CC0)
+- [24x32 characters, 16x16 tiles](https://opengameart.org/node/72969) (OGA BY 3.0 / CC BY 3.0)
 
 By [yolkati](https://opengameart.org/user/1404):
 - [Dog soldier](https://opengameart.org/node/15636) (CC BY-SA 3.0)
