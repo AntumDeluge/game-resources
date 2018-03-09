@@ -1,7 +1,7 @@
-Next
+0.3
 - Scaled kobold-005 up to 96x128 with scale2x filter for Stendhal "giant kobold".
 - Created kobold soldier sprite with alternate outfit & helmet.
-- Created 48x64 kobold leader with shield & helmet.
+- Created kobold leader with shield & helmet.
 - Created kobold veteran with beret.
 
 0.2
