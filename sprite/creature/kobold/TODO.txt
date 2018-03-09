@@ -1,6 +1,9 @@
 - Touch up neck to make thicker/wider.
 - Scale leader kobold down to 24x32.
 - Create kobold archer.
+  - Needs bow & possibly quiver.
 - Create kobold soldier.
+  - Needs axe.
+  - Needs helmet.
 - Create kobold veteran.
-- Create giant kobold.
+  - Needs beret.
