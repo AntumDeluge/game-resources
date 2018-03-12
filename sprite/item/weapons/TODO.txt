@@ -1,0 +1,1 @@
+- Create sheet for use with 24x32 character sprites.
