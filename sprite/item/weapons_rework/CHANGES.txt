@@ -1,0 +1,5 @@
+0.2
+- Reworked battle axe to 24x32 sheet for Cabbit style sprites.
+
+0.1
+- Scaled down GrumpyDiamond's axe to 14x14 & 16x16, & reworked to battle axe.
