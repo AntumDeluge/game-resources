@@ -14,6 +14,12 @@
 
 [OpenGameArt.org submission](https://opengameart.org/node/81952)
 
+By [GrumpyDiamond](https://opengameart.org/user/32684):
+- [Pixel Weapons1](https://opengameart.org/node/54590) (CC0)
+
+By [GrumpyDiamond](https://opengameart.org/user/32684) & [Jordan Irwin (AntumDeluge)](https://opengameart.org/user/5625):
+- [Battle Axe / Weapons Rework](https://opengameart.org/node/82261) (CC0)
+
 By [Michael Williams (BizmasterStudios)](https://opengameart.org/user/34190):
 - [Shield Icons (from "PixelTime" videos)](https://opengameart.org/node/64857) (CC BY 3.0)
 

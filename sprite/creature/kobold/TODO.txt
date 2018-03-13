@@ -1,5 +1,3 @@
 - Touch up neck to make thicker/wider.
 - Create kobold archer.
   - Needs bow & possibly quiver.
-- Create kobold soldier.
-  - Needs axe.
