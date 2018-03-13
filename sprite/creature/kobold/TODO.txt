@@ -1,3 +1,4 @@
 - Touch up neck to make thicker/wider.
 - Create kobold archer.
   - Needs bow & possibly quiver.
+- Export all sprite sheets with variations in ears & eyes.
