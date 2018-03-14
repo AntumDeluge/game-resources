@@ -21,6 +21,7 @@ By [GrumpyDiamond](https://opengameart.org/user/32684) & [Jordan Irwin (AntumDel
 - [Battle Axe / Weapons Rework](https://opengameart.org/node/82261) (CC0)
 
 By [Michael Williams (BizmasterStudios)](https://opengameart.org/user/34190):
+- [Bow Icons (From "PixelTime" Videos)](https://opengameart.org/node/66349) (CC BY 3.0)
 - [Shield Icons (from "PixelTime" videos)](https://opengameart.org/node/64857) (CC BY 3.0)
 
 By [Svetlana Kushnariova (Cabbit)](https://opengameart.org/user/15048):
