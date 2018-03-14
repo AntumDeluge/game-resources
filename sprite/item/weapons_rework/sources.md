@@ -16,5 +16,8 @@
 
 [OpenGameArt.org submission](https://opengameart.org/node/82261)
 
+By [Michael Williams (BizmasterStudios)](https://opengameart.org/user/34190):
+- [Bow Icons (From "PixelTime" Videos)](https://opengameart.org/node/66349) (CC BY 3.0)
+
 By [GrumpyDiamond](https://opengameart.org/user/32684):
 - [Pixel Weapons1](https://opengameart.org/node/54590) (CC0)

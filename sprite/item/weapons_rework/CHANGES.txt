@@ -1,3 +1,6 @@
+Next
+- Scaled & reworked BizmasterStudios' bow for Cabbit style sprites.
+
 0.2
 - Reworked battle axe to 24x32 sheet for Cabbit style sprites.
 
