@@ -1,6 +1,5 @@
 - Touch up neck to make thicker/wider.
 - Scale kobold archer down to 24x32.
 - Export all sprite sheets with variations in ears & eyes.
-- Create kobold barmaid sprite (Wrviliza).
 - Create kobold chef sprite (Kroip).
 - Create kobold trader sprite (Wrvil).

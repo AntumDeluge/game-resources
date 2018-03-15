@@ -1,5 +1,6 @@
 Next
 - Created 48x64 kobold archer with reworked bow by BizmasterStudios.
+- Created kobold barmaid.
 
 0.4
 - Added axe to kobold soldier.
