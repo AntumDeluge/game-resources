@@ -1,6 +1,9 @@
 Next
+- Renamed PNG images.
+- Deleted images that will not be used.
 - Created kobold archer with bow.
 - Created kobold barmaid.
+- Exported more styles of each kobold with alt. eyes & ears.
 
 0.4
 - Added axe to kobold soldier.
