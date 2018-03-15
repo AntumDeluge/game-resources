@@ -1,4 +1,4 @@
-Next
+0.5
 - Renamed PNG images.
 - Deleted images that will not be used.
 - Created kobold archer with bow.
