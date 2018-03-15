@@ -1,4 +1,2 @@
 - Create kobold chef sprite (Kroip).
 - Create kobold trader sprite (Wrvil).
-- Touch up neck to make thicker/wider.
-- Export all sprite sheets with variations in ears & eyes.
