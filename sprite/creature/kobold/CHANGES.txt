@@ -1,5 +1,5 @@
 Next
-- Created 48x64 kobold archer with reworked bow by BizmasterStudios.
+- Created kobold archer with bow.
 - Created kobold barmaid.
 
 0.4
