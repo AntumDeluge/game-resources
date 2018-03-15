@@ -1,3 +1,6 @@
+Next
+- Created kobold chef.
+
 0.5
 - Renamed PNG images.
 - Deleted images that will not be used.

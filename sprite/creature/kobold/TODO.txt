@@ -1,2 +1,1 @@
-- Create kobold chef sprite (Kroip).
 - Create kobold trader sprite (Wrvil).

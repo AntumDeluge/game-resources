@@ -24,6 +24,9 @@ By [Michael Williams (BizmasterStudios)](https://opengameart.org/user/34190):
 - [Bow Icons (From "PixelTime" Videos)](https://opengameart.org/node/66349) (CC BY 3.0)
 - [Shield Icons (from "PixelTime" videos)](https://opengameart.org/node/64857) (CC BY 3.0)
 
+By [One Man Army](https://opengameart.org/user/40926):
+- [Pig Chef [48x48]](https://opengameart.org/node/69527) (CC0)
+
 By [Svetlana Kushnariova (Cabbit)](https://opengameart.org/user/15048):
 - [24x32 bases](https://opengameart.org/node/24944) (CC0)
 - [24x32 characters, 16x16 tiles](https://opengameart.org/node/72969) (OGA BY 3.0 / CC BY 3.0)
