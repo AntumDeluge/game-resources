@@ -1,0 +1,5 @@
+1.0
+- Reworked Cabbit's Snow-M-01 sprite:
+  - Used "heavy" base for body.
+  - Added beard.
+  - Created black re-color.
