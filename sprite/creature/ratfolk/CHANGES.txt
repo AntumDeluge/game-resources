@@ -1,2 +1,3 @@
 0.1
 - Created male & female ratfolk base sprites.
+- Scaled Redshrike's rat_king sprite to 32x48.
