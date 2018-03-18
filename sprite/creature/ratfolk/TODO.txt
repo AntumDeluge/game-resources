@@ -1,4 +1,3 @@
 - Add tail.
-- Create animated preview.
 - Upload zip archive with GIMP sources to OGA submission.
 - Ask Redshrike for permission to release this under "OGA BY version 3.0 or later".
