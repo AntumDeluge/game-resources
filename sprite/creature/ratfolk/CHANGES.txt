@@ -1,5 +1,5 @@
-Next
-- Created ratfolk chef sprite.
+0.2
+- Created ratfolk chef sprites.
 
 0.1
 - Created male & female ratfolk base sprites.
