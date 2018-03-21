@@ -1,4 +1,2 @@
 - Create outfits.
 - Edit outfit for female chef.
-- Upload zip archive with GIMP sources to OGA submission.
-- Ask Redshrike for permission to release this under "OGA BY version 3.0 or later".
