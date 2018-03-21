@@ -1,4 +1,5 @@
 0.2
+- Licensed under OGA BY in addition to CC BY.
 - Created ratfolk chef sprites.
 
 0.1
