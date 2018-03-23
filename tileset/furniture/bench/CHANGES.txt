@@ -1,0 +1,5 @@
+0.1
+- Reworked Hyptosis's bench from Mage City Arcanos.
+- Created white recolor.
+- Reworked to make backless bench.
+- Rotated backless bench 90 degrees.
