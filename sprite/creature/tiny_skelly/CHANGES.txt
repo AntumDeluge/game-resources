@@ -1,0 +1,4 @@
+1.0
+- Reworked Redshrike's skeleton sprite for use in Stendhal.
+- Created 16x18, 16x32, 24x32, & 32x32 versions.
+- Used scalex2 filter to create 48x64 version.
