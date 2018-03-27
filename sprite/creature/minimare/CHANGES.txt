@@ -1,0 +1,4 @@
+1.0
+- Reworked TKZ Productions' minimare sprite.
+  - Created 24x32, 32x32, & 48x64 (scale2x filter versions).
+  - Created darker recolor.
