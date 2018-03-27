@@ -1,4 +1,4 @@
-### Brain Monster Sprite Sources
+### Minimare Rework Sprites Sources
 
 <table style="border: 0px;">
   <tr style="border: 0px;">
