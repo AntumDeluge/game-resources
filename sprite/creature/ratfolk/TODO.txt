@@ -1,2 +1,3 @@
 - Create outfits.
 - Edit outfit for female chef.
+- Fix female outfit center frames.
