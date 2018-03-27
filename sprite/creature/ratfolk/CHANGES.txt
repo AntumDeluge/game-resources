@@ -2,6 +2,7 @@
 - Created archrat sprite with cloak & flames.
 - Added female ratfolk outfit.
 - Added male ratfolk outfit.
+- Touched up base sprites.
 
 0.2
 - Licensed under OGA BY in addition to CC BY.
