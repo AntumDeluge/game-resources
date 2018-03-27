@@ -1,0 +1,2 @@
+- Rework legs to create more movement.
+- Create recolors.
