@@ -14,7 +14,7 @@
 </table>
 
 
-[OpenGameArt.org submission](https://opengameart.org/node/50703)
+[OpenGameArt.org submission](https://opengameart.org/node/82760)
 
 By [Kevin Smith (TKZ Productions)](https://opengameart.org/users/TKZ-Productions):
 - [A Lonely Nightmare - Minimare (Monster)](https://opengameart.org/node/50703) (CC BY 3.0)
