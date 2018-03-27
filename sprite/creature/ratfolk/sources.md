@@ -16,6 +16,9 @@
 
 [OpenGameArt.org submission](https://opengameart.org/node/82451)
 
+By [diamonddmgirl](https://opengameart.org/users/diamonddmgirl):
+- [24x32 Pepper&Carrot Characters](https://opengameart.org/node/74802) (CC BY 3.0)
+
 By [DkuCook](https://opengameart.org/users/DkuCook):
 - [Fire Ball Pixel](https://opengameart.org/node/76781) (CC0)
 
