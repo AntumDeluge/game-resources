@@ -1,5 +1,6 @@
 1.2
 - Reworked side frames of robot for better "rocking" motion.
+- Created alternate robot with "scanning" eyes.
 
 1.1
 - Separated parts into layers in GIMP source.
