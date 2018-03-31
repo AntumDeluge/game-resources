@@ -1,3 +1,6 @@
+3a64993
+- Added blue dragon sprite from Stendhal Git commit 3a64993.
+
 3c493b0-1
 - Added dragon corpse sprite.
 
