@@ -15,6 +15,8 @@
 
 All artwork Copyright © 2017-2018 Kimmo Rundelin
 
+Stendhal homepage: https://stendhalgame.org/
+
 [OpenGameArt.org submission](https://opengameart.org/node/81282)
 
 Sprites:
