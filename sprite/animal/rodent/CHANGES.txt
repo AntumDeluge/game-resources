@@ -1,0 +1,2 @@
+1.0
+- Reworked Reemax's rat sprite to a mouse.
