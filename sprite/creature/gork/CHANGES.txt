@@ -10,3 +10,4 @@ Next
 - Touched up east-facing frame 3 (pixel out of place)
 - Touched up north-facing frame 3 (pixel shading)
 - Re-ordered west-facing frames.
+- Began touching up 32x32 sprite to replace 32x32_scale version.
