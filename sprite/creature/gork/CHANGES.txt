@@ -5,6 +5,7 @@ Next
 - Scaled 24x24 versions to 48x48 w/ scale2x filter.
 - Scaled 24x24 versions to 48x48 w/out filter.
 - Scaled 24x32 versions to 48x64 w/ scale2x filter.
+- Scaled 24x32 versions to 48x64 w/out filter.
 
 0.1
 - Added Kemono's 16x16 gork sprite.
