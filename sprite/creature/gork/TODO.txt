@@ -2,3 +2,4 @@
 - Touch up & smooth 32x48 sprite.
 - Create 48x64 version(s).
 - Create recolors.
+- Rework legs & body to give more movement.
