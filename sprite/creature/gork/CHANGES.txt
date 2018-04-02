@@ -4,3 +4,6 @@ Next
 - Created alternate sprite with reordered rows to NESW format for Stendhal.
 - Scaled to 32x32 w/out filter.
 - Scaled to 32x32 w/ scale2x filter.
+- Created 16x24 versions.
+- Scaled 16x24 sprite to 32x48 w/out filter.
+- Scaled 16x24 sprite to 32x48 w/ scale2x filter.
