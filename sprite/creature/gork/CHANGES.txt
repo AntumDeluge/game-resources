@@ -3,6 +3,7 @@ Next
 - Scaled 16x16 sprites up to 24x24 versions.
 - Created 24x32 versions from 24x24 sprites.
 - Scaled 24x24 versions to 48x48 w/ scale2x filter.
+- Scaled 24x24 versions to 48x48 w/out filter.
 - Scaled 24x32 versions to 48x64 w/ scale2x filter.
 
 0.1
