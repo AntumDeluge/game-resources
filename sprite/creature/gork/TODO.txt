@@ -1,4 +1,4 @@
 - Touch up & smooth 32x32 sprite.
-- Create 32x48 version(s).
+- Touch up & smooth 32x48 sprite.
 - Create 48x64 version(s).
 - Create recolors.
