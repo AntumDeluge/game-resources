@@ -1,5 +1,6 @@
 Next
 - Created S/W/E/N version of 32x32 sprite.
+- Scaled 16x16 sprites up to 24x24 versions.
 
 0.1
 - Added Kemono's 16x16 gork sprite.
