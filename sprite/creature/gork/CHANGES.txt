@@ -1,4 +1,4 @@
-Next
+0.1
 - Added Kemono's 16x16 gork sprite.
 - Removed duplicate column.
 - Created alternate sprite with reordered rows to NESW format for Stendhal.
