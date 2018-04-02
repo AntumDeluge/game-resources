@@ -1,5 +1,7 @@
-Next
-- Add 50% scaled down version of RayaneFLX's knight statue.
+0.6
+- Added 50% scaled down version of RayaneFLX's knight statue.
+- Added mold's column.
+- Added Clint Bellanger's tombwoof (rotated by mold).
 
 0.5
 - Added knight w/ sword, owls, & bear statues by RayaneFLX (CC BY-SA 3.0).
