@@ -1,0 +1,2 @@
+1.0
+- Created djinn sprites from Cabbit's bases & mermaid.
