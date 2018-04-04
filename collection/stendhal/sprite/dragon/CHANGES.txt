@@ -1,3 +1,7 @@
+e3690cd
+- Created purple dragon recolor of green dragon.
+  - Added to Stendhal at Git commit e3690cd.
+
 3a64993
 - Added blue dragon sprite from Stendhal Git commit 3a64993.
 
