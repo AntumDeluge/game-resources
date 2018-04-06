@@ -1,0 +1,3 @@
+Next
+- Reworked Cabbit's female pirate to fit body-f-AA2.
+- Copied bearded man from Cabbit collection to male pirate sprite.
