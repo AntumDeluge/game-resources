@@ -1,0 +1,4 @@
+1.0
+- Reworked & animated artisticdude's skeleton sprite.
+- Scaled to 48x64 w/out filter.
+- Scaled to 48x64 w/ scale2x filter.
