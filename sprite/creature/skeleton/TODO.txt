@@ -1,0 +1,6 @@
+- Recolor to red for demon skeleton.
+- Rework N/S-facing arms to reduce swinging effect.
+- Upload to OGA in zip archive.
+- Upload 48x64 versions.
+- Create S/W/E/N formatted versions for RPG Maker & RPGBoss.
+- Touch-up & smooth 48x64 version.
