@@ -1,3 +1,6 @@
+Next
+- Created ratfolk children sprites.
+
 0.3
 - Created archrat sprite with cloak & flames.
 - Added female ratfolk outfit.
