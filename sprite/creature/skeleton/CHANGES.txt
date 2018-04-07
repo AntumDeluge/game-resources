@@ -1,3 +1,8 @@
+1.1
+- Converted 48x64 sprites to indexed color (missed in previous version).
+- Created alternate skeleton sprite with red eyes.
+- Created red re-color for demon_skeleton.
+
 1.0
 - Reworked & animated artisticdude's skeleton sprite.
 - Scaled to 48x64 w/out filter.
