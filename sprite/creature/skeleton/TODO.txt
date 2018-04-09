@@ -1,4 +1,4 @@
-- Rework N/S-facing arms to reduce swinging effect.
 - Create S/W/E/N formatted versions for RPG Maker & RPGBoss.
 - Touch-up & smooth 48x64 version.
 - Create warrior_skeleton with helmet & shield.
+- Scale current sprite to 168x224 to update gashadokuro creature.
