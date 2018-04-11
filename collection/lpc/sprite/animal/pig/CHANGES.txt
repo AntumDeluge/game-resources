@@ -1,0 +1,2 @@
+1.0
+- Reworked daneeklu's LPC pig sprite for use in Stendhal.
