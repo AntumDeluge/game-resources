@@ -1,4 +1,6 @@
 - Create S/W/E/N formatted versions for RPG Maker & RPGBoss.
-- Touch-up & smooth 48x64 version.
+- Touch-up & smooth 48x64 versions.
+- Touch-up & smooth 168x224 versions.
 - Create warrior_skeleton with helmet & shield.
-- Scale current sprite to 168x224 to update gashadokuro creature.
+- Touch-up head movement of side frames.
+- Touch-up arms of north-facing frames 1 & 3.
