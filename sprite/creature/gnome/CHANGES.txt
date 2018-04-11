@@ -1,0 +1,11 @@
+1.3
+- Created outfit re-color for female gnome.
+
+1.2
+- Created female gnome sprite.
+
+1.1
+- Created soldier gnome sprite.
+
+1.0
+- Reworked isaiah658's Green Cap Character to gnome sprite.
