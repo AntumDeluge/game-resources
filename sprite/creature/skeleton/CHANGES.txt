@@ -1,3 +1,6 @@
+Next
+- Created warrior skeleton sprite w/ shield by LordNeo.
+
 1.2
 - Reworked N/S-facing arms to reduce swinging effect.
 - Created scaled up 168x224 versions for Stendhal's gashadokuro creature.

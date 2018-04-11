@@ -21,3 +21,6 @@
 
 By [artisticdude](https://opengameart.org/users/artisticdude):
 - [Zombies & Skeletons](https://opengameart.org/node/6669) (CC0)
+
+By [LordNeo](https://opengameart.org/users/LordNeo):
+- [round shield [64x64]](https://opengameart.org/node/10893) (CC0)
