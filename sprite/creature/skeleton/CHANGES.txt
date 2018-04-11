@@ -1,5 +1,6 @@
-Next
+1.2
 - Reworked N/S-facing arms to reduce swinging effect.
+- Created scaled up 168x224 versions for Stendhal's gashadokuro creature.
 
 1.1
 - Converted 48x64 sprites to indexed color (missed in previous version).
