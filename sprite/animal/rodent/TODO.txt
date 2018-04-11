@@ -1,1 +1,2 @@
 - Rework N-facing frames to make mouse smaller.
+- Touch up & smooth 64x64 versions.

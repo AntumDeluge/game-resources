@@ -1,3 +1,8 @@
+Next
+- Created multiple re-colors of rat.
+- Scaled up to 64x64 w/out filter.
+- Scaled up to 64x64 w/ scale2x filter.
+
 1.0
 - Reworked Reemax's rat sprite.
 - Reworked Reemax's rat sprite to a mouse.
