@@ -1,0 +1,18 @@
+Next
+- Created orc_shaman sprite using Angry Amish's skull.
+
+1.4
+- Created orc_salesman sprite.
+
+1.3
+- Created orc_chief & orc_hunter sprites.
+
+1.2
+- Created brown re-color of orc_spearman.
+- Created orc_warrior sprite.
+
+1.1
+- Created orc_spearman sprite.
+
+1.0
+- Reworked Reemax's Muscleman/Ogre/Minotaur to orc sprites.
