@@ -1,5 +1,5 @@
-Next
-- Created warrior skeleton sprite w/ shield by LordNeo.
+1.3
+- Created warrior skeleton sprite w/ shield by LordNeo & helmet.
 
 1.2
 - Reworked N/S-facing arms to reduce swinging effect.

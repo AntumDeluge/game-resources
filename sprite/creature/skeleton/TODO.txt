@@ -1,6 +1,5 @@
 - Create S/W/E/N formatted versions for RPG Maker & RPGBoss.
 - Touch-up & smooth 48x64 versions.
 - Touch-up & smooth 168x224 versions.
-- Create helmet for warrior_skeleton.
 - Touch-up head movement of side frames.
 - Touch-up arms of north-facing frames 1 & 3.
