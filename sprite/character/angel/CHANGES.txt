@@ -1,0 +1,5 @@
+Next
+- Created angel-m sprite.
+- Created 48x64 angel-f sprites.
+- Created fallen_angel sprite.
+- Created dark_angel sprite.
