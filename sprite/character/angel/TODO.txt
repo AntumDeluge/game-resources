@@ -1,0 +1,2 @@
+- Scale female angels down to 24x32.
+- Scale fallen angel's wings down to 24x32.
