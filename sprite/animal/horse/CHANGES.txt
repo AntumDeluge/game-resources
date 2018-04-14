@@ -1,3 +1,6 @@
+Next
+- Created 64x85 pegasus sprite.
+
 1.1
 - Created unicorn sprite.
 
