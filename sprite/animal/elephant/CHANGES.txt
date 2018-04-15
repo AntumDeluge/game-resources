@@ -1,0 +1,4 @@
+Next
+- Reworked lawnjelly's side-facing elephant sprite for use in Stendhal.
+  - Used images 0014.png & 0041.png for frames 1 & 3.
+  - Mixed images 0019.png, 0002.png, & 0031.png for frame 2.
