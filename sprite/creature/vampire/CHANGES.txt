@@ -1,7 +1,6 @@
 1.0
 - Reworked CharlesGabriel's vampire sprite for use in Stendhal.
 - Adjusted side-facing frames.
-- Created 16x24, 24x32, & 32x48, 32x48, & 48x64 versions.
-- Used scalex2 filter to create alternate 32x48 & 48x64 versions.
+- Created 24x32, 48x64 scaled w/out filter, & 48x64 scaled w/ scale2x filter versions.
 - Created female vampire sprite.
 - Created transformed (evil) versions of male & female vampires.
