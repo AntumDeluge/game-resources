@@ -2,6 +2,7 @@
 - Touch-up female vampire dress to match body style.
 - Create vampirette.
 - Create vampirette transformed version.
+- Create sick vampire.
 - Create transformation animation.
 - Create S/W/E/N versions (for RPG Maker & RPG Boss).
 - Create 32x48 versions (for RPGBoss).
