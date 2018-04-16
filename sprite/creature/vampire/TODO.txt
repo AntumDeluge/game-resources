@@ -1,6 +1,5 @@
 - Add more animation to cloak.
-- Create hair for vampire male transformed version.
-- Create hair for vampire female transformed version.
+- Touch-up female vampire dress to match body style.
 - Create vampirette.
 - Create vampirette transformed version.
 - Create transformation animation.
