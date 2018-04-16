@@ -1,3 +1,6 @@
+Next
+- Created vampirette sprite.
+
 1.0
 - Reworked CharlesGabriel's vampire sprite for use in Stendhal.
 - Adjusted side-facing frames.

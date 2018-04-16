@@ -1,6 +1,5 @@
 - Add more animation to cloak.
 - Touch-up female vampire dress to match body style.
-- Create vampirette.
 - Create vampirette transformed version.
 - Create sick vampire.
 - Create transformation animation.
