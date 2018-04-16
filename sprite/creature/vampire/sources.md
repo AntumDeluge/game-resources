@@ -1,4 +1,4 @@
-### Vampire Sprites Sources
+### Vampires Rework Sprites Sources
 
 <table style="border: 0px;">
   <tr style="border: 0px;">
@@ -21,3 +21,4 @@ By [Charles Sanchez (CharlesGabriel)](https://opengameart.org/users/CharlesGabri
 
 By [Svetlana Kushnariova (Cabbit)](https://opengameart.org/users/Cabbit):
 - [24x32 bases](https://opengameart.org/node/24944) (CC0)
+- [24x32 characters, 16x16 tiles](https://opengameart.org/node/72969) (OGA BY 3.0)
