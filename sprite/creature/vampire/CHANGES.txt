@@ -1,5 +1,6 @@
 Next
 - Created vampirette sprite.
+- Created transformed (evil) version of vampirette.
 
 1.0
 - Reworked CharlesGabriel's vampire sprite for use in Stendhal.
