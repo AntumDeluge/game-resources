@@ -1,3 +1,6 @@
+Next
+- Created old_vampire sprite.
+
 1.1
 - Created vampirette sprite.
 - Created transformed (evil) version of vampirette.
