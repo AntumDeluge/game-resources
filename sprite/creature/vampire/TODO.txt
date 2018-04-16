@@ -1,9 +1,8 @@
 - Add more animation to cloak.
-- Create vampire transformed version.
-- Create vampire bride transformed version.
+- Create hair for vampire male transformed version.
+- Create hair for vampire female transformed version.
 - Create vampirette.
 - Create vampirette transformed version.
 - Create transformation animation.
-- Create S/W/E/N versions (fro RPG Maker & RPG Boss).
+- Create S/W/E/N versions (for RPG Maker & RPG Boss).
 - Create 32x48 versions (for RPGBoss).
-- Create 48x64 versions (for Stendhal).
