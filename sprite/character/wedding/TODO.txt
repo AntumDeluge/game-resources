@@ -1,1 +1,2 @@
 - Create veil for bride.
+- Create S/W/E/N formatted versions for RPG Maker & RPGBoss.
