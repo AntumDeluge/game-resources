@@ -1,0 +1,2 @@
+0.1
+- Created bride & groom wedding sprites.
