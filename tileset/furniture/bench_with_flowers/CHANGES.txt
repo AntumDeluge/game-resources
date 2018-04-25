@@ -1,9 +1,12 @@
-1.0:
+1.1
+- Created vertical benches w/ flowers.
+
+1.0
 - Changed around some flowers.
 - Added a third tileset.
 - Added flowers by bluecarrot16 & Guido Bos.
 
-Pre 1.0:
+Pre 1.0
 - Created N/S facing bench_with_flowers tilesets from multiple sources:
   - [LPC] Flowers / Plants / Fungi / Wood: https://opengameart.org/node/80124 (OGA BY 2.0+ / CC BY 2.0+ / GPL 2.0+)
   - [LPC] Guido Bos entries cut up: https://opengameart.org/node/11319 (CC BY-SA 3.0 / GPL 3.0)
