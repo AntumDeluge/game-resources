@@ -1,5 +1,6 @@
 1.1
 - Created 144x128 gold re-color.
+- Created 144x128 twin headed dragon.
 
 1.0
 - Reworked ZaPaper's red dragon sprite for use in Stendhal.

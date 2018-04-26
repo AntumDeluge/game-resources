@@ -1,3 +1,2 @@
 - Create 191x161 gold re-colors.
-- Re-work to twin headed dragon.
 - Create S/W/E/N versions.
