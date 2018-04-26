@@ -1,2 +1,3 @@
-- Create gold recolor.
+- Create gold re-color.
 - Re-work to twin headed dragon.
+- Create S/W/E/N versions.
