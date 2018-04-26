@@ -1,0 +1,6 @@
+1.0
+- Reworked ZaPaper's red dragon sprite for use in Stendhal.
+  - Changed canvas size.
+  - Only using 12 frames.
+  - Re-ordered frames.
+- Created version scaled down to 144x128.
