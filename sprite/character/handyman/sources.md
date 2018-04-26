@@ -16,6 +16,9 @@
 
 [OpenGameArt.org submission](https://opengameart.org/node/82370)
 
+#### Source Assets:
+---
+
 By [GrumpyDiamond](https://opengameart.org/user/32684) & [Jordan Irwin (AntumDeluge)](https://opengameart.org/user/5625):
 - [Battle Axe/Weapons Rework](https://opengameart.org/node/82261) (CC0)
 
