@@ -44,11 +44,11 @@ for IMG in ${SOURCE}; do
     # Arguments:
     #   -colors 255: Make 8-bit palette
     #   -type PaletteMatte: ???
-    #convert -verbose -define png:color-type=6 -colorspace sRGB "${IMG}" -depth 4 -define png:color-type=3 -colors 255 -type Palette "${IMG}"
+    #convert -verbose -define png:color-type=6 -colorspace sRGB "${IMG}" -depth 4 -define png:color-type=3 -colors 256 -type Palette "${IMG}"
 
 
     # Step 2 alt: Convert image to indexed color with pngquant.
-    pngquant -v --force --nofs --speed 1 --quality 100-100 -o "${IMG}" 255 "${IMG}"
+    pngquant -v --force --nofs --speed 1 --quality 100-100 -o "${IMG}" 256 "${IMG}"
 done
 
 

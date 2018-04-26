@@ -39,7 +39,7 @@ for IMG in ${SOURCE}; do
     #  - nofs:
     #  - speed 1: Prioritze quality over speed
     #  - quality 80-100: Allow quality loss of up to 20% (lossy)
-    pngquant -v -f --nofs --speed 1 --quality 80-100 -o "${IMG}" 255 "${IMG}"
+    pngquant -v -f --nofs --speed 1 --quality 80-100 -o "${IMG}" 256 "${IMG}"
 done
 
 
