@@ -1,0 +1,17 @@
+- Create dwarf guardian.
+- Create elder dwarf.
+- Create hero dwarf.
+- Create leader dwarf.
+- Create giant dwarf.
+- Create Lord Durin.
+- Create dwarf NPC.
+- Create dwarf guardian NPC.
+- Create dwarf guard NPC.
+- Create duergar.
+- Create duergar axeman.
+- Create black duergar.
+- Create elder duergar.
+- Create duergar hero.
+- Create duergar king.
+- Create duergar wizard.
+- Create duergar elite.
