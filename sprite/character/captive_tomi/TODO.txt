@@ -1,1 +1,1 @@
-- Create animated captive tomi tileset.
+- Create captive Tomi full spritesheet.
