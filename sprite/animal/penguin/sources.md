@@ -14,7 +14,7 @@
 </table>
 
 
-[OpenGameArt.org submission](https://opengameart.org/node/)
+[OpenGameArt.org submission](https://opengameart.org/node/83751)
 
 #### Source Assets:
 ---
