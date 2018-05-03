@@ -1,6 +1,4 @@
 - Finish female Welcomer NPC sprite.
-  - Rework dress.
   - Add hair.
-  - Finish bracelets.
   - Export PNG images.
 - Create static & animated preview images.
