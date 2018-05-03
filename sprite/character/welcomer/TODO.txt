@@ -1,4 +1,1 @@
-- Finish female Welcomer NPC sprite.
-  - Add hair.
-  - Export PNG images.
 - Create static & animated preview images.
