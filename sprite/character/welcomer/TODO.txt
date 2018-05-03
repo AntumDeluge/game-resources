@@ -1,1 +1,0 @@
-- Create static & animated preview images.
