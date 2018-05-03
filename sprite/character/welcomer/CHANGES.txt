@@ -1,0 +1,2 @@
+1.0
+- Created welcomer NPC sprite for Stendhal using modified Cabbit bases & reworked dress.
