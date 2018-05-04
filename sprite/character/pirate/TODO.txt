@@ -1,3 +1,2 @@
 - Create more recolors.
 - Rework male pirate to fit modified Cabbit body.
-- Create captain sprites.
