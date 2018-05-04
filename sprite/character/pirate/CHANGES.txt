@@ -1,5 +1,9 @@
+1.1
+- Made pirate-m 001 through 003 legs shorter.
+- Made pirate-m-004 legs shorter.
+- Created captain sprite.
+
 1.0
 - Reworked Cabbit's female pirate to fit body-f-AA2.
 - Copied bearded man from Cabbit collection to male pirate sprite.
 - Created smaller male pirate.
-- Created captain sprite.
