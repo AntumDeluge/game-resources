@@ -1,0 +1,4 @@
+- Touch up 24x32 male barista.
+- Touch up & smooth 48x64 versions.
+- Finish female bartender.
+- Create male bartender for Stendhal's cocktail bar.
