@@ -1,2 +1,2 @@
-- Scale down to fit 24x32 sprites.
+- Touch up 24x32 version.
 - Create dirndl (female version of lederhosen).
