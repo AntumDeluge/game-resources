@@ -1,3 +1,6 @@
+1.1
+- Created dirndl outfit for Cabbit sprites.
+
 1.0
 - Initial release for OpenGameArt.org.
 - Created lederhosen outfit for Charas sprites (48x64).
