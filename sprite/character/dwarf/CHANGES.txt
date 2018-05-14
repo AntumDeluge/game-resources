@@ -1,4 +1,4 @@
-Next
+1.0
 - Created dwarf sprite.
 - Created dwarf hero sprite.
 - Created dwarf guardian sprite.
