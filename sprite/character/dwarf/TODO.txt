@@ -1,4 +1,3 @@
-- Create elder dwarf.
 - Create giant dwarf.
 - Create Lord Durin.
 - Create dwarf NPC.
