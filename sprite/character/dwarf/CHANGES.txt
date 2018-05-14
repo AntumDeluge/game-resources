@@ -1,2 +1,3 @@
 Next
 - Created dwarf sprite.
+- Created hero dwarf sprite.

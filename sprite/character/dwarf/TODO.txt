@@ -1,6 +1,5 @@
 - Create dwarf guardian.
 - Create elder dwarf.
-- Create hero dwarf.
 - Create leader dwarf.
 - Create giant dwarf.
 - Create Lord Durin.
