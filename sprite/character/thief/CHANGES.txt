@@ -1,0 +1,2 @@
+1.0
+- Created thief sprite for Stendhal's Nomyr Ahba character.
