@@ -1,4 +1,3 @@
-- Create dwarf guardian.
 - Create elder dwarf.
 - Create leader dwarf.
 - Create giant dwarf.
