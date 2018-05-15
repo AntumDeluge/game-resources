@@ -1,3 +1,6 @@
+Next
+- Created Lord Durin sprite.
+
 1.0
 - Created dwarf sprite.
 - Created dwarf hero sprite.
