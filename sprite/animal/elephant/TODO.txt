@@ -1,2 +1,0 @@
-- Create north-facing frames.
-- Create south-facing frames.
