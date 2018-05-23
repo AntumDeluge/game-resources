@@ -1,4 +1,4 @@
-### Bride & Groom Wedding Sprites Sources
+### Brides & Grooms Wedding Sprites Sources
 
 <table style="border: 0px;">
   <tr style="border: 0px;">
