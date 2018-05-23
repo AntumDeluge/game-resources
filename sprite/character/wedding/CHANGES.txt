@@ -1,2 +1,5 @@
+0.2
+- Created veil for brides.
+
 0.1
 - Created bride & groom wedding sprites.
