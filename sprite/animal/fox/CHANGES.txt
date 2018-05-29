@@ -1,0 +1,2 @@
+Next
+- Rework patvanmackelberg's wolf sprite (CC0) for use as fox in Stendhal.
