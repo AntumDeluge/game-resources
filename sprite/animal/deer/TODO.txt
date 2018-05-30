@@ -1,0 +1,5 @@
+- Create walking deer sprites.
+- Create S/W/E/N versions.
+- Scale to 48x48.
+- Create 48x64 versions.
+- Scale to 64x64.
