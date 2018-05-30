@@ -1,0 +1,2 @@
+- Create S/W/E/N versions for RPG Maker & RPGBoss.
+- Possibly change frame order to match other Stendhal sprites (frame 1 = left foot forward).
