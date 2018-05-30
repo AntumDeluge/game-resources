@@ -1,0 +1,2 @@
+Next
+- Reworked Calciumtrice's deer sprites for use in Stendhal.
