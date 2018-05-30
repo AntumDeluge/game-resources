@@ -22,6 +22,9 @@
 By [leangoro](https://openclipart.org/user-detail/leangoro):
 - [butterfly/fairy wings](https://openclipart.org/detail/194497) (CC0)
 
+By [leangoro](https://openclipart.org/user-detail/leangoro) & [olonu](https://github.com/olonu):
+- [Re-worked butterfly/fairy wings (Little fairy redone)](https://github.com/arianne/stendhal/issues/149) (CC0)
+
 By [Nila122](https://opengameart.org/users/nila122):
 - [3 hairs for LPC](https://opengameart.org/node/29293) (CC BY-SA 3.0)
 
