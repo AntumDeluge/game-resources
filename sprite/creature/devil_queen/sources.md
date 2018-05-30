@@ -20,5 +20,8 @@
 By [diamonddmgirl](https://opengameart.org/users/diamonddmgirl):
 - [Edited and Extended 24x32 Character Pack](https://opengameart.org/node/66147) (OGA BY 3.0)
 
+By [johnny_automatic](https://openclipart.org/user-detail/johnny_automatic):
+- [reclining devil](https://openclipart.org/detail/4365) (CC0)
+
 By [Svetlana Kushnariova (Cabbit)](https://opengameart.org/users/cabbit):
 - [24x32 bases](https://opengameart.org/node/24944) (CC0)
