@@ -1,0 +1,2 @@
+Next
+- Re-positioned Redshrike's goblin sprites for use in Stendhal.
