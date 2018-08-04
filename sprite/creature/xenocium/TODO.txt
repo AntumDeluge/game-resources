@@ -1,2 +1,2 @@
-- Fix frame positioning for better animation.
 - Create scaled down versions.
+- Clean up scaling artifacts from 96x128 version.
