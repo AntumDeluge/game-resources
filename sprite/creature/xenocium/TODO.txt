@@ -1,0 +1,2 @@
+- Fix frame positioning for better animation.
+- Create scaled down versions.
