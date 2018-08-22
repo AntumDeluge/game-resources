@@ -1,0 +1,4 @@
+1.0
+- Created blordrough quartermaster.
+- Created blordrough corporal.
+- Created blordrough storm trooper.
