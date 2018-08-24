@@ -1,0 +1,3 @@
+- Create blordrough corporal sprite.
+- Possibly scale down to 24x32.
+- Create sheets for RPG Maker/RPGBoss.
