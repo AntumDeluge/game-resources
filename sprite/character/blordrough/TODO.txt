@@ -1,4 +1,4 @@
-- Create blordrough corporal sprite.
+- Add sword to blordrough corporal.
 - Add daggers to storm trooper.
 - Possibly scale down to 24x32.
-- Create sheets for RPG Maker/RPGBoss.
+- Create S/W/E/N sheets.
