@@ -1,0 +1,3 @@
+current
+- Re-worked Stephen Challener's skeleton sprite to use as elder skeleton in Stendhal.
+- Created alternate sprite using skull from artisticdude's skeleton.
