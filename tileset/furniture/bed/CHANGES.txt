@@ -1,3 +1,11 @@
 1.0
 - Added double bed created by bleutailfly.
 - Added blue & peach re-colors of bed.
+- Added re-worked beds:
+  - double-pink_roses
+  - double-purple_gold
+  - double-white_pink
+  - single-dingy_white
+  - single-gray
+  - single-pink_roses
+  - single-white_pink
