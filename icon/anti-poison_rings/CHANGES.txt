@@ -1,0 +1,5 @@
+1.1
+- Converted PNG images to indexed color.
+
+1.0
+- Created medicinal, anti-venom, & anti-toxin rings.
