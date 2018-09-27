@@ -1,0 +1,2 @@
+- Clean up scale2x filter artifacts in 48x64 version.
+- Clean up 96x128 scaled version.
