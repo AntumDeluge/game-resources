@@ -1,3 +1,1 @@
 - Touch up 64x64 sprites.
-- Update animated preview.
-- Create static preview.
