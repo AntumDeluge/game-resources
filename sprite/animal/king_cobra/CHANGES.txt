@@ -1,0 +1,10 @@
+1.0
+- Touched up & finshed adding scales to tail.
+- Created 96x96 red re-color.
+- Scaled down to 64x64 for blue cobra sprite.
+
+0.2
+- Scaled down to 64x64 for red cobra sprite.
+
+0.1
+- Created 96x96 king cobra sprite.
