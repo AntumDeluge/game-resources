@@ -1,3 +1,3 @@
-- re-scale 64x64 version
-- update animated preview
-- create static preview
+- Touch up 64x64 sprites.
+- Update animated preview.
+- Create static preview.
