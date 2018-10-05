@@ -1,4 +1,3 @@
-- create red re-color @ 96x96
 - re-scale 64x64 version
 - update animated preview
 - create static preview
