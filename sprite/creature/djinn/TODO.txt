@@ -1,1 +1,2 @@
+- Fix hat on side-view frames.
 - Touch up & smooth 48x64 versions.
