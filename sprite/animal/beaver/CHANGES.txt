@@ -1,3 +1,6 @@
+1.1
+- created S/W/E/N versions
+
 1.0
 - added bleutailfly's original 64x64 & 32x32 beaver sprites
 - converted 32x32 sprite to indexed color
