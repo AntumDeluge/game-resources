@@ -1,0 +1,2 @@
+1.0
+- Create arachne sprite from work by Svetlana Kushnariova, Stephen Challener, & William J. Thompson.
