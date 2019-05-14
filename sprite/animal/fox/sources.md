@@ -1,4 +1,4 @@
-### Fox (Wolf Rework) Sprite Sources
+### Fox (Wolf Pack Rework) Sprites Sources
 
 <table style="border: 0px;">
   <tr style="border: 0px;">
@@ -14,7 +14,7 @@
 </table>
 
 
-[OpenGameArt.org submission](https://opengameart.org/node/)
+[OpenGameArt.org submission](https://opengameart.org/node/88912)
 
 #### Source Assets:
 ---
