@@ -1,0 +1,11 @@
+1.3
+- Created S/W/E/N versions.
+
+1.2
+- Added "full" spritesheet for use in engines such as RPG Maker VX & RPG Boss.
+
+1.1
+- Created red re-color.
+
+1.0
+- Re-worked to 48x64 for Stendhal.
