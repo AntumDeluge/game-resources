@@ -1,0 +1,8 @@
+1.2
+- Created S/W/E/N versions.
+
+1.1
+- Created re-color with hat.
+
+1.0
+- Created two witch sprites flying on a broomstick.
