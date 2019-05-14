@@ -1,3 +1,6 @@
+1.1
+- Deleted less-detailed 32x32 sprite.
+
 1.0
 - Re-worked & re-colored by bleutailfly.
 
