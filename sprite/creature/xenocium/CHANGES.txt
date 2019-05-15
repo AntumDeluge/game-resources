@@ -1,2 +1,2 @@
 1.0
-- Created xenocium base on Rexes's Tuyul sprite.
+- Created xenocium based on Rexes's Tuyul sprite.
