@@ -1,4 +1,4 @@
-### Devil Queen (et al.) Sprites Sources
+### Devil Queen et al. Sprites Sources
 
 <table style="border: 0px;">
   <tr style="border: 0px;">
@@ -13,6 +13,8 @@
   </tr>
 </table>
 
+
+[OpenGameArt.org submission](https://opengameart.org/node/84716)
 
 #### Source Assets:
 ---
