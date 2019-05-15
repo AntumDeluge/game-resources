@@ -1,2 +1,3 @@
 - Create scaled down versions.
 - Clean up scaling artifacts from 96x128 version.
+- Create S/W/E/N version.
