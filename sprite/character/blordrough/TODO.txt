@@ -1,4 +1,3 @@
 - Add sword to blordrough corporal.
 - Add daggers to storm trooper.
 - Possibly scale down to 24x32.
-- Create S/W/E/N sheets.
