@@ -1,0 +1,5 @@
+1.0
+- Created zombie.
+- Created rotting zombie.
+- Created bloody zombie.
+- Created headless zombie.
