@@ -1,2 +1,5 @@
+1.1
+- Created S/W/E/N versions.
+
 1.0
 - Created priest & robes outfit sprites.
