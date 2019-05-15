@@ -1,2 +1,1 @@
 - create scaled down versions
-- create S/W/E/N version
