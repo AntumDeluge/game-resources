@@ -99,7 +99,7 @@ crop_wh = '{}x{}'.format(img.size[0], int(img.size[1] / 4))
 
 sys.stdout.write('\nCreating temporary pieces ...')
 
-f_basename = '.'.join(source.split('.')[:-1])
+f_basename = '.'.join(os.path.basename(source).split('.')[:-1])
 f_suffix = source.split('.')[-1]
 
 proc = subprocess.Popen((cmd_convert, source, '-define', 'png:format=png32', '-crop', crop_wh, os.path.join(dir_temp, '{}-TMP.{}'.format(f_basename, f_suffix)),))
