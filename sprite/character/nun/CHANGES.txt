@@ -1,0 +1,2 @@
+1.0
+- Created nun sprite from Cabbit's base & CharlesGabriel's nun outfit.
