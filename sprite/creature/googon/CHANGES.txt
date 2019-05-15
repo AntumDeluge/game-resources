@@ -1,2 +1,2 @@
-Next
+1.0
 - Re-worked Tracy's one eyed monster sprite for use in Stendhal as googon creature.
