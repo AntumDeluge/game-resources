@@ -1,4 +1,4 @@
-Next
+1.0
 - Created devil queen sprite.
 - Created violet avenger sprite.
 - Created floating woman sprite.
