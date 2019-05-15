@@ -1,3 +1,6 @@
+1.1
+- Created S/W/E/N versions.
+
 1.0
 - Created devil queen sprite.
 - Created violet avenger sprite.
