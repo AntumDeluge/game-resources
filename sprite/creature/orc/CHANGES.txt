@@ -1,5 +1,6 @@
-Next
+1.5
 - Created orc_shaman sprite using Angry Amish's skull.
+- Created S/W/E/N versions.
 
 1.4
 - Created orc_salesman sprite.
