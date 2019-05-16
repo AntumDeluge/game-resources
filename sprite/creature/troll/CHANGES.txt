@@ -1,0 +1,5 @@
+1.1
+- Created S/W/E/N versions.
+
+1.0
+- Created troll sprites based on Reemax's Muscleman/Ogre/Minotaur.
