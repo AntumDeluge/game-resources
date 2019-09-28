@@ -2,6 +2,12 @@
 - Replaced Cabbit human base with touched-up 48x64 sprite.
 - Added female version.
 - Replaced horse body with modified legs by bleutailfly.
+- Changed license to OGA BY/CC BY 3.0
+
+0.2
+- Touched up sprite outlines.
+- Fixed alignment of south-facing frame.
 
 0.1
-- Initial release.
+- Initial versioned release for OpenGameArt.org.
+- Created centaur sprite.
