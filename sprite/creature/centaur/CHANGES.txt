@@ -1,0 +1,7 @@
+1.0
+- Replaced Cabbit human base with touched-up 48x64 sprite.
+- Added female version.
+- Replaced horse body with modified legs by bleutailfly.
+
+0.1
+- Initial release.
