@@ -1,5 +1,0 @@
-1.0
-- converted to NESW format
-- created 24x32 version
-- created 48x64 "young" beholder
-- created elder beholder
