@@ -1,1 +1,0 @@
-- downscale to 24x32
