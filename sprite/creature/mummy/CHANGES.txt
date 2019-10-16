@@ -1,0 +1,5 @@
+1.0
+- Created mummy sprite.
+
+1.1
+- Added re-color of mummy.
