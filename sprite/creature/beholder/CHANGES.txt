@@ -2,5 +2,4 @@
 - converted to NESW format
 - created 24x32 version
 - created 48x64 "young" beholder
-- scaled to 48x64 with no filter scale2x filter
 - created elder beholder
