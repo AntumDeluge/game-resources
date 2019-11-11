@@ -1,6 +1,7 @@
 1.1
 - updated with cleaned up outfit & base images
 - fixed wings on side-facing frames
+- created S/W/E/N versions
 
 1.0
 - initial release
