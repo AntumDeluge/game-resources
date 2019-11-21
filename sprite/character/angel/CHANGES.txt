@@ -1,4 +1,7 @@
 Next
+- Touched up 48x64 dark angel.
+
+1.0
 - Created angel-m sprite.
 - Created 48x64 angel-f sprites.
 - Created fallen_angel sprite.
