@@ -1,6 +1,7 @@
 Next
 - Touched up 48x64 dark angel.
 - Touched up 48x64 male angel.
+- Touched up 48x64 female angels.
 
 1.0
 - Created angel-m sprite.
