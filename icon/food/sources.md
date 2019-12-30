@@ -1,0 +1,2 @@
+- milk.png (OGA BY 3.0):
+  - Edited by AntumDeluge, based on [CC0 vectory image from OCAL](https://freesvg.org/milk-in-bottle-vector-image)
