@@ -13,6 +13,7 @@ Created by Jordan Irwin (AntumDeluge)
   - ![spotted egg](PNG/32x32/egg_spotted.png) egg_spotted
 - ![grapes](PNG/32x32/grapes.png) grapes (based on CC0 vector image from OCAL)
 - ![milk](PNG/32x32/milk.png) milk (based on [CC0 vector image from OCAL](https://freesvg.org/milk-in-bottle-vector-image))
+- ![milkshake](PNG/32x32/milkshake.png) milkshake (based on [CC0 vector image from OCAL](https://freesvg.org/vector-clip-art-of-cup-of-caffee-latte))
 - ![pomegranate](PNG/32x32/pomegranate.png) pomegranate (based on [CC0 photograph](https://commons.wikimedia.org/wiki/File:Afghan_pomegranate_Kandahar.jpg))
 - ![sausage](PNG/32x32/sausage.png) sausage (based on [thekingphoenix's Icons: Food](https://opengameart.org/node/77345))
   - ![cheese sausage](PNG/32x32/sausage_cheese.png) sausage_cheese
