@@ -12,6 +12,7 @@ Created by Jordan Irwin (AntumDeluge)
   - ![chocolate egg](PNG/32x32/egg_chocolate.png) egg_chocolate
   - ![spotted egg](PNG/32x32/egg_spotted.png) egg_spotted
 - ![grapes](PNG/32x32/grapes.png) grapes (based on CC0 vector image from OCAL)
+- ![lemon](PNG/32x32/lemon.png) lemon (base on [CC0 vector image from OCAL](https://freesvg.org/lemon-vector-illustration))
 - ![milk](PNG/32x32/milk.png) milk (based on [CC0 vector image from OCAL](https://freesvg.org/milk-in-bottle-vector-image))
 - ![milkshake](PNG/32x32/milkshake.png) milkshake (based on [CC0 vector image from OCAL](https://freesvg.org/vector-clip-art-of-cup-of-caffee-latte))
 - ![pomegranate](PNG/32x32/pomegranate.png) pomegranate (based on [CC0 photograph](https://commons.wikimedia.org/wiki/File:Afghan_pomegranate_Kandahar.jpg))
