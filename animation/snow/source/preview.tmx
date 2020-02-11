@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.0" orientation="orthogonal" renderorder="right-down" compressionlevel="-1" width="4" height="4" tilewidth="32" tileheight="32" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" name="grass" tilewidth="32" tileheight="32" tilecount="33" columns="3">
+  <image source="../../../../Arianne/stendhal/tiled/tileset/ground/ground.png" width="96" height="352"/>
+ </tileset>
+ <tileset firstgid="34" name="snow_heavy" tilewidth="32" tileheight="32" tilecount="64" columns="32">
+  <image source="../PNG/64x64/snow_heavy.png" width="1024" height="64"/>
+ </tileset>
+ <layer id="2" name="ground" width="4" height="4">
+  <data encoding="base64" compression="zlib">
+   eJxjZmBgYKYAAwAGoAAx
+  </data>
+ </layer>
+ <layer id="1" name="snow" width="4" height="4">
+  <data encoding="base64" compression="zlib">
+   eJxTYmBgUAZiJSjtBMTOSLQSAXkAY4ADKQ==
+  </data>
+ </layer>
+</map>
