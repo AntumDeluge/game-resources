@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:docname="judo_gi_leggings.svg"
+   inkscape:export-filename="/home/olivier/Images/Photos/Creations/gi.png"
+   viewBox="0 0 191.13968 419.09252"
+   inkscape:export-xdpi="204"
+   version="1.1"
+   inkscape:export-ydpi="204"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="191.13969"
+   height="419.09253">
+  <title
+     id="title4332">Judoka</title>
+  <defs
+     id="defs4">
+    <filter
+       id="filter4050"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Darken the edges with an inner blur"
+       inkscape:label="Darken edges"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4052"
+         stdDeviation="1.5"
+         result="result6" />
+      <feComposite
+         id="feComposite4054"
+         operator="atop"
+         result="result8"
+         in2="result6"
+         in="SourceGraphic" />
+      <feComposite
+         id="feComposite4056"
+         operator="atop"
+         result="result9"
+         in2="SourceAlpha"
+         in="result8" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     fit-margin-left="-18.5"
+     inkscape:zoom="7.9195959"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="105.59292"
+     inkscape:cy="2.4932922"
+     inkscape:window-maximized="1"
+     showgrid="false"
+     fit-margin-right="-18.8"
+     showguides="true"
+     bordercolor="#666666"
+     inkscape:window-x="-8"
+     inkscape:guide-bbox="true"
+     inkscape:window-y="-8"
+     fit-margin-bottom="-41.5"
+     inkscape:window-width="1920"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     pagecolor="#ffffff"
+     inkscape:document-units="px"
+     inkscape:window-height="1025"
+     fit-margin-top="-41.2" />
+  <g
+     id="layer1"
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     transform="translate(-258.57985,-408.6096)">
+    <g
+       id="g852">
+      <path
+         sodipodi:nodetypes="cccccccccccccscccccccc"
+         inkscape:connector-curvature="0"
+         id="path3054"
+         transform="translate(147.02,41.225)"
+         d="m 197.66016,368.00195 c -23.32805,-0.0787 -48.65269,3.37517 -77.86719,13.71094 l -5.60352,63.02149 c -4.5055,8.68529 -0.49558,57.81832 0.57422,92.98632 0,0 -0.68794,114.7511 5.74024,171.6211 1.4665,12.976 7.46093,38.45703 7.46093,38.45703 41.069,9.8015 54.69093,-4.18443 74.04493,-13.20313 1.2914,-14.589 2.40647,-29.3555 -2.29493,-49.9375 5.2094,-20.443 6.18628,-43.70825 6.88868,-67.15625 l 2.10351,-21.56836 c -4.66394,-7.21785 -24.71035,-121.10795 -21.94799,-134.67507 -3.58411,12.89402 17.46287,127.67383 21.94799,134.67507 1.78917,4.94229 3.06445,8.36719 3.06445,8.36719 0,0 2.70942,32.88333 3.44532,49.36133 0.87086,19.5 1.58388,39.03383 1.14648,58.54883 -0.39957,17.826 -3.44336,53.38086 -3.44336,53.38086 l 21.23828,14.34961 c 18.156,12.268 43.53169,4.8999 68.30469,-9.1836 -2.904,-44.614 -8.79747,-92.21808 -13.20117,-138.33008 l -5.74024,-81.50585 c 3.4325,-33.049 -9.13366,-142.30993 -11.48046,-173.91993 -24.0676,-4.28381 -47.94242,-8.91078 -74.38086,-9 z"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.80357999px;filter:url(#filter4050)" />
+      <path
+         id="path3975"
+         d="m 417.14,453.79 -57.85,52.86"
+         style="fill:none;stroke:#000000;stroke-width:1px;filter:url(#filter4050)"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3993"
+         d="m 398.57,559.51 c -16.609,34.484 -14.864,102.01 -12.857,170"
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:#000000;stroke-width:1px;filter:url(#filter4050)"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3995"
+         d="m 292.86,523.79 c -1.691,60.525 5.0281,104.23 18.571,134.29"
+         sodipodi:nodetypes="cc"
+         style="fill:none;stroke:#000000;stroke-width:1px;filter:url(#filter4050)"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <metadata
+     id="metadata104">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Judoka</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

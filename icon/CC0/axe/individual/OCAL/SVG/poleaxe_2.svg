@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3318"
+   sodipodi:docname="poleaxe_2.svg"
+   viewBox="0 0 256 256"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="256"
+   height="256">
+  <defs
+     id="defs3320">
+    <radialGradient
+       id="radialGradient3810"
+       gradientUnits="userSpaceOnUse"
+       cy="152.13"
+       cx="751.42999"
+       gradientTransform="matrix(1.9243,0.18559,-0.046117,0.47812,-687.52,-56.975)"
+       r="292.5"
+       inkscape:collect="always">
+      <stop
+         id="stop3806"
+         style="stop-color:#ffffff"
+         offset="0" />
+      <stop
+         id="stop3808"
+         style="stop-color:#cccccc"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient3316"
+       gradientUnits="userSpaceOnUse"
+       cx="1028.6"
+       cy="148.84"
+       r="249.89"
+       gradientTransform="matrix(-1.0176,-0.22867,0.098204,-0.43701,2060.6,452.61)"
+       inkscape:collect="always">
+      <stop
+         id="stop3798"
+         style="stop-color:#666666"
+         offset="0" />
+      <stop
+         id="stop3800"
+         style="stop-color:#0e232e"
+         offset="1" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="-8"
+     pagecolor="#ffffff"
+     inkscape:window-height="1025"
+     inkscape:grid-bbox="true"
+     inkscape:window-maximized="1"
+     inkscape:zoom="2.75"
+     inkscape:window-x="-8"
+     showgrid="true"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="114.84603"
+     inkscape:cy="126.2871"
+     inkscape:window-width="1920"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(97.839078,97.949472)">
+    <g
+       id="g3820"
+       transform="matrix(0.16487188,0.14316303,-0.14316303,0.16487188,-45.766186,-216.70859)">
+      <path
+         id="path3788"
+         d="m 966.44,1432.9 -32.156,-2.5455 62.857,-1152.3 41.183,-1.1835 z"
+         sodipodi:nodetypes="ccccc"
+         style="fill:#0e232e;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3790"
+         sodipodi:nodetypes="cccccc"
+         d="m 1037,301.25 -39.844,-17.455 5.7142,-240 26.914,-19.714 24.515,25.428 z"
+         style="fill:#0e232e;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3792"
+         d="m 1023.4,224.82 c -103.72,-42.11 -174.5,15.76 -234.83,53.26 -76.13,-101.23 -76.18,-189.24 22.86,-260 42.988,82.3 132.62,79.078 220,80 107.71,15.21 170.72,-20.677 225.71,-65.714 92.354,108.16 77.136,195.64 -28.572,265.71 -48.697,-85.738 -111.01,-93.543 -205.14,-73.257 z"
+         sodipodi:nodetypes="ccccccc"
+         style="fill:url(#radialGradient3810);stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3794"
+         sodipodi:nodetypes="ccccccc"
+         style="fill:url(#radialGradient3316);stroke:#000000;stroke-width:0.87274998px"
+         inkscape:connector-curvature="0"
+         d="m 1022.1,224.46 c -86.004,-38.687 -149.12,4.3969 -201.7,33.193 -63.109,-93.014 -72.443,-148.39 9.6602,-213.41 55.693,64.819 148.43,51.229 201.84,52.991 89.293,13.975 147.46,-7.7985 193.57,-40.951 76.56,99.383 70.688,146.56 -16.942,210.94 -34.213,-47.792 -108.39,-61.408 -186.42,-42.769 z" />
+    </g>
+  </g>
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title></dc:title>
+        <dc:date>2010-09-24T18:42:29</dc:date>
+        <dc:description>Halloween  2010 Clip art</dc:description>
+        <dc:source>https://openclipart.org/detail/86563/axe-icon--by-netalloy</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>netalloy</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>64x64</rdf:li>
+            <rdf:li>Axe icon</rdf:li>
+            <rdf:li>halloween2010</rdf:li>
+            <rdf:li>icon</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

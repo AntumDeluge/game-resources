@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg9840"
+   sodipodi:docname="fedora.svg"
+   inkscape:export-filename="E:\Images\Vector\Fedora.png"
+   viewBox="0 0 256 256"
+   sodipodi:version="0.32"
+   inkscape:export-xdpi="90.083565"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-ydpi="90.083565"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="256"
+   height="256">
+  <defs
+     id="defs31">
+    <linearGradient
+       id="linearGradient582"
+       y2="259.04999"
+       gradientUnits="userSpaceOnUse"
+       y1="250.64"
+       gradientTransform="scale(1.7811,0.56144)"
+       x2="111.24"
+       x1="118.04">
+      <stop
+         id="stop580"
+         style="stop-color:#000000;stop-opacity:.40833"
+         offset="0" />
+      <stop
+         id="stop581"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient584"
+       y2="353.04001"
+       xlink:href="#linearGradient585"
+       gradientUnits="userSpaceOnUse"
+       x2="114.93"
+       gradientTransform="scale(1.5608,0.64072)"
+       y1="259.42999"
+       x1="132.25" />
+    <linearGradient
+       id="linearGradient585">
+      <stop
+         id="stop586"
+         style="stop-color:#ffffff;stop-opacity:.175"
+         offset="0" />
+      <stop
+         id="stop587"
+         style="stop-color:#ffffff;stop-opacity:.375"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient589"
+       y2="218.53999"
+       xlink:href="#linearGradient585"
+       gradientUnits="userSpaceOnUse"
+       x2="147.05"
+       gradientTransform="scale(2.1949,0.4556)"
+       y1="218.53999"
+       x1="73.292999" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     guidetolerance="10"
+     pagecolor="#ffffff"
+     gridtolerance="10000"
+     inkscape:window-height="1025"
+     width="639.13px"
+     inkscape:zoom="1.4"
+     objecttolerance="10"
+     height="441.59px"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="-171.12657"
+     inkscape:cy="60.675653"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-width="1920"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-229.9694,-231.66824)">
+    <g
+       id="whole"
+       transform="matrix(0.41007655,0,0,0.41007655,211.17461,195.56822)">
+      <g
+         transform="matrix(1.3106776,0,0,1.3106776,35.773636,86.247115)"
+         id="red-hat">
+        <path
+           d="M 93.858,201.9 C 96.772,188.93 99.685,99.57 125.91,101.01 219.14,103.89 315.29,7.32 385.21,222.08 600.81,322.98 400.2,404.05 229.52,396.85 60.86,389.78 -83.14,268.2 93.86,201.9 Z"
+           style="fill:#d90000;fill-opacity:0.99167002;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linejoin:round"
+           sodipodi:nodetypes="cccsc"
+           inkscape:connector-curvature="0"
+           id="hat" />
+        <path
+           d="m 89.488,230.73 c 107.8,67.74 285.52,25.94 292.81,-7.21 10.19,11.53 0,43.24 0,43.24 -46.62,60.54 -272.42,47.57 -297.18,4.33 -2.916,-11.53 2.911,-36.04 4.368,-40.36 z"
+           style="fill-rule:evenodd;stroke:#000000;stroke-width:5"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="band" />
+        <path
+           d="m 130.28,122.63 c 27.68,-24.505 148.59,10.09 164.61,28.83 5.83,31.71 -148.59,7.2 -164.61,-28.83 z"
+           style="fill:url(#linearGradient582);fill-rule:evenodd;stroke-width:1.00000003pt"
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="dark-shadow" />
+        <path
+           d="m 130.28,158.66 c 13.11,30.27 64.09,100.9 150.04,33.15 -71.38,2.89 -101.97,-5.76 -150.04,-33.15 z"
+           style="fill:url(#linearGradient584);fill-rule:evenodd;stroke-width:1.00000003pt"
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="front-highlight" />
+        <path
+           d="m 160.87,99.567 c 18.94,8.643 138.39,41.803 151.5,31.713 14.57,-5.77 11.66,-8.65 4.37,-10.09 -11.65,7.2 -32.05,11.53 -155.87,-21.623 z"
+           style="fill:url(#linearGradient589);fill-rule:evenodd;stroke-width:1.00000003pt"
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="top-highlight" />
+        <path
+           d="m 106.97,246.58 c 17.48,8.65 71.38,20.18 91.78,21.62 14.56,10.09 7.28,25.95 1.45,37.48 -39.33,0 -84.49,-10.09 -96.14,-23.06 -7.288,-12.97 -4.375,-23.06 2.91,-36.04 z"
+           style="fill:#ffffff;fill-opacity:0.31667002;fill-rule:evenodd;stroke:#000000;stroke-width:1.87830001pt"
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="grey" />
+      </g>
+      <g
+         style="fill:none"
+         transform="matrix(5.5071,0,0,5.5071,-1052,-2439.7)"
+         id="bw-hat">
+        <path
+           sodipodi:nodetypes="cccccsc"
+           style="fill:none;fill-opacity:0.99167002;fill-rule:evenodd;stroke:#000000;stroke-width:2.38000011;stroke-linejoin:round"
+           d="m 219.81,506.7 c 0.17,-0.77 -1.18,10.41 -0.92,7.99 1.71,-9.5 0.99,-19.79 4.82,-28.83 0.95,-1.99 2.17,-3.26 3.73,-3.17 22.19,0.69 45.07,-22.3 61.71,28.81 51.31,24.02 3.57,43.31 -37.05,41.6 -40.14,-1.68 -74.42,-30.62 -32.29,-46.4 z"
+           id="outline"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title></dc:title>
+        <dc:date>2008-01-03T09:13:58</dc:date>
+        <dc:description>Hat outline remixed from Red Fedora by Nicubunu (http://www.openclipart.org/detail/14848)</dc:description>
+        <dc:source>https://openclipart.org/detail/10458/hat-outline-by-rygle-10458</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>rygle</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clothing</rdf:li>
+            <rdf:li>colouring book</rdf:li>
+            <rdf:li>fedora</rdf:li>
+            <rdf:li>hat</rdf:li>
+            <rdf:li>line art</rdf:li>
+            <rdf:li>people</rdf:li>
+            <rdf:li>remix</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
