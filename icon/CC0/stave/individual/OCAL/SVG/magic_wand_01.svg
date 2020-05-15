@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:docname="magic_wand_01.svg"
+   viewBox="0 0 256 256"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="256"
+   height="256">
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="-8"
+     pagecolor="#ffffff"
+     inkscape:window-height="1025"
+     inkscape:window-maximized="1"
+     inkscape:zoom="1"
+     inkscape:window-x="-8"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="-16.283436"
+     inkscape:cy="144.11694"
+     inkscape:window-width="1920"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3876"
+       y2="297.47"
+       gradientUnits="userSpaceOnUse"
+       x2="260"
+       gradientTransform="matrix(0.29051702,0.29051702,-0.46930184,0.46930184,157.66303,749.66317)"
+       y1="297.47"
+       x1="239"
+       inkscape:collect="always">
+      <stop
+         id="stop2923"
+         style="stop-color:#b3b3b3"
+         offset="0" />
+      <stop
+         id="stop2929"
+         style="stop-color:#ffffff"
+         offset=".35872" />
+      <stop
+         id="stop2931"
+         style="stop-color:#cccccc"
+         offset=".75020" />
+      <stop
+         id="stop2925"
+         style="stop-color:#999999"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3878"
+       y2="310.35999"
+       gradientUnits="userSpaceOnUse"
+       x2="252"
+       gradientTransform="matrix(0.66369,0,0,0.66369,581.14831,418.60813)"
+       y1="310.35999"
+       x1="239"
+       inkscape:collect="always">
+      <stop
+         id="stop2935"
+         style="stop-color:#333333"
+         offset="0" />
+      <stop
+         id="stop2941"
+         style="stop-color:#666666"
+         offset=".36001" />
+      <stop
+         id="stop2943"
+         style="stop-color:#333333"
+         offset=".75079" />
+      <stop
+         id="stop2937"
+         style="stop-color:#1a1a1a"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(68.496672,-864.79164)">
+    <g
+       id="g849"
+       transform="matrix(2.833884,0,0,2.833884,-109.11639,-1820.6646)">
+      <path
+         id="rect2914"
+         style="fill:url(#linearGradient3876);fill-rule:evenodd;stroke-width:0.66368997"
+         d="m 98.568068,947.62391 -17.129175,17.12917 6.100904,6.10091 17.129173,-17.12918 z"
+         inkscape:connector-curvature="0" />
+      <rect
+         id="rect2916"
+         style="fill:url(#linearGradient3878);fill-rule:evenodd;stroke-width:0.66368997"
+         transform="rotate(45)"
+         height="94.907669"
+         width="8.6279697"
+         y="624.59027"
+         x="739.7702" />
+    </g>
+  </g>
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Magic Wand</dc:title>
+        <dc:date>2010-09-06T15:26:52</dc:date>
+        <dc:description>Magic wand (with stars).</dc:description>
+        <dc:source>https://openclipart.org/detail/83863/magic-wand-by-jhnri4</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>jhnri4</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>effect</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>magic</rdf:li>
+            <rdf:li>photorealistic</rdf:li>
+            <rdf:li>stars</rdf:li>
+            <rdf:li>wand</rdf:li>
+            <rdf:li>yellow</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
