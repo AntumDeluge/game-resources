@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 240 240"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="spear_01.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       id="id0">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 6500000,15909400 h 801930 c 189250,-89820 580580,-490790 580580,-490790 1077790,-1491570 -269440,-1504410 -269440,-1504410 H 6500000 5386930 c 0,0 -1347230,12840 -266240,1504410 0,0 388130,400970 577380,490790 z"
+         id="path7" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.83750003"
+     inkscape:cx="459.2303"
+     inkscape:cy="-18.430631"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:source>https://openclipart.org/detail/249163</dc:source>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1036.6581,4013.5618)">
+    <g
+       id="g5610"
+       transform="matrix(0.39373587,0.39373587,-0.39373587,0.39373587,-2088.8236,-1999.7266)">
+      <path
+         id="path13"
+         d="m -933.74671,-4146.1607 17.30189,49.023 17.3019,-49.023 -17.3019,-49.0231 z"
+         inkscape:connector-curvature="0"
+         style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:2.03480482" />
+      <rect
+         transform="rotate(-90)"
+         id="rect15"
+         ry="5.7672992"
+         rx="6.2699442"
+         y="-922.20001"
+         x="3592.3931"
+         height="11.534607"
+         width="527.78748"
+         style="fill:#753f00;fill-opacity:1;stroke:#000000;stroke-width:2.03480482" />
+      <path
+         id="path17"
+         d="m -910.67348,-4102.9413 c 0,-2.8806 -2.88466,-5.7713 -5.7673,-5.7713 -2.88264,0 -5.7673,2.8887 -5.7673,5.7693"
+         inkscape:connector-curvature="0"
+         style="fill:#ffd900;stroke:#000000;stroke-width:2.03480482" />
+      <path
+         id="path19"
+         d="m -910.67348,-4097.1679 c 0,-2.8807 -2.88466,-5.7714 -5.7673,-5.7714 -2.88264,0 -5.7673,2.8887 -5.7673,5.7693"
+         inkscape:connector-curvature="0"
+         style="fill:#ffd900;stroke:#000000;stroke-width:2.03480482" />
+      <path
+         id="path21"
+         d="m -910.67348,-4091.3946 c 0,-2.8806 -2.88466,-5.7713 -5.7673,-5.7713 -2.88264,0 -5.7673,2.8887 -5.7673,5.7693"
+         inkscape:connector-curvature="0"
+         style="fill:#ffd900;stroke:#000000;stroke-width:2.03480482" />
+    </g>
+  </g>
+</svg>
