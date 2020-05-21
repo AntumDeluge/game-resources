@@ -5,4 +5,5 @@ fruit:
 - kiwi: https://openclipart.org/detail/106411
 - lemon: https://openclipart.org/detail/189589
 - orange: https://openclipart.org/detail/189548
+- pear: https://openclipart.org/detail/298177
 - pineapple: https://openclipart.org/detail/291093
