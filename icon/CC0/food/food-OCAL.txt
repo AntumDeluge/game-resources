@@ -11,3 +11,6 @@ fruit:
 - plum: https://openclipart.org/detail/245256
 - strawberry: https://openclipart.org/detail/233803
 - watermelon: https://openclipart.org/detail/285199
+
+vegetable:
+- broccoli: https://openclipart.org/detail/26141
