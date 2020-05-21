@@ -13,5 +13,6 @@ fruit:
 - watermelon: https://openclipart.org/detail/285199
 
 vegetable:
+- artichoke: https://openclipart.org/detail/291385
 - broccoli: https://openclipart.org/detail/26141
 - carrot: https://openclipart.org/detail/215799
