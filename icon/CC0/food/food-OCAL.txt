@@ -1,0 +1,8 @@
+fruit:
+- apple: https://openclipart.org/detail/18315
+- banana: https://openclipart.org/detail/189457
+- grapes: https://openclipart.org/detail/17012
+- kiwi: https://openclipart.org/detail/106411
+- lemon: https://openclipart.org/detail/189589
+- orange: https://openclipart.org/detail/189548
+- pineapple: https://openclipart.org/detail/291093
