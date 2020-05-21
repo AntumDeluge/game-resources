@@ -8,4 +8,5 @@ fruit:
 - orange: https://openclipart.org/detail/189548
 - pear: https://openclipart.org/detail/298177
 - pineapple: https://openclipart.org/detail/291093
+- strawberry: https://openclipart.org/detail/233803
 - watermelon: https://openclipart.org/detail/285199
