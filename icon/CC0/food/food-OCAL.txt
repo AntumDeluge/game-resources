@@ -28,3 +28,5 @@ grain:
 
 dairy:
 - butter: https://openclipart.org/detail/292540
+- cheese_wedge: https://openclipart.org/detail/166638
+- cheese_wheel: https://openclipart.org/detail/8104
