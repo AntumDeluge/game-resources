@@ -33,3 +33,4 @@ dairy:
 
 meat:
 - egg: http://openclipart.org/detail/6695
+- ham: https://openclipart.org/detail/211419
