@@ -1,1 +1,2 @@
+- diamond: https://openclipart.org/detail/183273
 - ruby: https://openclipart.org/detail/173574
