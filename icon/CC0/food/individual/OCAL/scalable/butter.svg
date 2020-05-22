@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 10.0, SVG Export Plug-In . SVG Version: 3.0.0 Build 77)  -->
+
+<svg
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   i:rulerOrigin="0 0"
+   i:viewOrigin="193 439"
+   space="preserve"
+   i:pageBounds="0 792 612 0"
+   viewBox="0 0 256.00001 256"
+   enable-background="new 0 0 224.819 86.686"
+   overflow="visible"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="256"
+   height="256"
+   sodipodi:docname="butter_02.svg"
+   style="overflow:visible">
+  <title
+     id="title851">Butter</title>
+  <defs
+     id="defs43" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     id="namedview41"
+     showgrid="false"
+     inkscape:zoom="0.74665393"
+     inkscape:cx="103.51119"
+     inkscape:cy="18.135025"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata39">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>OpenClipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Butter</dc:title>
+        <dc:date />
+        <dc:description />
+        <dc:source>https://openclipart.org/detail/292540</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag />
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g907"
+     transform="matrix(0.36348701,0,0,0.36348701,5.426822e-4,75.907258)">
+    <path
+       sodipodi:nodetypes="ssssccsss"
+       inkscape:connector-curvature="0"
+       id="rect3155"
+       d="m 173.23442,18.477309 511.48038,5.357234 c 17.37461,0.181982 22.79756,78.138617 13.74621,92.970447 L 610.3813,261.13508 c -9.05136,14.83184 -294.50186,1.54375 -311.87743,1.54375 C 212.32983,266.42067 104.0962,273.97048 20.83714,249.56692 4.1630548,244.67968 -5.3153844,160.60244 7.3373378,148.69366 L 120.9047,41.803711 C 133.55741,29.89494 155.85981,18.295328 173.23442,18.477309 Z"
+       style="fill:#ffdc53;fill-opacity:1;stroke:#554400;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3214"
+       d="M 186.64507,139.45039 31.55137,145.65414 143.21884,43.2923 c 0,0 -18.61125,34.120613 -17.06031,46.528109 1.55094,12.407491 -4.65281,13.958431 6.20375,21.713121 10.85656,7.75468 12.40749,9.30562 12.40749,9.30562 z"
+       style="fill:#fae180;fill-opacity:1;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path892"
+       d="m 608.82078,260.31407 0.77469,-97.62506 c 0.29275,-11.71085 -6.60327,-24.42769 16.66772,-47.02297 l 61.96906,-90.113392 c 13.15451,20.693758 14.24207,51.230418 11.55647,85.266022 -28.99818,51.81849 -60.31283,100.1623 -90.96794,149.4954 z"
+       style="opacity:1;fill:#e2bd67;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>

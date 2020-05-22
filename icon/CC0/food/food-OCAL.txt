@@ -20,3 +20,6 @@ vegetable:
 
 grain:
 - corn: https://openclipart.org/detail/291350
+
+dairy:
+- butter: https://openclipart.org/detail/292540
