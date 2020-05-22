@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3996"
+   sodipodi:docname="ruby.svg"
+   viewBox="0 0 256 256"
+   sodipodi:version="0.32"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="256"
+   height="256">
+  <title
+     id="title4533">Ruby</title>
+  <defs
+     id="defs23" />
+  <sodipodi:namedview
+     id="base"
+     fit-margin-left="0"
+     inkscape:zoom="1"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="-139.30676"
+     inkscape:cy="79.324697"
+     inkscape:window-maximized="1"
+     showgrid="false"
+     fit-margin-right="0"
+     inkscape:document-units="px"
+     bordercolor="#666666"
+     inkscape:window-x="-8"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:window-y="-8"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     pagecolor="#ffffff"
+     gridtolerance="10000"
+     inkscape:window-height="1025"
+     fit-margin-top="0">
+    <inkscape:grid
+       id="grid3866"
+       originy="112.03264"
+       enabled="true"
+       originx="111.94141"
+       visible="true"
+       snapvisiblegridlinesonly="true"
+       type="xygrid"
+       empspacing="5"
+       spacingx="1"
+       spacingy="1" />
+  </sodipodi:namedview>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-135.68836,-478.21846)">
+    <g
+       id="g3766"
+       transform="matrix(7.9963479,0,0,7.9963479,-1844.3499,-4240.7178)">
+      <ellipse
+         id="path3202"
+         style="fill:#8f0000;stroke:#cd0000"
+         transform="matrix(0.12298,0.19316,-0.4432,0.041855,478.12,553.07)"
+         cx="103.03556"
+         cy="512.68817"
+         rx="21.213203"
+         ry="21.465742" />
+      <path
+         id="path3204"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         style="fill:#8f0000;fill-rule:evenodd;stroke:#cd0000;stroke-width:0.32031px"
+         d="m 258.75,598.05 4.6054,11.976 4.7302,-11.785 c -3.0934,0.55817 -6.2433,0.39455 -9.3356,-0.19101 z" />
+      <path
+         id="path3206"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         style="fill:#8f0000;fill-rule:evenodd;stroke:#cd0000;stroke-width:0.32031px"
+         d="m 263.19,610.67 0.96264,10.492 5.8331,-11.537 c -1.8421,0.63092 -4.3233,0.83482 -6.7958,1.0446 z" />
+      <path
+         id="path3208"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         style="fill:#d52020;fill-rule:evenodd;stroke:#cd0000;stroke-width:0.32031px"
+         d="m 263.31,610.63 0.6119,10.928 -7.6027,-11.727 c 1.8637,0.56403 4.5124,0.6785 6.9908,0.79892 z" />
+      <path
+         id="path3210"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         style="fill:#990000;fill-rule:evenodd;stroke:#cd0000;stroke-width:0.32031px"
+         d="m 263.52,610.34 4.7214,-12.043 7.0913,9.2238 c -2.3364,0.95444 -7.7857,3.6072 -11.813,2.819 z" />
+      <path
+         id="path3212"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         style="fill:#be0e09;fill-rule:evenodd;stroke:#cd0000;stroke-width:0.32031px"
+         d="m 268.27,598.17 c 3.4324,-0.62314 4.7793,-1.7641 5.3229,-3.455 l 1.7909,12.594 z" />
+      <path
+         id="path3214"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccscc"
+         style="fill:#8f0000;fill-rule:evenodd;stroke:#cd0000;stroke-width:0.32031px"
+         d="m 273.87,595.77 4.8886,3.846 c 0.35864,0.79878 1.0638,2.426 0.48212,3.9186 -0.66984,1.7189 -1.9984,2.9867 -3.6361,4.0001 l -1.8775,-11.851" />
+      <path
+         id="path3216"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         style="fill:#8f0000;fill-rule:evenodd;stroke:#cd0000;stroke-width:0.32031px"
+         d="m 272.88,592.97 c 0.47792,0.63338 0.66302,1.2584 0.91247,2.5749 l 5.0601,3.932 z" />
+      <path
+         id="path3218"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         style="fill:#a60000;fill-rule:evenodd;stroke:#cd0000;stroke-width:0.32031px"
+         d="m 263.47,610.42 -4.6436,-12.224 -9.1071,8.5207 c 1.5507,1.4264 9.7219,4.4833 13.751,3.7033 z" />
+      <path
+         id="path3220"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         style="fill:#8f0000;fill-rule:evenodd;stroke:#cd0000;stroke-width:0.32031px"
+         d="m 258.64,598.09 c -3.2703,-1.2144 -4.7973,-2.4023 -5.0365,-4.1622 l -3.8181,12.539 z" />
+      <path
+         id="path3222"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         style="fill:#ad0f0f;fill-rule:evenodd;stroke:#cd0000;stroke-width:0.32031px"
+         d="m 254.13,592.85 -5.8393,7.1239 c -1.5938,3.3708 1.0684,6.1238 1.2515,6.6348 z" />
+      <path
+         id="path3224"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         style="fill:#8f0000;fill-rule:evenodd;stroke:#cd0000;stroke-width:0.32031px"
+         d="m 249.48,606.71 14.482,15.042 -7.6547,-12.114 c -2.6397,-0.61265 -4.6358,-1.8676 -6.8271,-2.9276 z" />
+      <path
+         id="path3226"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         style="fill:#990000;fill-rule:evenodd;stroke:#cd0000;stroke-width:0.32031px"
+         d="m 275.55,607.44 -11.708,14.477 6.0726,-12.157 c 2.0147,-0.78866 3.8297,-1.5832 5.6349,-2.3197 z" />
+      <path
+         id="path3864"
+         style="fill:#990000;fill-rule:evenodd;stroke:#cd0000;stroke-width:0.32031px"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         d="m 275.55,607.44 -11.708,14.477 15.073,-17.533 z" />
+    </g>
+  </g>
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>OpenClipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Ruby</dc:title>
+        <dc:date>2012-12-05T12:12:11</dc:date>
+        <dc:description>Non-transparent, shadeless ruby remixed for a game prototype. Made better usable with square tiles</dc:description>
+        <dc:source>https://openclipart.org/detail/173574</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>qubodup</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>gemstone</rdf:li>
+            <rdf:li>luxury item</rdf:li>
+            <rdf:li>red</rdf:li>
+            <rdf:li>ruby</rdf:li>
+            <rdf:li>treasure</rdf:li>
+            <rdf:li>valuable</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
