@@ -80,6 +80,7 @@ pastry:
 
 misc:
 - bread_loaf: https://openclipart.org/detail/306096
+- burrito: https://openclipart.org/detail/9074
 - cookie_chocolate_chip: https://openclipart.org/detail/320961
 - french_fries: https://openclipart.org/detail/149623
 - hot_dog: https://openclipart.org/detail/69763

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 10.0, SVG Export Plug-In . SVG Version: 3.0.0 Build 77)  -->
+
+<svg
+   xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   i:rulerOrigin="0 0"
+   i:viewOrigin="165.2012 487.4692"
+   space="preserve"
+   i:pageBounds="0 792 612 0"
+   viewBox="0 0 256.00001 256.00001"
+   enable-background="new 0 0 245.676 158.842"
+   overflow="visible"
+   version="1.1"
+   id="svg23"
+   sodipodi:docname="burrito.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="256"
+   height="256"
+   style="overflow:visible">
+  <defs
+     id="defs27" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     id="namedview25"
+     showgrid="false"
+     inkscape:zoom="1.2374021"
+     inkscape:cx="15.370658"
+     inkscape:cy="79.539528"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg23"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <switch
+     id="switch19"
+     transform="matrix(1.0419002,0,0,1.0419002,0.01657637,45.196639)">
+    <foreignObject
+       y="0"
+       width="1"
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       height="1" />
+    <g
+       i:extraneous="self"
+       id="g17">
+      <g
+         id="Layer_1"
+         i:layer="yes"
+         i:rgbTrio="#4F008000FFFF"
+         i:dimmedPercent="50">
+        <g
+           stroke-miterlimit="10"
+           id="g14"
+           style="clip-rule:evenodd;fill-rule:evenodd;stroke:#000000;stroke-width:0.036;stroke-miterlimit:10">
+          <path
+             d="m 205.66,0.018 c -5.855,-0.268 -11.727,3.463 -16.787,5.328 -5.061,1.866 -9.587,3.463 -18.652,7.461 l -5.336,0.268 c -9.052,3.998 -18.378,8.256 -29.845,13.592 -11.194,5.335 -13.592,7.996 -26.652,13.592 l -1.066,2.667 C 94.261,48.522 71.875,56.786 58.55,62.916 45.49,69.307 38.296,74.643 28.966,79.971 19.636,85.567 7.909,89.03 3.112,95.16 c -4.529,5.863 -2.932,13.325 -2.396,19.991 0.531,6.658 2.396,12.789 5.863,19.455 3.463,6.665 7.996,17.055 14.658,20.785 6.662,3.73 14.391,4.801 25.051,1.865 10.66,-3.195 24.787,-10.924 38.379,-19.723 13.592,-8.791 22.654,-20.25 42.909,-32.779 20.521,-13.057 58.896,-32.512 78.359,-43.444 19.447,-10.396 31.984,-13.057 37.58,-19.983 5.596,-7.201 -1.07,-16.794 -4.541,-22.39 -3.195,-5.596 -9.051,-7.996 -14.647,-10.924 -5.59,-3.187 -12.53,-7.446 -18.66,-7.981 z"
+             i:knockout="Off"
+             id="path2"
+             inkscape:connector-curvature="0" />
+          <path
+             d="M 3.918,121.55 C 1.25,115.947 1.785,111.689 2.316,108.754 1.785,105.024 1.25,98.625 4.716,97.829 c 2.932,-1.598 9.059,-1.337 17.322,1.865 7.996,1.598 27.452,7.194 31.717,12.79 3.73,5.328 -6.666,12.262 -8.531,19.723 -2.664,6.666 -3.463,18.66 -6.662,22.658 -3.731,2.66 -10.661,0.527 -14.659,-1.338 -4.529,-2.4 -6.662,-4.793 -9.594,-10.129 -3.996,-5.85 -8.793,-16.24 -10.391,-21.84 z"
+             i:knockout="Off"
+             id="path4"
+             inkscape:connector-curvature="0"
+             style="fill:#fbdf99" />
+          <path
+             d="m 41.762,154.86 c 5.596,-1.338 12.526,-3.738 19.723,-7.201 6.663,-3.73 13.325,-8.264 23.186,-14.654 8.795,-7.201 21.057,-17.857 31.716,-24.791 9.861,-7.729 18.122,-10.657 29.053,-17.055 10.657,-7.193 23.988,-13.859 35.715,-19.99 10.917,-6.666 21.849,-11.987 30.64,-15.992 8.271,-4.526 15.197,-7.461 20.793,-9.862 4.801,-2.125 6.666,-4.525 8.531,-6.13 1.59,-3.196 3.456,-6.659 0.535,-9.327 -3.73,-2.928 -10.672,-4.266 -22.919,-6.131 -12.796,-2.66 -30.929,-5.596 -53.312,-8.791 -3.195,1.865 -8.531,3.998 -14.922,7.461 -7.462,3.47 -18.656,7.729 -25.319,11.727 -6.662,3.47 -10.927,4.801 -13.859,6.926 -2.664,7.468 -6.395,17.062 -11.195,29.858 -5.328,13.057 -11.191,31.978 -17.59,44.507 -6.395,10.924 -15.19,15.725 -21.32,22.65 -6.942,6.13 -13.073,11.73 -19.468,16.79 z"
+             i:knockout="Off"
+             id="path6"
+             inkscape:connector-curvature="0"
+             style="fill:#fbdf99" />
+          <path
+             d="m 10.848,92.494 c 3.463,-1.865 9.858,-2.125 19.188,-1.865 9.594,-0.795 27.184,-0.528 35.447,3.73 6.93,4.532 9.327,15.464 8.26,23.453 -2.397,7.201 -11.991,15.197 -17.322,21.061 -5.064,5.863 -9.862,8.791 -13.325,11.727 0,-5.863 2.397,-11.199 4.262,-15.992 1.601,-5.328 6.93,-9.326 8.795,-13.058 1.865,-3.737 1.865,-7.2 1.066,-9.333 -1.598,-2.928 -5.064,-5.061 -10.393,-7.461 -6.131,-2.661 -17.857,-5.864 -23.721,-7.462 -6.13,-2.137 -9.861,-3.735 -12.257,-4.804 z"
+             i:knockout="Off"
+             id="path8"
+             inkscape:connector-curvature="0"
+             style="fill:#fbdf99" />
+          <path
+             d="m 16.975,88.235 c 7.729,-3.998 14.127,-7.736 21.324,-11.192 6.127,-4.266 11.727,-7.996 18.92,-11.199 6.131,-3.463 13.859,-5.328 22.123,-8.524 8.528,-3.203 17.59,-7.468 28.25,-11.727 -3.998,8.256 -7.465,14.922 -10.396,23.981 -3.194,7.997 -6.125,16.796 -8.793,25.319 -3.998,8.532 -7.996,17.858 -13.057,26.917 1.598,-6.926 2.133,-12.255 1.598,-17.055 C 75.346,99.961 75.61,96.231 70.549,93.563 64.686,90.628 54.824,88.763 46.029,87.968 36.699,87.16 27.373,86.893 16.977,88.23 Z"
+             i:knockout="Off"
+             id="path10"
+             inkscape:connector-curvature="0"
+             style="fill:#fbdf99" />
+          <path
+             d="m 240.05,26.399 c -1.07,-3.196 -2.66,-5.596 -4.801,-8.264 -2.921,-2.661 -6.391,-5.596 -10.382,-7.721 -4.266,-3.203 -12.262,-5.871 -15.731,-6.934 -3.991,-1.598 -5.061,-1.865 -10.396,0.268 -6.666,1.598 -14.922,5.596 -26.909,10.924 9.587,0.268 20.243,1.598 31.97,3.998 11.46,1.606 23.19,4.534 36.25,7.729 z"
+             i:knockout="Off"
+             id="path12"
+             inkscape:connector-curvature="0"
+             style="fill:#fbdf99" />
+        </g>
+      </g>
+    </g>
+  </switch>
+  <metadata
+     id="metadata21">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>OpenClipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Fast Food, Lunch-Dinner, Burrito</dc:title>
+        <dc:date>2007-11-26T20:08:10</dc:date>
+        <dc:description>This Clip Art is part of a fast food menu set. Search for &quot;fastfood&quot; to find all.</dc:description>
+        <dc:source>https://openclipart.org/detail/9074</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Gerald_G</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>beans</rdf:li>
+            <rdf:li>burrito</rdf:li>
+            <rdf:li>colouring book</rdf:li>
+            <rdf:li>fastfood</rdf:li>
+            <rdf:li>food</rdf:li>
+            <rdf:li>lunch</rdf:li>
+            <rdf:li>menu</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
