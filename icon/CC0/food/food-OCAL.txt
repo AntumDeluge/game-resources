@@ -97,4 +97,5 @@ misc:
 - salad: https://openclipart.org/detail/297571
 - sandwich: https://openclipart.org/detail/306096
 - sandwich_buger: https://openclipart.org/detail/9079
+- sandwich_grilled: https://openclipart.org/detail/150769
 - sushi_*: https://openclipart.org/detail/316537
