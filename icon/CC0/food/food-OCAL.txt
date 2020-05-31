@@ -7,6 +7,7 @@ fruit:
 - grapes: https://openclipart.org/detail/17012
 - kiwi: https://openclipart.org/detail/106411
 - lemon: https://openclipart.org/detail/189589
+- olive: https://openclipart.org/detail/988
 - orange: https://openclipart.org/detail/189548
 - pear: https://openclipart.org/detail/298177
 - pineapple: https://openclipart.org/detail/291093
