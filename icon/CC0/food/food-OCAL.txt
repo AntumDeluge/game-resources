@@ -35,6 +35,10 @@ dairy:
 - cheese_wedge: https://openclipart.org/detail/166638
 - cheese_wheel: https://openclipart.org/detail/8104
 
+drink:
+- juice_orange: https://openclipart.org/detail/294552
+- water_mug: https://openclipart.org/detail/306096
+
 meat:
 - egg: http://openclipart.org/detail/6695
 - ham: https://openclipart.org/detail/211419
@@ -56,4 +60,3 @@ misc:
 - popcorn: https://openclipart.org/detail/148543
 - pretzel: https://openclipart.org/detail/106387
 - sandwich: https://openclipart.org/detail/306096
-- water_mug: https://openclipart.org/detail/306096
