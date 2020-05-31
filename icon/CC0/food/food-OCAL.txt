@@ -1,6 +1,8 @@
 fruit:
 - apple: https://openclipart.org/detail/18315
 - banana: https://openclipart.org/detail/189457
+- blackberries: https://openclipart.org/detail/280789
+- blueberries: https://openclipart.org/detail/280789
 - cherries: https://openclipart.org/detail/168503
 - coconut: https://openclipart.org/detail/280789
 - eggplant: https://openclipart.org/detail/299938
@@ -12,6 +14,7 @@ fruit:
 - pear: https://openclipart.org/detail/298177
 - pineapple: https://openclipart.org/detail/291093
 - plum: https://openclipart.org/detail/245256
+- raspberries: https://openclipart.org/detail/280304
 - strawberry: https://openclipart.org/detail/233803
 - tomato: https://openclipart.org/detail/4783
 - watermelon: https://openclipart.org/detail/285199
