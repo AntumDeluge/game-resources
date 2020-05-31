@@ -49,6 +49,7 @@ misc:
 - cookie_chocolate_chip: https://openclipart.org/detail/320961
 - french_fries: https://openclipart.org/detail/149623
 - hot_dog: https://openclipart.org/detail/69763
+- ketchup: https://openclipart.org/detail/268371
 - lasagna: https://openclipart.org/detail/9081
 - macaroni: https://openclipart.org/detail/105709
 - mushroom: https://openclipart.org/detail/24245
