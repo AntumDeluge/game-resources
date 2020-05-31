@@ -84,3 +84,4 @@ misc:
 - popcorn: https://openclipart.org/detail/148543
 - pretzel: https://openclipart.org/detail/106387
 - sandwich: https://openclipart.org/detail/306096
+- sushi_*: https://openclipart.org/detail/316537
