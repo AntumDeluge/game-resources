@@ -41,6 +41,7 @@ misc:
 - cupcake: https://openclipart.org/detail/306096
 - french_fries: https://openclipart.org/detail/149623
 - hot_dog: https://openclipart.org/detail/69763
+- lasagna: https://openclipart.org/detail/9081
 - macaroni: https://openclipart.org/detail/105709
 - popcorn: https://openclipart.org/detail/148543
 - sandwich: https://openclipart.org/detail/306096
