@@ -16,7 +16,7 @@
    y="0px"
    width="256"
    height="256"
-   viewBox="0 0 256 256"
+   viewBox="0 0 255.99999 256"
    xml:space="preserve"
    sodipodi:docname="milk_02.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -45,9 +45,9 @@
    inkscape:window-height="1025"
    id="namedview94"
    showgrid="false"
-   inkscape:zoom="1.3111111"
-   inkscape:cx="-82.542289"
-   inkscape:cy="90.644645"
+   inkscape:zoom="0.46354778"
+   inkscape:cx="-122.12933"
+   inkscape:cy="-318.03852"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -59,7 +59,7 @@
 <symbol
    id="flash0.ai_x5F_4_x2F_Layer_25_x2F__x3C_Path_x3E__x5F_14"
    viewBox="0 -5.15 9.2 5.154"
-   transform="translate(77.996259,105.80737)">
+   transform="translate(0.33109662,109.04389)">
 	<g
    id="Layer_1_6_">
 		<path
@@ -72,7 +72,7 @@
 <symbol
    id="flash0.ai_x5F_4_x2F_Layer_25_x2F__x3C_Path_x3E__x5F_15"
    viewBox="-0.004 -36.756 25.504 36.756"
-   transform="translate(77.996259,105.80737)">
+   transform="translate(0.33109662,109.04389)">
 	<g
    id="Layer_1_5_">
 		<path
@@ -85,7 +85,7 @@
 <symbol
    id="flash0.ai_x5F_4_x2F_Layer_25_x2F__x3C_Path_x3E__x5F_16"
    viewBox="0 -38.941 22.25 38.941"
-   transform="translate(77.996259,105.80737)">
+   transform="translate(0.33109662,109.04389)">
 	<g
    id="Layer_1_4_">
 		<path
@@ -98,7 +98,7 @@
 <symbol
    id="flash0.ai_x5F_4_x2F_Layer_25_x2F__x3C_Path_x3E__x5F_17"
    viewBox="-0.017 -42.341 31.067 42.341"
-   transform="translate(77.996259,105.80737)">
+   transform="translate(0.33109662,109.04389)">
 	<g
    id="Layer_1_3_">
 		<path
@@ -111,7 +111,7 @@
 <symbol
    id="flash0.ai_x5F_4_x2F_Layer_25_x2F__x3C_Path_x3E__x5F_20"
    viewBox="-0.017 -42.341 31.067 42.341"
-   transform="translate(77.996259,105.80737)">
+   transform="translate(0.33109662,109.04389)">
 	<g
    id="Layer_1_2_">
 		<path
@@ -123,7 +123,7 @@
 </symbol>
 <g
    id="g91"
-   transform="matrix(5.7661023,0,0,5.7661023,33.753152,0.03502687)">
+   transform="matrix(5.0266711,-2.7594011,2.7594011,5.0266711,-18.554232,63.264106)">
 	
 		<use
    xlink:href="#flash0.ai_x5F_4_x2F_Layer_25_x2F__x3C_Path_x3E__x5F_20"
@@ -131,7 +131,7 @@
    height="42.341"
    x="-0.017000001"
    y="-42.341"
-   transform="matrix(1,0,0,-1,-77.996259,107.85717)"
+   transform="matrix(1,0,0,-1,-0.33109662,111.09369)"
    style="overflow:visible;opacity:0.64839998;enable-background:new"
    id="use22" />
 	<path
@@ -188,7 +188,7 @@
    height="42.341"
    x="-0.017000001"
    y="-42.341"
-   transform="matrix(1,0,0,-1,-77.996259,107.85717)"
+   transform="matrix(1,0,0,-1,-0.33109662,111.09369)"
    style="overflow:visible;opacity:0.44920002;enable-background:new"
    id="use43" />
 	
@@ -197,7 +197,7 @@
    width="22.25"
    height="38.941002"
    y="-38.941002"
-   transform="matrix(1,0,0,-1,-69.246259,111.25757)"
+   transform="matrix(1,0,0,-1,8.4189034,114.49409)"
    style="overflow:visible;opacity:0.19140003;enable-background:new"
    id="use45"
    x="0" />
@@ -208,7 +208,7 @@
    height="36.756001"
    x="-0.0040000002"
    y="-36.756001"
-   transform="matrix(1,0,0,-1,-77.696459,108.05737)"
+   transform="matrix(1,0,0,-1,-0.03129662,111.29389)"
    style="overflow:visible;opacity:0.32030005;enable-background:new"
    id="use47" />
 	<g
@@ -230,7 +230,7 @@
    width="9.1999998"
    height="5.1539998"
    y="-5.1500001"
-   transform="matrix(1,0,0,-1,-56.146659,108.15747)"
+   transform="matrix(1,0,0,-1,21.518503,111.39399)"
    style="overflow:visible;opacity:0.32030005;enable-background:new"
    id="use55"
    x="0" />
