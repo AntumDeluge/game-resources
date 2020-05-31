@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:docname="macaroni.svg"
+   viewBox="0 0 256.00001 256.00001"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="256"
+   height="256">
+  <title
+     id="title3701">macaroni</title>
+  <defs
+     id="defs6">
+    <linearGradient
+       id="linearGradient3594">
+      <stop
+         id="stop3596"
+         style="stop-color:#8d6c3f"
+         offset="0" />
+      <stop
+         id="stop3598"
+         style="stop-color:#8d6c3f;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3661"
+       y2="292.29001"
+       xlink:href="#linearGradient3594"
+       gradientUnits="userSpaceOnUse"
+       x2="351.5"
+       y1="335.29999"
+       x1="290.35999"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3663"
+       y2="70.985001"
+       xlink:href="#linearGradient3594"
+       gradientUnits="userSpaceOnUse"
+       x2="284.82001"
+       y1="111.5"
+       x1="270.84"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3689"
+       y2="280.98999"
+       xlink:href="#linearGradient3594"
+       gradientUnits="userSpaceOnUse"
+       x2="230.53"
+       gradientTransform="matrix(-3.8596,-1.2299,-1.2299,3.8596,1986.2,154.82)"
+       y1="176.05"
+       x1="325.67999"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     guidetolerance="10"
+     pagecolor="#ffffff"
+     gridtolerance="10"
+     inkscape:window-maximized="1"
+     inkscape:zoom="0.79622885"
+     objecttolerance="10"
+     borderopacity="1"
+     inkscape:current-layer="svg2"
+     inkscape:cx="16.078353"
+     inkscape:cy="186.83773"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:pageopacity="0"
+     inkscape:window-height="1025"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="g3695"
+     transform="matrix(0.16956862,0,0,0.16956862,26.034154,4.1868737e-5)">
+    <path
+       id="path2818"
+       sodipodi:nodetypes="ccccccscscccc"
+       style="fill:#dcce6e;stroke:#000000;stroke-width:4.05079985px"
+       d="m 1133.6,73.364 c -64.5,-102.18 -295.11,-87.637 -435.62,-0.475 -141.2,95.491 -182.72,171.06 -135.19,337.4 28.799,61.724 49.312,251.53 42.413,290.23 -4.0024,12.56 -19.426,28.399 -19.426,28.399 -123.32,-58.492 -266.71,-41.346 -374.3,3.8087 -57.362,26.352 -123.05,77.032 -156.16,123.37 -45.952,64.306 -67.287,204.27 -43.429,295.25 96.7,173.85 209.12,244.58 377.37,320.03 104.71,46.951 229,51.798 359.5,-5.6626 0,0 105.13,-53.134 149.93,-90.58 171.17,-153.23 273.11,-388.35 299.32,-613.69 14.929,-256.76 -37.562,-640.43 -64.366,-688.08 z"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       id="path2820"
+       style="fill:url(#linearGradient3661);fill-rule:evenodd"
+       transform="matrix(-3.6223,-2.1078,-2.8783,2.6719,2378.2,815.52)"
+       cx="327.86441"
+       cy="304.27118"
+       rx="33.355934"
+       ry="47.18644" />
+    <ellipse
+       id="path3604"
+       style="fill:url(#linearGradient3663)"
+       transform="matrix(-7.6311,1.7108,-1.2299,3.8596,3100.6,-650.65)"
+       cx="280.15811"
+       cy="86.311249"
+       rx="22.435659"
+       ry="21.860386" />
+    <path
+       id="path3614"
+       sodipodi:nodetypes="ccscc"
+       style="fill:url(#linearGradient3689)"
+       d="m 585.86,731 c 142.46,134.59 62.43,266.93 -26.48,420.8 306.02,307.6 494.92,-116.4 305.2,-270.84 -113.74,-92.57 -145.49,-51.89 -258.45,-177.13 -4.7374,10.358 -11.597,18.83 -20.275,27.169 z"
+       inkscape:connector-curvature="0" />
+  </g>
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>OpenClipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Macaroni</dc:title>
+        <dc:date>2011-01-20T19:40:03</dc:date>
+        <dc:description>A large piece of macaroni style pasta.</dc:description>
+        <dc:source>https://openclipart.org/detail/105709</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>AntumDeluge</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>food</rdf:li>
+            <rdf:li>macaroni</rdf:li>
+            <rdf:li>noodle</rdf:li>
+            <rdf:li>pasta</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

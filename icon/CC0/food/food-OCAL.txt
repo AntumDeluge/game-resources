@@ -37,4 +37,5 @@ meat:
 - steak: https://openclipart.org/detail/295935
 
 misc:
+- macaroni: https://openclipart.org/detail/105709
 - popcorn: https://openclipart.org/detail/148543
