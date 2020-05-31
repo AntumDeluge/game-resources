@@ -61,6 +61,7 @@ drink:
 - water_mug: https://openclipart.org/detail/306096
 
 meat:
+- chicken_drumstick_01: https://openclipart.org/detail/320978
 - egg: http://openclipart.org/detail/6695
 - ham: https://openclipart.org/detail/211419
 - sashimi: https://openclipart.org/detail/133141
