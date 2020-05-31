@@ -58,6 +58,7 @@ misc:
 - french_fries: https://openclipart.org/detail/149623
 - hot_dog: https://openclipart.org/detail/69763
 - ice_cream_sundae_01: https://openclipart.org/detail/301401
+- ice_cream_sundae_02: https://openclipart.org/detail/320962
 - ketchup: https://openclipart.org/detail/268371
 - lasagna: https://openclipart.org/detail/9081
 - macaroni: https://openclipart.org/detail/105709
