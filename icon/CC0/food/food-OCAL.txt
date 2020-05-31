@@ -44,3 +44,4 @@ misc:
 - macaroni: https://openclipart.org/detail/105709
 - popcorn: https://openclipart.org/detail/148543
 - sandwich: https://openclipart.org/detail/306096
+- water_mug: https://openclipart.org/detail/306096
