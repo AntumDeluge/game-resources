@@ -19,7 +19,7 @@
    xml:space="preserve"
    sodipodi:docname="corn_cob.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="C:\Users\antum\Development\game-resources\icon\CC0\food\individual\Glitch\32x32\corn.png"
+   inkscape:export-filename="C:\Users\antum\Development\game-resources\icon\CC0\food\individual\Glitch\32x32\grain\corn_cob.png"
    inkscape:export-xdpi="10.5"
    inkscape:export-ydpi="10.5"><title
    id="title1078">Corn on the Cob</title><metadata
@@ -45,8 +45,8 @@
    id="namedview267"
    showgrid="false"
    inkscape:zoom="1.1034931"
-   inkscape:cx="-3.5107965"
-   inkscape:cy="116.34389"
+   inkscape:cx="-27.891888"
+   inkscape:cy="-12.8929"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
@@ -188,7 +188,7 @@
 
 <g
    id="g1113"
-   transform="matrix(6.6318412,0,0,6.6318412,-245.24348,-128.87467)"><path
+   transform="matrix(6.975885,-4.6066575,4.6066575,6.975885,-430.25827,131.21462)"><path
      id="path200"
      d="m 74.949,33.7 c 0.106,-0.453 -0.08,-0.734 -0.561,-0.84 -0.453,-0.107 -1.079,-0.107 -1.88,0 l -1.08,0.199 0.641,0.28 c 0.293,0.267 0.119,0.56 -0.521,0.88 -0.666,0.347 -1.239,0.56 -1.72,0.641 l -0.52,0.039 c 1.652,-0.479 2.187,-0.879 1.6,-1.199 -0.347,-0.214 -0.907,-0.28 -1.681,-0.2 l -1.04,0.2 1.721,-0.761 c 2.08,-0.72 2.787,-1.239 2.119,-1.56 -0.399,-0.188 -0.772,-0.28 -1.119,-0.28 l -0.439,0.04 0.919,-0.16 c 0.667,-0.079 1.12,0 1.36,0.24 0.373,0.347 0.253,0.746 -0.36,1.2 l 1.4,-0.24 c 0.96,-0.054 1.521,0.146 1.681,0.6 0.293,0.694 0.013,1.214 -0.841,1.561 0.161,-0.187 0.268,-0.401 0.321,-0.64 z"
      style="clip-rule:evenodd;fill:#f2e45e;fill-rule:evenodd"
