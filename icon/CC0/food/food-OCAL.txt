@@ -84,6 +84,10 @@ misc:
 - lasagna: https://openclipart.org/detail/9081
 - macaroni: https://openclipart.org/detail/105709
 - mushroom: https://openclipart.org/detail/24245
+- pizza_01: https://openclipart.org/detail/284543
+- pizza_02: https://openclipart.org/detail/296066
+- pizza_slice_01: https://openclipart.org/detail/150637
+- pizza_slice_02: https://openclipart.org/detail/9086
 - popcorn: https://openclipart.org/detail/148543
 - pretzel: https://openclipart.org/detail/106387
 - sandwich: https://openclipart.org/detail/306096
