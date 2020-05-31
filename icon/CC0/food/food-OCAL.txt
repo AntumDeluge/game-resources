@@ -53,6 +53,7 @@ dairy:
 
 drink:
 - juice_orange: https://openclipart.org/detail/294552
+- milk_carton: https://openclipart.org/detail/4810
 - soda_bottle: https://openclipart.org/detail/241570
 - soda_can_*: https://openclipart.org/detail/285219
 - strawberry_smoothie: https://openclipart.org/detail/3542
