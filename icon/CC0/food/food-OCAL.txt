@@ -35,3 +35,6 @@ meat:
 - egg: http://openclipart.org/detail/6695
 - ham: https://openclipart.org/detail/211419
 - steak: https://openclipart.org/detail/295935
+
+misc:
+- popcorn: https://openclipart.org/detail/148543
