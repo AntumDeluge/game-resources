@@ -29,10 +29,15 @@ vegetable:
 - carrot: https://openclipart.org/detail/215799
 - daikon: https://openclipart.org/detail/312486
 - ginger: https://openclipart.org/detail/312486
+- green_bean: https://openclipart.org/detail/228333
 - lettuce: https://openclipart.org/detail/312486
 - onion_01: https://openclipart.org/detail/4748
 - onion_02: https://openclipart.org/detail/228333
+- parsnip: https://openclipart.org/detail/228333
+- peas: https://openclipart.org/detail/228333
 - pepper_bell_01: https://openclipart.org/detail/312486
+- pepper_bell_02: https://openclipart.org/detail/228333
+- pepper_chili: https://openclipart.org/detail/228333
 - potato: https://openclipart.org/detail/291193
 - radish: https://openclipart.org/detail/33997
 - yam: https://openclipart.org/detail/1028
