@@ -62,6 +62,8 @@ drink:
 
 meat:
 - chicken_drumstick_01: https://openclipart.org/detail/320978
+- chicken_drumstick_02: https://openclipart.org/detail/320977
+- chicken_drumsticks: https://openclipart.org/detail/320977
 - egg: http://openclipart.org/detail/6695
 - ham: https://openclipart.org/detail/211419
 - sashimi: https://openclipart.org/detail/133141
