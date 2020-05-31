@@ -17,15 +17,22 @@ fruit:
 - raspberries: https://openclipart.org/detail/280304
 - strawberry: https://openclipart.org/detail/233803
 - tomato: https://openclipart.org/detail/4783
+- tomatoes_cherry: https://openclipart.org/detail/312486
 - watermelon: https://openclipart.org/detail/285199
 - watermelon_slice: https://openclipart.org/detail/8533
 
 vegetable:
 - artichoke: https://openclipart.org/detail/291385
+- bok_choy: https://openclipart.org/detail/312486
 - broccoli: https://openclipart.org/detail/26141
+- cabbage: https://openclipart.org/detail/312486
 - carrot: https://openclipart.org/detail/215799
+- daikon: https://openclipart.org/detail/312486
+- ginger: https://openclipart.org/detail/312486
+- lettuce: https://openclipart.org/detail/312486
 - onion_01: https://openclipart.org/detail/4748
 - onion_02: https://openclipart.org/detail/228333
+- pepper_bell_01: https://openclipart.org/detail/312486
 - potato: https://openclipart.org/detail/291193
 - radish: https://openclipart.org/detail/33997
 - yam: https://openclipart.org/detail/1028
