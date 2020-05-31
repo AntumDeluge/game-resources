@@ -41,6 +41,7 @@ dairy:
 
 drink:
 - juice_orange: https://openclipart.org/detail/294552
+- soda_can_*: https://openclipart.org/detail/285219
 - water_mug: https://openclipart.org/detail/306096
 
 meat:
