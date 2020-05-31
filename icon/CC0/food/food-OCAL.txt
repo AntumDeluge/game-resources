@@ -32,17 +32,18 @@ dairy:
 - cheese_wedge: https://openclipart.org/detail/166638
 - cheese_wheel: https://openclipart.org/detail/8104
 
-dessert:
-- cupcake: https://openclipart.org/detail/306096
-- doughnut: https://openclipart.org/detail/279100
-
 meat:
 - egg: http://openclipart.org/detail/6695
 - ham: https://openclipart.org/detail/211419
 - steak: https://openclipart.org/detail/295935
 
+pastry:
+- cupcake: https://openclipart.org/detail/306096
+- doughnut: https://openclipart.org/detail/279100
+
 misc:
 - bread_loaf: https://openclipart.org/detail/306096
+- cookie_chocolate_chip: https://openclipart.org/detail/320961
 - french_fries: https://openclipart.org/detail/149623
 - hot_dog: https://openclipart.org/detail/69763
 - lasagna: https://openclipart.org/detail/9081
