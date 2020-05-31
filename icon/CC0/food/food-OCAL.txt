@@ -15,6 +15,7 @@ fruit:
 - strawberry: https://openclipart.org/detail/233803
 - tomato: https://openclipart.org/detail/4783
 - watermelon: https://openclipart.org/detail/285199
+- watermelon_slice: https://openclipart.org/detail/8533
 
 vegetable:
 - artichoke: https://openclipart.org/detail/291385
