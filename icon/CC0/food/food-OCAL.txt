@@ -23,6 +23,7 @@ vegetable:
 - onion_01: https://openclipart.org/detail/4748
 - onion_02: https://openclipart.org/detail/228333
 - potato: https://openclipart.org/detail/291193
+- radish: https://openclipart.org/detail/33997
 - zucchini: https://openclipart.org/detail/291456
 
 grain:
