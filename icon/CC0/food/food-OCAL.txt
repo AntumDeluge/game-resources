@@ -49,5 +49,6 @@ misc:
 - macaroni: https://openclipart.org/detail/105709
 - mushroom: https://openclipart.org/detail/24245
 - popcorn: https://openclipart.org/detail/148543
+- pretzel: https://openclipart.org/detail/106387
 - sandwich: https://openclipart.org/detail/306096
 - water_mug: https://openclipart.org/detail/306096
