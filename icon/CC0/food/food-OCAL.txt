@@ -43,3 +43,4 @@ misc:
 - hot_dog: https://openclipart.org/detail/69763
 - macaroni: https://openclipart.org/detail/105709
 - popcorn: https://openclipart.org/detail/148543
+- sandwich: https://openclipart.org/detail/306096
