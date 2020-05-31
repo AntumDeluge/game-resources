@@ -38,6 +38,7 @@ meat:
 
 misc:
 - bread_loaf: https://openclipart.org/detail/306096
+- cupcake: https://openclipart.org/detail/306096
 - french_fries: https://openclipart.org/detail/149623
 - hot_dog: https://openclipart.org/detail/69763
 - macaroni: https://openclipart.org/detail/105709
