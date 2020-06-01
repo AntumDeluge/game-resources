@@ -80,6 +80,13 @@ pastry:
 - cupcake: https://openclipart.org/detail/306096
 - doughnut: https://openclipart.org/detail/279100
 
+treat:
+- ice_cream_bar_*: https://openclipart.org/detail/318127
+- ice_cream_sandwich_*: https://openclipart.org/detail/318127
+- ice_cream_sundae_01: https://openclipart.org/detail/301401
+- ice_cream_sundae_02: https://openclipart.org/detail/320962
+- popsicle_*: https://openclipart.org/detail/318127
+
 misc:
 - bread_loaf: https://openclipart.org/detail/306096
 - burrito: https://openclipart.org/detail/9074
@@ -87,8 +94,6 @@ misc:
 - french_fries: https://openclipart.org/detail/149623
 - hot_dog_01: https://openclipart.org/detail/69763
 - hot_dog_02: https://openclipart.org/detail/311979
-- ice_cream_sundae_01: https://openclipart.org/detail/301401
-- ice_cream_sundae_02: https://openclipart.org/detail/320962
 - ketchup: https://openclipart.org/detail/268371
 - mushroom: https://openclipart.org/detail/24245
 - pizza_01: https://openclipart.org/detail/284543
