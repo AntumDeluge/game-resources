@@ -21,30 +21,8 @@ fruit:
 - watermelon: https://openclipart.org/detail/285199
 - watermelon_slice: https://openclipart.org/detail/8533
 
-vegetable:
-- artichoke: https://openclipart.org/detail/291385
-- bok_choy: https://openclipart.org/detail/312486
-- broccoli: https://openclipart.org/detail/26141
-- cabbage: https://openclipart.org/detail/312486
-- carrot: https://openclipart.org/detail/215799
-- cucumber: https://openclipart.org/detail/320976
-- daikon: https://openclipart.org/detail/312486
-- ginger: https://openclipart.org/detail/312486
-- green_bean: https://openclipart.org/detail/228333
-- lettuce: https://openclipart.org/detail/312486
-- onion_01: https://openclipart.org/detail/4748
-- onion_02: https://openclipart.org/detail/228333
-- parsnip: https://openclipart.org/detail/228333
-- peas: https://openclipart.org/detail/228333
-- pepper_bell_01: https://openclipart.org/detail/312486
-- pepper_bell_02: https://openclipart.org/detail/228333
-- pepper_chili: https://openclipart.org/detail/228333
-- potato: https://openclipart.org/detail/291193
-- radish: https://openclipart.org/detail/33997
-- yam: https://openclipart.org/detail/1028
-- zucchini: https://openclipart.org/detail/291456
-
 grain:
+- bread_loaf: https://openclipart.org/detail/306096
 - corn: https://openclipart.org/detail/291350
 
 dairy:
@@ -76,21 +54,41 @@ pasta:
 - noodle_fusili: https://openclipart.org/detail/48199
 - noodle_macaroni: https://openclipart.org/detail/105709
 
-pastry:
+treat:
+- cookie_chocolate_chip: https://openclipart.org/detail/320961
 - cupcake: https://openclipart.org/detail/306096
 - doughnut: https://openclipart.org/detail/279100
-
-treat:
 - ice_cream_bar_*: https://openclipart.org/detail/318127
 - ice_cream_sandwich_*: https://openclipart.org/detail/318127
 - ice_cream_sundae_01: https://openclipart.org/detail/301401
 - ice_cream_sundae_02: https://openclipart.org/detail/320962
 - popsicle_*: https://openclipart.org/detail/318127
 
+vegetable:
+- artichoke: https://openclipart.org/detail/291385
+- bok_choy: https://openclipart.org/detail/312486
+- broccoli: https://openclipart.org/detail/26141
+- cabbage: https://openclipart.org/detail/312486
+- carrot: https://openclipart.org/detail/215799
+- cucumber: https://openclipart.org/detail/320976
+- daikon: https://openclipart.org/detail/312486
+- ginger: https://openclipart.org/detail/312486
+- green_bean: https://openclipart.org/detail/228333
+- lettuce: https://openclipart.org/detail/312486
+- onion_01: https://openclipart.org/detail/4748
+- onion_02: https://openclipart.org/detail/228333
+- parsnip: https://openclipart.org/detail/228333
+- peas: https://openclipart.org/detail/228333
+- pepper_bell_01: https://openclipart.org/detail/312486
+- pepper_bell_02: https://openclipart.org/detail/228333
+- pepper_chili: https://openclipart.org/detail/228333
+- potato: https://openclipart.org/detail/291193
+- radish: https://openclipart.org/detail/33997
+- yam: https://openclipart.org/detail/1028
+- zucchini: https://openclipart.org/detail/291456
+
 misc:
-- bread_loaf: https://openclipart.org/detail/306096
 - burrito: https://openclipart.org/detail/9074
-- cookie_chocolate_chip: https://openclipart.org/detail/320961
 - french_fries: https://openclipart.org/detail/149623
 - hot_dog_01: https://openclipart.org/detail/69763
 - hot_dog_02: https://openclipart.org/detail/311979
