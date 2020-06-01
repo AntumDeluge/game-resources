@@ -95,7 +95,8 @@ misc:
 - popcorn: https://openclipart.org/detail/148543
 - pretzel: https://openclipart.org/detail/106387
 - salad: https://openclipart.org/detail/297571
-- sandwich: https://openclipart.org/detail/306096
+- sandwich_01: https://openclipart.org/detail/306096
+- sandwich_02: https://openclipart.org/detail/36199
 - sandwich_buger: https://openclipart.org/detail/9079
 - sandwich_grilled: https://openclipart.org/detail/150769
 - sushi_*: https://openclipart.org/detail/316537
