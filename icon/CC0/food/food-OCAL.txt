@@ -99,3 +99,4 @@ misc:
 - sandwich_buger: https://openclipart.org/detail/9079
 - sandwich_grilled: https://openclipart.org/detail/150769
 - sushi_*: https://openclipart.org/detail/316537
+- taco: https://openclipart.org/detail/151201
