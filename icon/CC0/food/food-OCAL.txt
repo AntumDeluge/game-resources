@@ -1,3 +1,17 @@
+dairy:
+- butter: https://openclipart.org/detail/292540
+- cheese_wedge: https://openclipart.org/detail/166638
+- cheese_wheel: https://openclipart.org/detail/8104
+
+drink:
+- juice_orange: https://openclipart.org/detail/294552
+- milk_carton: https://openclipart.org/detail/4810
+- soda_bottle: https://openclipart.org/detail/241570
+- soda_can_*: https://openclipart.org/detail/285219
+- soda_glass: https://openclipart.org/detail/311979
+- strawberry_smoothie: https://openclipart.org/detail/3542
+- water_mug: https://openclipart.org/detail/306096
+
 fruit:
 - apple: https://openclipart.org/detail/18315
 - banana: https://openclipart.org/detail/189457
@@ -24,20 +38,6 @@ fruit:
 grain:
 - bread_loaf: https://openclipart.org/detail/306096
 - corn: https://openclipart.org/detail/291350
-
-dairy:
-- butter: https://openclipart.org/detail/292540
-- cheese_wedge: https://openclipart.org/detail/166638
-- cheese_wheel: https://openclipart.org/detail/8104
-
-drink:
-- juice_orange: https://openclipart.org/detail/294552
-- milk_carton: https://openclipart.org/detail/4810
-- soda_bottle: https://openclipart.org/detail/241570
-- soda_can_*: https://openclipart.org/detail/285219
-- soda_glass: https://openclipart.org/detail/311979
-- strawberry_smoothie: https://openclipart.org/detail/3542
-- water_mug: https://openclipart.org/detail/306096
 
 meat:
 - chicken: https://openclipart.org/detail/311979
@@ -105,6 +105,7 @@ misc:
 - pizza_slice_02: https://openclipart.org/detail/9086
 - popcorn: https://openclipart.org/detail/148543
 - pretzel: https://openclipart.org/detail/106387
+- ramen_bowl: https://openclipart.org/detail/191828
 - salad: https://openclipart.org/detail/297571
 - sandwich_01: https://openclipart.org/detail/306096
 - sandwich_02: https://openclipart.org/detail/36199
