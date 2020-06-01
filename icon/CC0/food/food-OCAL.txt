@@ -45,6 +45,10 @@ meat:
 - chicken_drumstick_02: https://openclipart.org/detail/320977
 - chicken_drumsticks: https://openclipart.org/detail/320977
 - egg: http://openclipart.org/detail/6695
+- egg_fried_01: https://openclipart.org/detail/80419
+- egg_fried_02: https://openclipart.org/detail/19630
+- egg_fried_03: https://openclipart.org/detail/317181
+- egg_hard_boiled: https://openclipart.org/detail/17016
 - ham: https://openclipart.org/detail/211419
 - sashimi: https://openclipart.org/detail/133141
 - steak: https://openclipart.org/detail/295935

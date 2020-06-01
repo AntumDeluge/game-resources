@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:docname="egg_fried_02.svg"
+   viewBox="0 0 255.99999 255.99999"
+   sodipodi:version="0.32"
+   inkscape:export-xdpi="10.5"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-ydpi="10.5"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="256"
+   height="256">
+  <title
+     id="title828">Fried Egg</title>
+  <defs
+     id="defs4">
+    <filter
+       id="filter3569"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur3571"
+         stdDeviation="0.96086425"
+         inkscape:collect="always" />
+    </filter>
+    <linearGradient
+       id="linearGradient3578"
+       y2="973.29999"
+       gradientUnits="userSpaceOnUse"
+       x2="418.54999"
+       gradientTransform="translate(0.89853,24.576)"
+       y1="1099.3"
+       x1="414.23001"
+       inkscape:collect="always">
+      <stop
+         id="stop3539"
+         style="stop-color:#a56654"
+         offset="0" />
+      <stop
+         id="stop3541"
+         style="stop-color:#933100;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       id="radialGradient3580"
+       gradientUnits="userSpaceOnUse"
+       cy="549.94"
+       cx="298.35001"
+       gradientTransform="matrix(0.92365,-0.86072,0.62051,0.66588,-188.54,944.24)"
+       r="56.148998"
+       inkscape:collect="always">
+      <stop
+         id="stop4186"
+         style="stop-color:#ff7f00"
+         offset="0" />
+      <stop
+         id="stop4188"
+         style="stop-color:#ffb400"
+         offset="1" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     guidetolerance="10"
+     pagecolor="#ffffff"
+     gridtolerance="10000"
+     inkscape:zoom="1.1371593"
+     objecttolerance="10"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="404.49418"
+     inkscape:cy="-27.622075"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-297.92,-843.93)">
+    <g
+       id="g3573"
+       transform="translate(0.39406113,-62.913711)">
+      <path
+         id="path3527"
+         sodipodi:nodetypes="czzzzzzczzzzz"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#767671;stroke-width:0.79895997"
+         d="m 540.72,1071.6 c -12.65,13.7 -54.14,13.6 -74.77,19.3 -20.64,5.7 -51.81,11.9 -84.27,4.9 -35.03,-7.6 -25.45,-14.1 -40.5,-20.5 -15.06,-6.4 -34.7,-4.9 -41.36,-20.9 -6.66,-15.9 10.89,-31.4 11.81,-44.3 0.92,-12.81 18.48,-18.84 39.17,-29.86 20.26,-10.8 47.7,-8.69 47.7,-8.69 0,0 20.79,-3.01 57.69,2.49 35.58,5.31 28.43,9.16 46.41,14.42 17.87,5.22 31.19,5.02 37.84,20.94 6.66,16 13.3,17.9 12.38,29.7 -0.93,11.9 0.55,18.7 -12.1,32.5 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3439"
+         sodipodi:nodetypes="czzzzzzczzzzz"
+         style="fill:none;stroke:url(#linearGradient3578);stroke-width:2;stroke-miterlimit:4.0999999;filter:url(#filter3569)"
+         d="m 541.84,1071.6 c -12.65,13.7 -54.14,13.7 -74.77,19.3 -20.64,5.7 -51.81,11.9 -84.28,4.9 -35.02,-7.6 -25.44,-14.1 -40.49,-20.4 -15.06,-6.4 -34.71,-5 -41.36,-20.9 -6.66,-16 10.89,-31.5 11.81,-44.3 0.92,-12.86 18.47,-18.9 39.16,-29.92 20.27,-10.8 47.71,-8.69 47.71,-8.69 0,0 20.79,-3 57.68,2.5 35.58,5.3 28.44,9.16 46.42,14.41 17.87,5.22 31.18,5.03 37.84,21 6.66,15.9 13.3,17.8 12.37,29.7 -0.92,11.8 0.56,18.7 -12.09,32.4 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path4039"
+         sodipodi:nodetypes="csssc"
+         style="opacity:0.73894001;fill:url(#radialGradient3580);fill-rule:evenodd;stroke:#933600;stroke-width:1.14390004"
+         d="m 482.51,1012 c 0,13.4 -24.9,24.3 -55.57,24.3 -30.68,0 -55.58,-10.9 -55.58,-24.3 0,-13.41 24.9,-33.26 55.58,-33.26 30.67,0 55.57,19.85 55.57,33.26 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>OpenClipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Fried Egg</dc:title>
+        <dc:date>2008-10-18T14:33:29</dc:date>
+        <dc:description />
+        <dc:source>https://openclipart.org/detail/19630</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>yyycatch</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>egg</rdf:li>
+            <rdf:li>food</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
