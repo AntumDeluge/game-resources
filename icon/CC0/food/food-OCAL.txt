@@ -57,10 +57,12 @@ drink:
 - milk_carton: https://openclipart.org/detail/4810
 - soda_bottle: https://openclipart.org/detail/241570
 - soda_can_*: https://openclipart.org/detail/285219
+- soda_glass: https://openclipart.org/detail/311979
 - strawberry_smoothie: https://openclipart.org/detail/3542
 - water_mug: https://openclipart.org/detail/306096
 
 meat:
+- chicken: https://openclipart.org/detail/311979
 - chicken_drumstick_01: https://openclipart.org/detail/320978
 - chicken_drumstick_02: https://openclipart.org/detail/320977
 - chicken_drumsticks: https://openclipart.org/detail/320977
@@ -83,7 +85,8 @@ misc:
 - burrito: https://openclipart.org/detail/9074
 - cookie_chocolate_chip: https://openclipart.org/detail/320961
 - french_fries: https://openclipart.org/detail/149623
-- hot_dog: https://openclipart.org/detail/69763
+- hot_dog_01: https://openclipart.org/detail/69763
+- hot_dog_02: https://openclipart.org/detail/311979
 - ice_cream_sundae_01: https://openclipart.org/detail/301401
 - ice_cream_sundae_02: https://openclipart.org/detail/320962
 - ketchup: https://openclipart.org/detail/268371
@@ -97,7 +100,10 @@ misc:
 - salad: https://openclipart.org/detail/297571
 - sandwich_01: https://openclipart.org/detail/306096
 - sandwich_02: https://openclipart.org/detail/36199
+- sandwich_03: https://openclipart.org/detail/311979
 - sandwich_buger: https://openclipart.org/detail/9079
 - sandwich_grilled: https://openclipart.org/detail/150769
+- shake: https://openclipart.org/detail/311979
 - sushi_*: https://openclipart.org/detail/316537
-- taco: https://openclipart.org/detail/151201
+- taco_01: https://openclipart.org/detail/151201
+- taco_02: https://openclipart.org/detail/311979
