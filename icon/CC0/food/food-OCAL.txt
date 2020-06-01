@@ -108,6 +108,7 @@ misc:
 - sandwich_03: https://openclipart.org/detail/311979
 - sandwich_buger: https://openclipart.org/detail/9079
 - sandwich_grilled: https://openclipart.org/detail/150769
+- sandwich_sub: https://openclipart.org/detail/9111
 - shake: https://openclipart.org/detail/311979
 - sushi_*: https://openclipart.org/detail/316537
 - taco_01: https://openclipart.org/detail/151201
