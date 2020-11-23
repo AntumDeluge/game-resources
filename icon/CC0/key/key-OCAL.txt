@@ -1,2 +1,3 @@
 - key_01: https://openclipart.org/detail/261937
 - key_02: https://openclipart.org/detail/1027
+- key_03: https://openclipart.org/detail/63331
