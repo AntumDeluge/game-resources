@@ -1,0 +1,7 @@
+- hand_axe_1: https://openclipart.org/detail/297951
+- hand_axe_2: https://openclipart.org/detail/85753
+- tomahawk: https://openclipart.org/detail/279156
+- battle_axe: https://openclipart.org/detail/4215
+- poleaxe_1: https://openclipart.org/detail/127057
+- poleaxe_2: https://openclipart.org/detail/86563
+- poleaxe_3: https://openclipart.org/detail/248700

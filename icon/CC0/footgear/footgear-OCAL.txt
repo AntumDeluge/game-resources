@@ -1,0 +1,3 @@
+- brogues: https://openclipart.org/detail/215042
+- engineer_boots: https://openclipart.org/detail/220146
+- gaiters: https://openclipart.org/detail/263249

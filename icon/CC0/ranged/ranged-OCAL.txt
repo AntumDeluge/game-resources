@@ -1,0 +1,6 @@
+- bow_01: https://openclipart.org/detail/264385
+- bow_02 & arrow_01: https://openclipart.org/detail/117565
+- bow_03: https://openclipart.org/detail/63115
+- bow_04: https://openclipart.org/detail/126949
+- crossbow_01: https://openclipart.org/detail/240858
+- crossbow_02: https://openclipart.org/detail/240928

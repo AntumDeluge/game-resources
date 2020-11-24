@@ -1,0 +1,4 @@
+- breastplate: https://openclipart.org/detail/225163
+- brigandine: https://openclipart.org/detail/15922
+- judo_gi: https://openclipart.org/detail/202066
+- t-shirt: https://openclipart.org/detail/181309

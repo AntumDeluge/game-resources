@@ -1,0 +1,9 @@
+- shepherd_crook_01: https://openclipart.org/detail/268067
+- caduceus_01: https://openclipart.org/detail/269438
+- staff_01: https://openclipart.org/detail/193247
+- staff_02: https://openclipart.org/detail/301164
+- staff_03: https://openclipart.org/detail/313967
+- magic_wand_01: https://openclipart.org/detail/83863
+- magic_wand_02: https://openclipart.org/detail/282840
+- magic_wand_03: https://openclipart.org/detail/228156
+- scepter_01: https://openclipart.org/detail/248860

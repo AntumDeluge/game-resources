@@ -1,0 +1,8 @@
+- hammer_01: https://openclipart.org/detail/4793
+- hammer_02: https://openclipart.org/detail/213992
+- wooden_mallet_01: https://openclipart.org/detail/26281
+- sledgehammer_01: https://openclipart.org/detail/14794
+- giant_mallet_01: https://openclipart.org/detail/105385
+- warhammer_01: https://openclipart.org/detail/240952
+- warhammer_02: https://openclipart.org/detail/241025
+- dwarven_warhammer_01: https://openclipart.org/detail/241026

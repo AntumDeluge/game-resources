@@ -1,0 +1,13 @@
+- buckler: https://openclipart.org/detail/204475
+- wooden_buckler: https://openclipart.org/detail/298163
+- kite_shield_[01-02]: https://openclipart.org/detail/214816
+- kite_shield_03: https://openclipart.org/detail/214819
+- kite_shield_04: https://openclipart.org/detail/214820
+- kite_shield_05: https://openclipart.org/detail/214821
+- kite_shield_06: https://openclipart.org/detail/214822
+- kite_shield_[07&09]: https://openclipart.org/detail/217331
+- kite_shield_08: https://openclipart.org/detail/169239
+- kite_shield_10: https://openclipart.org/detail/4286
+- kite_shield_11: https://openclipart.org/detail/293956
+- kite_shield_12: https://openclipart.org/detail/174181
+- viking_shield: https://openclipart.org/detail/169242
