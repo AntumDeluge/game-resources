@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.1.0.16-->
+<svg stroke-width="0.501" stroke-linejoin="bevel" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="720pt" height="720pt" viewBox="0 0 720 720">
+ <defs>
+  <linearGradient id="LinearGradient" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="-55.994" y2="-20.998" gradientTransform="translate(126.524 551.594)">
+   <stop offset="0" stop-color="#5eada4"/>
+   <stop offset="1" stop-color="#3c877f"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="35.327" gradientTransform="translate(385.837 77.219)">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#b2b2b2"/>
+  </linearGradient>
+ </defs>
+ <g id="Document" fill="none" stroke="black" font-family="Times New Roman" font-size="16" transform="scale(1 -1)">
+  <g id="Spread" transform="translate(0 -720)">
+   <g id="Layer 1">
+    <path d="M 502.884,655.839 L 50.341,657.764 C 14.18,651.845 -5.997,626.902 1.584,568.92 L 181.668,9.123 C 171.967,51.88 177.572,90.264 227.278,116.051 L 712.061,119.632 L 502.884,655.839 Z" stroke-linecap="round" stroke="none" stroke-width="13.794" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient)"/>
+    <path d="M 578.795,450.703 C 335.277,563.453 214.618,371.272 77.865,328.836 L 173.017,6.482 C 176.902,53.075 187.469,95.213 230.424,115.769 L 712.061,111.486 L 578.795,450.703 Z" stroke-linecap="round" stroke="none" fill="#3c877f" stroke-width="13.794" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <path d="M 664.587,116.913 L 236.424,118.836 C 182.722,95.276 166.178,61.103 199.464,12.695 L 667.733,19.421 C 647.677,49.734 647.405,78.327 664.587,116.913 Z" stroke-linecap="round" stroke="none" stroke-width="13.794" stroke-linejoin="miter" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_1)"/>
+    <path d="M 179.116,11.054 L 179.087,11.114 C 156.829,58.532 175.584,101.698 223.699,124.886 L 223.669,124.87 C 224.558,125.316 225.541,125.543 226.536,125.534 L 229.488,125.508 L 53.347,650.677 L 53.1,652.693 L 53.069,652.693 L 53.069,652.744 L 53.084,652.823 L 53.04,653.188 L 53.447,654.618 L 53.563,655.191 L 53.645,655.313 L 53.709,655.537 L 54.321,656.314 L 54.912,657.189 L 55.121,657.33 L 55.219,657.455 L 55.701,657.721 L 56.91,658.538 L 57.33,658.623 L 57.433,658.68 L 57.481,658.695 L 57.493,658.656 L 59.358,659.033 L 496.623,659.033 C 499.187,659.033 501.496,657.475 502.455,655.098 L 719.54,117.216 C 721.214,113.066 718.128,108.533 713.652,108.573 L 228.123,112.842 L 214.514,105.041 C 187.739,86.805 177.126,60.666 185.031,31.419 L 189.183,20.211 L 691.198,24.108 C 694.663,24.135 697.5,21.348 697.535,17.883 L 697.536,17.784 C 697.571,14.307 694.773,11.458 691.296,11.431 L 184.829,7.5 C 182.398,7.481 180.173,8.865 179.116,11.054 Z M 704.205,121.335 L 492.312,646.355 L 68.169,646.355 L 241.521,129.507 C 241.798,128.679 241.893,127.834 241.829,127.015 L 241.377,125.403 L 704.205,121.335 Z" stroke-width="0.5" stroke="none" fill="#377b74" fill-rule="evenodd" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    <text xml:space="preserve" transform="matrix(0.999893 0 0.36557 -0.999893 311.687 343.383) scale(1.00024 1)" font-family="Arial" font-size="343.393" stroke-linecap="round" stroke="none" fill="#403f00" stroke-width="12.875" stroke-linejoin="round" stroke-miterlimit="79.8403193612775"><tspan x="0" y="0">†</tspan></text>
+   </g>
+  </g>
+ </g>
+</svg>
