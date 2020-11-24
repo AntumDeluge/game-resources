@@ -1,0 +1,13 @@
+- bomb_01: https://openclipart.org/detail/62809
+- bomb_02: https://openclipart.org/detail/131257
+- bomb_03: https://openclipart.org/detail/183653
+- dynamite_01: https://openclipart.org/detail/165734
+- dynamite_02: https://openclipart.org/detail/286328
+- hand_grenade_01: https://openclipart.org/detail/104221
+- hand_grenade_02: https://openclipart.org/detail/232071
+- hand_grenade_03: https://openclipart.org/detail/176566
+- sea_mine_01: https://openclipart.org/detail/20844
+- sea_mine_02: https://openclipart.org/detail/20846
+- molotov_cocktail_[01-02]: https://openclipart.org/detail/166243
+- molotov_cocktail_03: https://openclipart.org/detail/4624
+- molotov_cocktail_04: https://openclipart.org/detail/270314
