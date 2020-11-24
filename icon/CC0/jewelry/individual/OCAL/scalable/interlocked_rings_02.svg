@@ -1,0 +1,291 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg2"
+    viewBox="0 0 750 750"
+    version="1.0"
+    y="0"
+    x="0"
+  >
+  <defs
+      id="defs3"
+    >
+    <linearGradient
+        id="linearGradient2064"
+      >
+      <stop
+          id="stop2066"
+          offset="0"
+      />
+      <stop
+          id="stop2068"
+          stop-opacity="0"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient2070"
+        y2="437.67"
+        xlink:href="#linearGradient2064"
+        gradientUnits="userSpaceOnUse"
+        y1="398.23"
+        gradientTransform="matrix(1.1944 0 0 1.1551 18.814 -121.62)"
+        x2="248.87"
+        x1="224.24"
+    />
+    <linearGradient
+        id="linearGradient2074"
+        y2="437.67"
+        xlink:href="#linearGradient2064"
+        gradientUnits="userSpaceOnUse"
+        y1="398.23"
+        gradientTransform="matrix(-1.5607 -.93911 -1.1754 .56654 1554.2 457.49)"
+        x2="248.87"
+        x1="224.24"
+    />
+    <linearGradient
+        id="linearGradient2078"
+        y2="437.67"
+        xlink:href="#linearGradient2064"
+        gradientUnits="userSpaceOnUse"
+        y1="398.23"
+        gradientTransform="matrix(1.6784 .80542 1.0868 -.75835 -804.44 465.53)"
+        x2="248.87"
+        x1="224.24"
+    />
+    <linearGradient
+        id="linearGradient2082"
+        y2="437.67"
+        xlink:href="#linearGradient2064"
+        gradientUnits="userSpaceOnUse"
+        y1="398.23"
+        gradientTransform="matrix(-.67441 1.7352 -1.3116 .18944 1142.2 -268.06)"
+        x2="248.87"
+        x1="224.24"
+    />
+    <radialGradient
+        id="radialGradient2173"
+        gradientUnits="userSpaceOnUse"
+        cy="455.54"
+        cx="307.34"
+        gradientTransform="scale(1.1872 .84233)"
+        r="250.16"
+      >
+      <stop
+          id="stop2169"
+          stop-color="#f00"
+          stop-opacity=".23469"
+          offset="0"
+      />
+      <stop
+          id="stop2171"
+          stop-color="#f00"
+          stop-opacity="0"
+          offset="1"
+      />
+    </radialGradient
+    >
+  </defs
+  >
+  <g
+      id="layer1"
+    >
+    <path
+        id="path2165"
+        d="m661.85 383.72a296.98 210.72 0 1 1 -593.97 0 296.98 210.72 0 1 1 593.97 0z"
+        fill="url(#radialGradient2173)"
+        transform="translate(0 -20)"
+    />
+    <path
+        id="path2104"
+        stroke-linejoin="round"
+        d="m420 339.51a174.29 90 0 1 1 -348.57 0 174.29 90 0 1 1 348.57 0z"
+        stroke-opacity=".29189"
+        transform="matrix(1.1812 -.31815 .31815 1.1812 -138.01 6.2223)"
+        stroke="#000"
+        stroke-linecap="round"
+        stroke-width="47.006"
+        fill="none"
+    />
+    <path
+        id="path2112"
+        stroke-linejoin="round"
+        d="m420 339.51a174.29 90 0 1 1 -348.57 0 174.29 90 0 1 1 348.57 0z"
+        stroke-opacity=".21622"
+        transform="matrix(1.1296 .29853 -.29950 1.1259 318.53 -49.652)"
+        stroke="#000"
+        stroke-linecap="round"
+        stroke-width="48.213"
+        fill="none"
+    />
+    <path
+        id="path1291"
+        stroke-linejoin="round"
+        d="m420 339.51a174.29 90 0 1 1 -348.57 0 174.29 90 0 1 1 348.57 0z"
+        transform="matrix(1.1812 -.31815 .31815 1.1812 -138.01 6.2223)"
+        stroke="#fff200"
+        stroke-linecap="round"
+        stroke-width="43.55"
+        fill="none"
+    />
+    <path
+        id="path2080"
+        d="m440.28 292.31s3.71-46.15-9.17-64.24c-12.88-18.1-4.93-9.27-21.08-22.62-16.15-13.34-3.46 41.84-3.46 41.84s22.18 12.48 25.27 19.16 8.44 25.86 8.44 25.86z"
+        fill="url(#linearGradient2082)"
+        fill-rule="evenodd"
+    />
+    <path
+        id="path2052"
+        stroke-linejoin="round"
+        d="m420 339.51a174.29 90 0 1 1 -348.57 0 174.29 90 0 1 1 348.57 0z"
+        transform="matrix(1.1296 .29853 -.29950 1.1259 318.53 -49.652)"
+        stroke="#fff200"
+        stroke-linecap="round"
+        stroke-width="43.55"
+        fill="none"
+    />
+    <path
+        id="path2056"
+        d="m432.04 317.96s12.62-2.8 28.04 0c15.42 2.81 28.03 5.61 28.03 5.61s-35.04-7.01-51.86 2.81c-16.82 9.81-23.83 18.22-23.83 18.22l19.62-26.64z"
+        fill-opacity=".6"
+        fill-rule="evenodd"
+    />
+    <path
+        id="path2058"
+        d="m315.7 455.34s12.62-2.81 28.03-8.41c15.42-5.61 28.04-14.02 28.04-14.02s-26.63 23.83-35.04 26.63-21.03-4.2-21.03-4.2z"
+        fill-opacity=".27027"
+        fill-rule="evenodd"
+    />
+    <path
+        id="path2060"
+        d="m353.55 330.11s-33.27 13.27-47.82 31.85c-14.56 18.58-7.28 7.96-18.72 27.87-11.43 19.91 30.15-11.95 30.15-11.95s11.44-25.21 16.63-30.52c5.2-5.31 19.76-17.25 19.76-17.25z"
+        fill="url(#linearGradient2070)"
+        fill-rule="evenodd"
+    />
+    <path
+        id="path2072"
+        d="m657.16 415.85s29.97 32.66 30.08 53.22 1.4 9.63-3.91 28.38c-5.31 18.76-27.24-29.56-27.24-29.56s10.72-21.36 9.33-28.05-8.26-23.99-8.26-23.99z"
+        fill="url(#linearGradient2074)"
+        fill-rule="evenodd"
+    />
+    <path
+        id="path2076"
+        d="m90.934 394.7s-34.258-31.14-37.227-53.16c-2.97-22.01-2.734-10.13-0.072-30.91 2.661-20.78 31.124 28.17 31.124 28.17s-7.656 24.26-5.347 31.25c2.31 6.99 11.522 24.65 11.522 24.65z"
+        fill="url(#linearGradient2078)"
+        fill-rule="evenodd"
+    />
+    <path
+        id="path2084"
+        d="m397.06 309.47c-0.97 0.48-27.09-46.99-28.12-46.73-1.04 0.26-4.46 50.52-5.54 50.58-1.08 0.07-1.36-51.68-2.43-51.97-1.07-0.3-31.26 47.62-32.17 47.05-0.91-0.56 25.27-50.34 24.5-51.08-0.78-0.74-44.04 20.99-44.59 20.04-0.56-0.95 46.82-23.88 46.55-24.92-0.26-1.03-59.54-7.59-59.59-8.66-0.06-1.07 56.76 4.77 57.13 3.74 0.37-1.02-44.71-32.83-44.07-33.73s44.52 25.84 45.39 25.12c0.86-0.72-19.76-49-18.82-49.59 0.95-0.59 26.07 47.57 27.14 47.44s0.38-56.42 1.5-56.49c1.13-0.07 4.55 59.98 5.61 60.24 1.05 0.25 31.07-51.88 32-51.34 0.94 0.54-30.19 48.04-29.5 48.91 0.69 0.88 49.23-24.49 49.75-23.5s-42.8 29.83-42.45 30.85c0.35 1.03 52.48 3.33 52.33 4.38-0.15 1.06-53.74 2.63-53.97 3.73-0.24 1.11 44.67 33.86 44.07 34.74-0.61 0.88-50.13-26.17-50.89-25.41-0.77 0.77 27.13 46.12 26.17 46.6z"
+        fill="#ffffce"
+        transform="matrix(1.2233 0 0 1.2233 35.775 -41.265)"
+    />
+    <path
+        id="path2114"
+        d="m279.89 408.69s13.87-2.48 24.27-5.95c10.4-3.46 25.76-9.9 25.76-9.9s0.49-3.47-8.42-1.99c-8.92 1.49-41.61 17.84-41.61 17.84z"
+        fill-opacity=".27027"
+        fill-rule="evenodd"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Wedding Rings</dc:title
+        >
+        <dc:date
+          >2005-10-11T20:07:45</dc:date
+        >
+        <dc:description
+          >Wedding Rings s </dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/182973/wedding-rings-by-Jarno-182973</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >Jarno</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >ring</rdf:li
+            >
+            <rdf:li
+              >rings</rdf:li
+            >
+            <rdf:li
+              >upload2openclipart</rdf:li
+            >
+            <rdf:li
+              >wedding</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
