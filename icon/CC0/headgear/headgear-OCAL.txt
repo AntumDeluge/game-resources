@@ -7,3 +7,4 @@
 - fedora: https://openclipart.org/detail/14848
 - mining_helmet: https://openclipart.org/detail/149017
 - american_football_helmet: https://openclipart.org/detail/212653
+- motorcyble_helmet: https://openclipart.org/detail/202023
