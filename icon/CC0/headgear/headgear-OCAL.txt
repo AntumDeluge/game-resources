@@ -6,3 +6,4 @@
 - kettle_hat: https://openclipart.org/detail/169352
 - fedora: https://openclipart.org/detail/14848
 - mining_helmet: https://openclipart.org/detail/149017
+- american_football_helmet: https://openclipart.org/detail/212653
