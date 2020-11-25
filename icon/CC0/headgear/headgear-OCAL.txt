@@ -5,3 +5,4 @@
 - norman_helmet_02: https://openclipart.org/detail/169353
 - kettle_hat: https://openclipart.org/detail/169352
 - fedora: https://openclipart.org/detail/14848
+- mining_helmet: https://openclipart.org/detail/149017
