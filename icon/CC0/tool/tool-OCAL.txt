@@ -1,6 +1,7 @@
 - compass_01: https://openclipart.org/detail/301393
 - compass_02: https://openclipart.org/detail/171173
 - compass_03: https://openclipart.org/detail/95083
+- compass_04: https://openclipart.org/detail/181435
 - compass_geometric_01: https://openclipart.org/detail/183936
 - compass_geometric_02: https://openclipart.org/detail/126697
 - ruler_01: https://openclipart.org/detail/13662
