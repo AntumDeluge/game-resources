@@ -10,3 +10,4 @@
 - tape_measure_01: https://openclipart.org/detail/10430
 - tape_measure_02: https://openclipart.org/detail/32185
 - tape_measure_03: https://openclipart.org/detail/285706
+- tape_measure_04: https://openclipart.org/detail/325712
