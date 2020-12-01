@@ -12,13 +12,13 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg4085"
    sodipodi:docname="ruler_01.svg"
-   viewBox="0 0 476.966 219.00377"
+   viewBox="0 0 256 255.85799"
    sodipodi:version="0.32"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   width="476.966"
-   height="219.00377">
+   width="256"
+   height="255.85799">
   <defs
      id="defs4087">
     <linearGradient
@@ -33,18 +33,6 @@
          style="stop-color:#fff3de;stop-opacity:0"
          offset="1" />
     </linearGradient>
-    <filter
-       id="filter3976"
-       height="1.5249"
-       width="1.1"
-       y="-0.26245999"
-       x="-0.050000999"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur3978"
-         stdDeviation="1.637157"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        id="linearGradient2566"
        y2="313.39999"
@@ -188,13 +176,13 @@
      inkscape:window-y="-8"
      pagecolor="#ffffff"
      inkscape:window-height="1025"
-     inkscape:zoom="1"
+     inkscape:zoom="1.4142136"
      inkscape:window-x="-8"
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="svg4085"
-     inkscape:cx="-206.30745"
-     inkscape:cy="93.391917"
+     inkscape:cx="49.346204"
+     inkscape:cy="212.14415"
      units="mm"
      inkscape:window-width="1920"
      inkscape:pageopacity="0.0"
@@ -206,16 +194,7 @@
      fit-margin-bottom="0" />
   <g
      id="g2515"
-     transform="matrix(0.99852,-0.054396,0.054396,0.99852,-141.10371,-71.004849)">
-    <rect
-       id="rect3747"
-       style="fill:#000000;stroke:#000000;stroke-width:0.80000001;filter:url(#filter3976)"
-       transform="matrix(5.1841,1.6704,-1.5006,4.6473,-859.95,-2332.7)"
-       ry="0.76011002"
-       height="13.954"
-       width="77.746002"
-       y="409.63"
-       x="318.82001" />
+     transform="matrix(0.32364652,-0.63121308,0.63121308,0.32364652,-114.00907,296.8602)">
     <rect
        id="rect2619"
        style="fill:url(#linearGradient2566);stroke:url(#linearGradient2568);stroke-width:4.44000006"
