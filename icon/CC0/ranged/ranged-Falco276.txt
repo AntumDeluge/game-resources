@@ -1,0 +1,4 @@
+Sources:
+- bow_01: https://openclipart.org/detail/300601
+- bow_02 & arrow_02: https://openclipart.org/detail/302411
+- bow_03 & arrow_03: https://openclipart.org/detail/318166
