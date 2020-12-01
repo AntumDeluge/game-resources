@@ -1,1 +1,2 @@
+- ruler_01: https://openclipart.org/detail/13662
 - scissors_01: https://openclipart.org/detail/449
