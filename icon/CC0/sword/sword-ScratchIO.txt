@@ -1,0 +1,7 @@
+Sources:
+- demonic: https://opengameart.org/node/97587
+- fantasy: https://opengameart.org/node/97166
+- forest: https://opengameart.org/node/107087
+- light: https://opengameart.org/node/101058
+- medieval: https://opengameart.org/node/107549
+- underworld: https://opengameart.org/node/101366
