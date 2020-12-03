@@ -1,0 +1,4 @@
+Sources:
+- demonic: https://opengameart.org/node/97587
+- fantasy: https://opengameart.org/node/97166
+- round: https://opengameart.org/node/107769

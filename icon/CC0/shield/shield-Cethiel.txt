@@ -1,0 +1,3 @@
+Sources:
+- shield 1-6: https://opengameart.org/node/95987
+- shield 7-12: https://opengameart.org/node/96279
