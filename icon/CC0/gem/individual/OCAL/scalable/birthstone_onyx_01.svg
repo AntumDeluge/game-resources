@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:docname="birthstone_onyx_01.svg"
+   viewBox="0 0 88.999999 96.999997"
+   sodipodi:version="0.32"
+   inkscape:export-xdpi="90"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-ydpi="90"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="89"
+   height="97">
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     guidetolerance="10"
+     pagecolor="#ffffff"
+     gridtolerance="10000"
+     inkscape:window-height="1025"
+     inkscape:zoom="0.98994949"
+     objecttolerance="10"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="svg2"
+     inkscape:cx="-464.56714"
+     inkscape:cy="93.545705"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-width="1920"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath9439"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path9441"
+         sodipodi:nodetypes="cccc"
+         style="fill:none;stroke:#000000;stroke-width:1px"
+         d="m 98.995,417.99 c 215.3,-119.37 317.78,-77.62 501.04,6.06 L 359.605,50.29 98.985,417.99 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <filter
+       id="filter5650"
+       height="1.2015001"
+       width="1.1989"
+       y="-0.10075"
+       x="-0.099462003"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur5652"
+         stdDeviation="6.5306771"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       id="filter6006"
+       height="1.1538"
+       width="1.5638"
+       y="-0.076876998"
+       x="-0.28187999"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur6008"
+         stdDeviation="18.583123"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       id="filter6162"
+       height="1.5565"
+       width="1.3091"
+       y="-0.27824"
+       x="-0.15455"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur6164"
+         stdDeviation="28.422881"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
+  <g
+     id="g6202"
+     transform="translate(-134.29497,-343.19278)"
+     inkscape:label="onyx">
+    <ellipse
+       id="path6178"
+       style="fill:#22280b;filter:url(#filter5650)"
+       transform="matrix(0.36887,0,0,0.43629,-51.853,130)"
+       cx="625.28442"
+       cy="599.81384"
+       rx="78.791901"
+       ry="77.781746" />
+    <ellipse
+       id="path6180"
+       style="opacity:0.93683998;fill:#aa4400"
+       transform="matrix(0.11055,0,0,0.15038,139.85,315.76)"
+       cx="343.45187"
+       cy="488.69705"
+       rx="226.27417"
+       ry="216.17264" />
+    <ellipse
+       id="path6182"
+       style="opacity:0.93683998;fill:#800080"
+       clip-path="url(#clipPath9439)"
+       transform="matrix(0.11055,0,0,0.15038,139.85,315.76)"
+       cx="343.45187"
+       cy="488.69705"
+       rx="226.27417"
+       ry="216.17264" />
+    <ellipse
+       id="path6184"
+       style="opacity:0.93683998;fill:#808000"
+       clip-path="url(#clipPath9439)"
+       transform="matrix(0.11055,0,0,-0.15038,140.07,462.74)"
+       cx="343.45187"
+       cy="488.69705"
+       rx="226.27417"
+       ry="216.17264" />
+    <ellipse
+       id="path6186"
+       style="opacity:0.86316002;fill:#552200"
+       transform="matrix(0.33682,0,0,0.44314,-31.307,123.49)"
+       cx="625.28442"
+       cy="599.81384"
+       rx="78.791901"
+       ry="77.781746" />
+    <ellipse
+       id="path6188"
+       style="opacity:0.94211001;fill:#ffffff"
+       transform="matrix(0.48458,0.0503,-0.49884,0.88034,278.34,-211.5)"
+       cx="418.57144"
+       cy="633.07648"
+       rx="8.5714283"
+       ry="5" />
+    <ellipse
+       id="path6190"
+       style="opacity:0.63683998;fill:#a05a2c;filter:url(#filter6162)"
+       clip-path="url(#clipPath9439)"
+       transform="matrix(0.025228,0.12364,0.090887,-0.032203,143.81,356.5)"
+       cx="343.45187"
+       cy="488.69705"
+       rx="226.27417"
+       ry="216.17264" />
+    <ellipse
+       id="path6192"
+       style="opacity:0.42105001;fill:#f4e3d7;fill-opacity:0.61687999;filter:url(#filter6006)"
+       clip-path="url(#clipPath9439)"
+       transform="matrix(-0.063184,0.090389,-0.050635,-0.0696,209.84,371.4)"
+       cx="343.45187"
+       cy="488.69705"
+       rx="226.27417"
+       ry="216.17264" />
+  </g>
+  <metadata
+     id="metadata194">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>OpenClipart library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>birthstones</dc:title>
+        <dc:date>2008-10-30T14:01:28</dc:date>
+        <dc:description>after my pearl necklace, I decided to upload my birthstone collection</dc:description>
+        <dc:source>https://openclipart.org/detail/19865/birthstones-by-wsnaccad-19865</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>wsnaccad</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>agate</rdf:li>
+            <rdf:li>amethyst</rdf:li>
+            <rdf:li>beryl</rdf:li>
+            <rdf:li>birtstone</rdf:li>
+            <rdf:li>bloodstone</rdf:li>
+            <rdf:li>carnelian</rdf:li>
+            <rdf:li>emerald</rdf:li>
+            <rdf:li>garnet</rdf:li>
+            <rdf:li>gem</rdf:li>
+            <rdf:li>jewelry</rdf:li>
+            <rdf:li>onyx</rdf:li>
+            <rdf:li>peridot</rdf:li>
+            <rdf:li>ruby</rdf:li>
+            <rdf:li>sapphire</rdf:li>
+            <rdf:li>stones</rdf:li>
+            <rdf:li>topaz</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
