@@ -12,15 +12,17 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:docname="birthstone_garnet_01.svg"
-   viewBox="0 0 89.060462 97.31989"
+   viewBox="0 0 256 255.99999"
    sodipodi:version="0.32"
    inkscape:export-xdpi="90"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-ydpi="90"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   width="89.060463"
-   height="97.319893">
+   width="256"
+   height="256">
+  <title
+     id="title849">Garnet Birthstone</title>
   <sodipodi:namedview
      id="base"
      bordercolor="#666666"
@@ -34,7 +36,7 @@
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="svg2"
-     inkscape:cx="-126.57787"
+     inkscape:cx="-219.51191"
      inkscape:cy="-39.754061"
      inkscape:window-y="-8"
      inkscape:window-x="-8"
@@ -198,7 +200,7 @@
   </defs>
   <g
      id="g3616"
-     transform="translate(-193.27441,-173.5665)"
+     transform="matrix(3.0826173,0,0,3.0826173,-605.0607,-557.03911)"
      inkscape:label="garnet">
     <path
        id="path3573"
@@ -316,13 +318,13 @@
         <dc:publisher>
           <cc:Agent
              rdf:about="http://openclipart.org/">
-            <dc:title>OpenClipart library</dc:title>
+            <dc:title>OpenClipart Library</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:title>birthstones</dc:title>
+        <dc:title>Garnet Birthstone</dc:title>
         <dc:date>2008-10-30T14:01:28</dc:date>
-        <dc:description>after my pearl necklace, I decided to upload my birthstone collection</dc:description>
-        <dc:source>https://openclipart.org/detail/19865/birthstones-by-wsnaccad-19865</dc:source>
+        <dc:description />
+        <dc:source>https://openclipart.org/detail/19865</dc:source>
         <dc:creator>
           <cc:Agent>
             <dc:title>wsnaccad</dc:title>
@@ -330,22 +332,14 @@
         </dc:creator>
         <dc:subject>
           <rdf:Bag>
-            <rdf:li>agate</rdf:li>
-            <rdf:li>amethyst</rdf:li>
-            <rdf:li>beryl</rdf:li>
-            <rdf:li>birtstone</rdf:li>
-            <rdf:li>bloodstone</rdf:li>
-            <rdf:li>carnelian</rdf:li>
-            <rdf:li>emerald</rdf:li>
-            <rdf:li>garnet</rdf:li>
+            <rdf:li>birthstone</rdf:li>
+            <rdf:li>birth</rdf:li>
+            <rdf:li>stone</rdf:li>
             <rdf:li>gem</rdf:li>
+            <rdf:li>jewel</rdf:li>
+            <rdf:li>mineral</rdf:li>
             <rdf:li>jewelry</rdf:li>
-            <rdf:li>onyx</rdf:li>
-            <rdf:li>peridot</rdf:li>
-            <rdf:li>ruby</rdf:li>
-            <rdf:li>sapphire</rdf:li>
-            <rdf:li>stones</rdf:li>
-            <rdf:li>topaz</rdf:li>
+            <rdf:li>garnet</rdf:li>
           </rdf:Bag>
         </dc:subject>
       </cc:Work>

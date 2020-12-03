@@ -12,15 +12,17 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    sodipodi:docname="birthstone_emerald_01.svg"
-   viewBox="0 0 89.060462 97.31989"
+   viewBox="0 0 256 255.99999"
    sodipodi:version="0.32"
    inkscape:export-xdpi="90"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-ydpi="90"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   width="89.060463"
-   height="97.319893">
+   width="256"
+   height="256">
+  <title
+     id="title846">Emerald Birthstone</title>
   <sodipodi:namedview
      id="base"
      bordercolor="#666666"
@@ -29,13 +31,13 @@
      pagecolor="#ffffff"
      gridtolerance="10000"
      inkscape:window-height="1025"
-     inkscape:zoom="0.98994949"
+     inkscape:zoom="0.7"
      objecttolerance="10"
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="svg2"
-     inkscape:cx="-280.02687"
-     inkscape:cy="101.14494"
+     inkscape:cx="-48.655339"
+     inkscape:cy="-11.26682"
      inkscape:window-y="-8"
      inkscape:window-x="-8"
      inkscape:window-width="1920"
@@ -190,7 +192,7 @@
   </defs>
   <g
      id="g6280"
-     transform="translate(-216.89441,-77.095504)"
+     transform="matrix(3.0826173,0,0,3.0826173,-677.87212,-259.65593)"
      inkscape:label="emerald">
     <path
        id="path3355"
@@ -300,13 +302,13 @@
         <dc:publisher>
           <cc:Agent
              rdf:about="http://openclipart.org/">
-            <dc:title>OpenClipart library</dc:title>
+            <dc:title>OpenClipart Library</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:title>birthstones</dc:title>
+        <dc:title>Emerald Birthstone</dc:title>
         <dc:date>2008-10-30T14:01:28</dc:date>
-        <dc:description>after my pearl necklace, I decided to upload my birthstone collection</dc:description>
-        <dc:source>https://openclipart.org/detail/19865/birthstones-by-wsnaccad-19865</dc:source>
+        <dc:description />
+        <dc:source>https://openclipart.org/detail/19865</dc:source>
         <dc:creator>
           <cc:Agent>
             <dc:title>wsnaccad</dc:title>
@@ -314,22 +316,14 @@
         </dc:creator>
         <dc:subject>
           <rdf:Bag>
-            <rdf:li>agate</rdf:li>
-            <rdf:li>amethyst</rdf:li>
-            <rdf:li>beryl</rdf:li>
-            <rdf:li>birtstone</rdf:li>
-            <rdf:li>bloodstone</rdf:li>
-            <rdf:li>carnelian</rdf:li>
-            <rdf:li>emerald</rdf:li>
-            <rdf:li>garnet</rdf:li>
+            <rdf:li>birthstone</rdf:li>
+            <rdf:li>birth</rdf:li>
+            <rdf:li>stone</rdf:li>
             <rdf:li>gem</rdf:li>
+            <rdf:li>jewel</rdf:li>
+            <rdf:li>mineral</rdf:li>
             <rdf:li>jewelry</rdf:li>
-            <rdf:li>onyx</rdf:li>
-            <rdf:li>peridot</rdf:li>
-            <rdf:li>ruby</rdf:li>
-            <rdf:li>sapphire</rdf:li>
-            <rdf:li>stones</rdf:li>
-            <rdf:li>topaz</rdf:li>
+            <rdf:li>emerald</rdf:li>
           </rdf:Bag>
         </dc:subject>
       </cc:Work>
