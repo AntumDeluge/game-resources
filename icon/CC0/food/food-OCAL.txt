@@ -58,6 +58,9 @@ pasta:
 - noodle_fusili: https://openclipart.org/detail/48199
 - noodle_macaroni: https://openclipart.org/detail/105709
 
+sushi:
+- sushi_01_*: https://openclipart.org/detail/316537
+
 treat:
 - cookie_chocolate_chip: https://openclipart.org/detail/320961
 - cupcake: https://openclipart.org/detail/306096
@@ -114,6 +117,5 @@ misc:
 - sandwich_grilled: https://openclipart.org/detail/150769
 - sandwich_sub: https://openclipart.org/detail/9111
 - shish_kabob: https://openclipart.org/detail/225152
-- sushi_*: https://openclipart.org/detail/316537
 - taco_01: https://openclipart.org/detail/151201
 - taco_02: https://openclipart.org/detail/311979
