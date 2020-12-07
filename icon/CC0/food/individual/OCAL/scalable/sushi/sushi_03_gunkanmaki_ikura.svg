@@ -10,9 +10,9 @@
    version="1.1"
    x="0"
    y="0"
-   width="1198.786"
-   height="703.434"
-   viewBox="0, 0, 1198.786, 703.434"
+   width="230.58572"
+   height="256"
+   viewBox="0 0 230.58572 255.99999"
    id="svg515"
    sodipodi:docname="sushi_03_gunkanmaki_ikura.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
@@ -60,467 +60,20 @@
      inkscape:window-height="1025"
      id="namedview517"
      showgrid="false"
-     inkscape:zoom="1.0143595"
-     inkscape:cx="327.19763"
-     inkscape:cy="309.25487"
+     inkscape:zoom="0.50717975"
+     inkscape:cx="-471.56921"
+     inkscape:cy="-21.322397"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Fish_Eggs" />
+     inkscape:current-layer="svg515"
+     inkscape:pagecheckerboard="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs326">
-    <linearGradient
-       id="Gradient_1"
-       gradientUnits="userSpaceOnUse"
-       x1="12316.9"
-       y1="9886.52"
-       x2="16264.7"
-       y2="9886.52"
-       gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
-      <stop
-         offset="0"
-         stop-color="#7093A4"
-         id="stop2" />
-      <stop
-         offset="0.039"
-         stop-color="#7093A4"
-         id="stop4" />
-      <stop
-         offset="0.341"
-         stop-color="#7498A9"
-         id="stop6" />
-      <stop
-         offset="1"
-         stop-color="#799DAF"
-         id="stop8" />
-      <stop
-         offset="1"
-         stop-color="#799DAF"
-         id="stop10" />
-    </linearGradient>
-    <linearGradient
-       id="Gradient_2"
-       gradientUnits="userSpaceOnUse"
-       x1="10937.5"
-       y1="8475.239"
-       x2="10878.7"
-       y2="9788.41"
-       gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
-      <stop
-         offset="0"
-         stop-color="#FBBB78"
-         id="stop13" />
-      <stop
-         offset="0.102"
-         stop-color="#FBB66A"
-         id="stop15" />
-      <stop
-         offset="0.569"
-         stop-color="#FBB159"
-         id="stop17" />
-      <stop
-         offset="1"
-         stop-color="#C9842E"
-         id="stop19" />
-    </linearGradient>
-    <linearGradient
-       id="Gradient_3"
-       gradientUnits="userSpaceOnUse"
-       x1="11790.7"
-       y1="8210.891"
-       x2="11617.5"
-       y2="9764.99"
-       gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
-      <stop
-         offset="0"
-         stop-color="#FBBB78"
-         id="stop22" />
-      <stop
-         offset="0.102"
-         stop-color="#FBB66A"
-         id="stop24" />
-      <stop
-         offset="0.569"
-         stop-color="#FBB159"
-         id="stop26" />
-      <stop
-         offset="1"
-         stop-color="#C9842E"
-         id="stop28" />
-    </linearGradient>
-    <linearGradient
-       id="Gradient_4"
-       gradientUnits="userSpaceOnUse"
-       x1="9357.391"
-       y1="10142.8"
-       x2="12957.7"
-       y2="10521.2"
-       gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
-      <stop
-         offset="0"
-         stop-color="#000000"
-         id="stop31" />
-      <stop
-         offset="0.361"
-         stop-color="#000000"
-         id="stop33" />
-      <stop
-         offset="0.62"
-         stop-color="#515151"
-         id="stop35" />
-      <stop
-         offset="0.678"
-         stop-color="#909090"
-         id="stop37" />
-      <stop
-         offset="0.761"
-         stop-color="#515151"
-         id="stop39" />
-      <stop
-         offset="1"
-         stop-color="#000000"
-         id="stop41" />
-    </linearGradient>
-    <linearGradient
-       id="Gradient_5"
-       gradientUnits="userSpaceOnUse"
-       x1="19242.5"
-       y1="12262.8"
-       x2="18446.201"
-       y2="13096.101"
-       gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
-      <stop
-         offset="0"
-         stop-color="#D5443A"
-         id="stop44" />
-      <stop
-         offset="0.651"
-         stop-color="#E79B80"
-         id="stop46" />
-      <stop
-         offset="0.871"
-         stop-color="#FFFFFF"
-         id="stop48" />
-      <stop
-         offset="1"
-         stop-color="#FFFFFF"
-         id="stop50" />
-    </linearGradient>
-    <linearGradient
-       id="Gradient_6"
-       gradientUnits="userSpaceOnUse"
-       x1="19065.9"
-       y1="12522"
-       x2="18359.301"
-       y2="13301.102"
-       gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
-      <stop
-         offset="0"
-         stop-color="#D5443A"
-         id="stop53" />
-      <stop
-         offset="0.651"
-         stop-color="#E79B80"
-         id="stop55" />
-      <stop
-         offset="0.871"
-         stop-color="#FFFFFF"
-         id="stop57" />
-      <stop
-         offset="1"
-         stop-color="#FFFFFF"
-         id="stop59" />
-    </linearGradient>
-    <linearGradient
-       id="Gradient_7"
-       gradientUnits="userSpaceOnUse"
-       x1="19036.301"
-       y1="12359.5"
-       x2="18329.701"
-       y2="13138.7"
-       gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
-      <stop
-         offset="0"
-         stop-color="#D5443A"
-         id="stop62" />
-      <stop
-         offset="0.651"
-         stop-color="#E79B80"
-         id="stop64" />
-      <stop
-         offset="0.871"
-         stop-color="#FFFFFF"
-         id="stop66" />
-      <stop
-         offset="1"
-         stop-color="#FFFFFF"
-         id="stop68" />
-    </linearGradient>
-    <linearGradient
-       id="Gradient_8"
-       gradientUnits="userSpaceOnUse"
-       x1="18111.799"
-       y1="11442"
-       x2="13042.8"
-       y2="11442"
-       gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
-      <stop
-         offset="0"
-         stop-color="#F16244"
-         id="stop71" />
-      <stop
-         offset="0.29"
-         stop-color="#F8AB8E"
-         id="stop73" />
-      <stop
-         offset="0.388"
-         stop-color="#FFFFFF"
-         id="stop75" />
-      <stop
-         offset="1"
-         stop-color="#FFFFFF"
-         id="stop77" />
-    </linearGradient>
-    <linearGradient
-       id="Gradient_9"
-       gradientUnits="userSpaceOnUse"
-       x1="15904.9"
-       y1="11481"
-       x2="14595.701"
-       y2="11154.601"
-       gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
-      <stop
-         offset="0"
-         stop-color="#F16244"
-         id="stop80" />
-      <stop
-         offset="0.122"
-         stop-color="#F16244"
-         id="stop82" />
-      <stop
-         offset="0.231"
-         stop-color="#F26D4A"
-         id="stop84" />
-      <stop
-         offset="0.322"
-         stop-color="#F37952"
-         id="stop86" />
-      <stop
-         offset="0.722"
-         stop-color="#FAB799"
-         id="stop88" />
-      <stop
-         offset="1"
-         stop-color="#FFFFFF"
-         id="stop90" />
-    </linearGradient>
-    <linearGradient
-       id="Gradient_10"
-       gradientUnits="userSpaceOnUse"
-       x1="15149.699"
-       y1="11268.399"
-       x2="13869.6"
-       y2="10949.3"
-       gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
-      <stop
-         offset="0"
-         stop-color="#F16244"
-         id="stop93" />
-      <stop
-         offset="0.122"
-         stop-color="#F16244"
-         id="stop95" />
-      <stop
-         offset="0.231"
-         stop-color="#F26D4A"
-         id="stop97" />
-      <stop
-         offset="0.322"
-         stop-color="#F37952"
-         id="stop99" />
-      <stop
-         offset="0.722"
-         stop-color="#FAB799"
-         id="stop101" />
-      <stop
-         offset="1"
-         stop-color="#FFFFFF"
-         id="stop103" />
-    </linearGradient>
-    <linearGradient
-       id="Gradient_11"
-       gradientUnits="userSpaceOnUse"
-       x1="14480.4"
-       y1="11049"
-       x2="13114.2"
-       y2="10708.4"
-       gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
-      <stop
-         offset="0"
-         stop-color="#F16244"
-         id="stop106" />
-      <stop
-         offset="0.122"
-         stop-color="#F16244"
-         id="stop108" />
-      <stop
-         offset="0.231"
-         stop-color="#F26D4A"
-         id="stop110" />
-      <stop
-         offset="0.322"
-         stop-color="#F37952"
-         id="stop112" />
-      <stop
-         offset="0.722"
-         stop-color="#FAB799"
-         id="stop114" />
-      <stop
-         offset="1"
-         stop-color="#FFFFFF"
-         id="stop116" />
-    </linearGradient>
-    <linearGradient
-       id="Gradient_12"
-       gradientUnits="userSpaceOnUse"
-       x1="16569"
-       y1="11681.5"
-       x2="15266.199"
-       y2="11356.7"
-       gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
-      <stop
-         offset="0"
-         stop-color="#F16244"
-         id="stop119" />
-      <stop
-         offset="0.122"
-         stop-color="#F16244"
-         id="stop121" />
-      <stop
-         offset="0.231"
-         stop-color="#F26D4A"
-         id="stop123" />
-      <stop
-         offset="0.322"
-         stop-color="#F37952"
-         id="stop125" />
-      <stop
-         offset="0.722"
-         stop-color="#FAB799"
-         id="stop127" />
-      <stop
-         offset="1"
-         stop-color="#FFFFFF"
-         id="stop129" />
-    </linearGradient>
-    <linearGradient
-       id="Gradient_13"
-       gradientUnits="userSpaceOnUse"
-       x1="17384.102"
-       y1="11934.801"
-       x2="15977.101"
-       y2="11583.9"
-       gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
-      <stop
-         offset="0"
-         stop-color="#F16244"
-         id="stop132" />
-      <stop
-         offset="0.122"
-         stop-color="#F16244"
-         id="stop134" />
-      <stop
-         offset="0.231"
-         stop-color="#F26D4A"
-         id="stop136" />
-      <stop
-         offset="0.322"
-         stop-color="#F37952"
-         id="stop138" />
-      <stop
-         offset="0.722"
-         stop-color="#FAB799"
-         id="stop140" />
-      <stop
-         offset="1"
-         stop-color="#FFFFFF"
-         id="stop142" />
-    </linearGradient>
-    <linearGradient
-       id="Gradient_14"
-       gradientUnits="userSpaceOnUse"
-       x1="18037.301"
-       y1="11719.399"
-       x2="17271.4"
-       y2="12433.699"
-       gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
-      <stop
-         offset="0"
-         stop-color="#D5443A"
-         id="stop145" />
-      <stop
-         offset="0.651"
-         stop-color="#E79B80"
-         id="stop147" />
-      <stop
-         offset="0.871"
-         stop-color="#FFFFFF"
-         id="stop149" />
-      <stop
-         offset="1"
-         stop-color="#FFFFFF"
-         id="stop151" />
-    </linearGradient>
-    <linearGradient
-       id="Gradient_15"
-       gradientUnits="userSpaceOnUse"
-       x1="17783.6"
-       y1="11893.3"
-       x2="17325.6"
-       y2="12454.5"
-       gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
-      <stop
-         offset="0"
-         stop-color="#D5443A"
-         id="stop154" />
-      <stop
-         offset="0.651"
-         stop-color="#E79B80"
-         id="stop156" />
-      <stop
-         offset="0.871"
-         stop-color="#FFFFFF"
-         id="stop158" />
-      <stop
-         offset="1"
-         stop-color="#FFFFFF"
-         id="stop160" />
-    </linearGradient>
-    <linearGradient
-       id="Gradient_16"
-       gradientUnits="userSpaceOnUse"
-       x1="17598.199"
-       y1="12587.2"
-       x2="17658.199"
-       y2="12397.8"
-       gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
-      <stop
-         offset="0"
-         stop-color="#D5443A"
-         id="stop163" />
-      <stop
-         offset="0.651"
-         stop-color="#E79B80"
-         id="stop165" />
-      <stop
-         offset="0.871"
-         stop-color="#FFFFFF"
-         id="stop167" />
-      <stop
-         offset="1"
-         stop-color="#FFFFFF"
-         id="stop169" />
-    </linearGradient>
     <linearGradient
        id="Gradient_17"
        gradientUnits="userSpaceOnUse"
@@ -563,7 +116,7 @@
        gradientUnits="userSpaceOnUse"
        cx="12195.3"
        cy="11085.6"
-       r="163.803"
+       r="163.80299"
        gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
       <stop
          offset="0"
@@ -583,7 +136,7 @@
        gradientUnits="userSpaceOnUse"
        cx="11801"
        cy="11206.9"
-       r="163.803"
+       r="163.80299"
        gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
       <stop
          offset="0"
@@ -603,7 +156,7 @@
        gradientUnits="userSpaceOnUse"
        cx="12660.5"
        cy="10984.5"
-       r="163.803"
+       r="163.80299"
        gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
       <stop
          offset="0"
@@ -623,7 +176,7 @@
        gradientUnits="userSpaceOnUse"
        cx="13085.1"
        cy="11085.6"
-       r="163.803"
+       r="163.80299"
        gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
       <stop
          offset="0"
@@ -763,7 +316,7 @@
        gradientUnits="userSpaceOnUse"
        cx="13236.7"
        cy="11520.3"
-       r="163.803"
+       r="163.80299"
        gradientTransform="matrix(0.072,0,0,0.072,-592.087,-490.172)">
       <stop
          offset="0"
@@ -954,9 +507,11 @@
   </defs>
   <g
      id="Fish_Eggs"
-     inkscape:label="sushi">
+     inkscape:label="sushi"
+     transform="matrix(0.88434859,0,0,0.88434859,-186.58052,-198.95874)">
     <g
-       id="g1066">
+       id="g1066"
+       inkscape:label="garnish">
       <path
          d="m 352.13,373.749 0.792,-1.944 c 9.648,-18.504 21.816,-59.472 4.68,-96.48 -1.584,3.888 -4.968,10.224 -7.561,11.376 -1.656,-11.88 -4.248,-10.152 -8.568,-20.879 -3.384,3.096 -4.176,8.279 -7.56,11.375 -13.32,-17.999 -12.312,-13.319 -16.128,-26.567 -2.304,5.76 -4.752,5.688 -10.44,13.32 -10.656,-11.016 -10.44,-15.192 -15.048,-30.744 -2.304,5.76 -12.024,28.08 -12.528,34.56 -3.744,-1.512 -7.56,-6.624 -10.44,-18 -2.88,3.816 -9.288,18.504 -7.56,30.383 -7.416,-3.024 -10.152,-5.184 -16.272,-16.631 -2.016,10.367 -1.728,21.383 3.96,30.815 -2.88,4.752 -15.337,2.592 -20.089,-1.584 2.448,9.936 8.209,10.8 12.529,21.528 -3.744,-1.512 -13.393,-0.432 -17.065,-1.872 4.32,10.728 14.256,31.32 22.753,37.008 -6.048,4.248 -8.352,10.008 -18.145,12.816 37.009,26.135 86.329,48.311 122.834,11.592 z"
          id="path63677"
