@@ -1,7 +1,7 @@
 Sources:
 
 - pistol:
-  - 357 revolver: https://openclipart.org/detail/8140
+  - 357_revolver: https://openclipart.org/detail/8140
   - colt_1903: https://openclipart.org/detail/245854
   - colt_45: https://openclipart.org/detail/230165
   - colt_peacemaker: https://openclipart.org/detail/133459
