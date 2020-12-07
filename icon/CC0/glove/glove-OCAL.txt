@@ -1,3 +1,4 @@
 Sources:
 - gauntlet: https://openclipart.org/detail/246927
 - mitten: https://openclipart.org/detail/89929
+- golf_glove: https://openclipart.org/detail/1994
