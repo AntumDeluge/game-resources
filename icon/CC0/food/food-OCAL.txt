@@ -60,6 +60,7 @@ pasta:
 
 sushi:
 - sushi_01_*: https://openclipart.org/detail/316537
+- sushi_02_*: https://openclipart.org/detail/284028
 
 treat:
 - cookie_chocolate_chip: https://openclipart.org/detail/320961
