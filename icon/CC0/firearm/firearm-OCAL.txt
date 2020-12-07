@@ -1,0 +1,30 @@
+Sources:
+
+- pistol:
+  - 357 revolver: https://openclipart.org/detail/8140
+  - colt_1903: https://openclipart.org/detail/245854
+  - colt_45: https://openclipart.org/detail/230165
+  - colt_peacemaker: https://openclipart.org/detail/133459
+  - p2022: https://openclipart.org/detail/202068
+  - snub_nosed_revolver: https://openclipart.org/detail/307178
+  - tokarev_tt-33: https://openclipart.org/detail/169727
+
+- rifle:
+  - air_rifle: https://openclipart.org/detail/164881
+  - lever_action_shotgun: https://openclipart.org/detail/179891
+  - m1_carbine: https://openclipart.org/detail/230173
+  - m1_garand: https://openclipart.org/detail/230174
+  - mas-36: https://openclipart.org/detail/202041
+  - mosin-nagant_1891: https://openclipart.org/detail/270037
+  - musket: https://openclipart.org/detail/66511
+  - pump_action_rifle: https://openclipart.org/detail/170004
+  - twin_barrel_shotgun: https://openclipart.org/detail/254333
+  - winchester_30-30: https://openclipart.org/detail/133585
+
+- machine_pistol:
+  - mauser_c96: https://openclipart.org/detail/167618
+  - mp5: https://openclipart.org/detail/286224
+
+- assault rifle:
+  - ak_47: https://openclipart.org/detail/20271
+  - m16: https://openclipart.org/detail/9642
