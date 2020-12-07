@@ -1,0 +1,4 @@
+Sources:
+- pistol & rifle: https://opengameart.org/node/88042
+- ar-15: https://opengameart.org/node/94258
+- thompson: https://opengameart.org/node/94259
