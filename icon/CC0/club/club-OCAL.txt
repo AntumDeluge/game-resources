@@ -1,0 +1,4 @@
+Sources:
+- club_01: https://openclipart.org/detail/99511
+- mace_01: https://openclipart.org/detail/240937
+- mace_02: https://openclipart.org/detail/240936
