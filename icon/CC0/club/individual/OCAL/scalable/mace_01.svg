@@ -10,47 +10,20 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   sodipodi:docname="Dwarven Mace.svg"
-   viewBox="0 0 299.99998 299.99999"
+   sodipodi:docname="mace_01.svg"
+   viewBox="0 0 255.99998 255.99999"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   inkscape:export-filename="C:\Users\Daan\Desktop\Untitled Fantasy Boardgame\Artwork\MY clipart\Dwarven Mace.png"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
-   width="300"
-   height="300">
+   width="256"
+   height="256">
+  <title
+     id="title1082">Mace</title>
   <defs
      id="defs25">
-    <marker
-       inkscape:stockid="Arrow1Lstart"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="marker4429"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path4431"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         transform="scale(0.8) translate(12.5,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lstart"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="Arrow1Lstart"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path4159"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         transform="scale(0.8) translate(12.5,0)" />
-    </marker>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Eroded Metal"
        id="filter4326"
        inkscape:menu="Materials"
@@ -91,7 +64,9 @@
          id="feDisplacementMap6980"
          in2="result1"
          xChannelSelector="R"
-         result="result91" />
+         result="result91"
+         scale="0"
+         yChannelSelector="A" />
       <feComposite
          id="feComposite6982"
          in2="result91"
@@ -105,7 +80,9 @@
          k3="1.2"
          in="fbSourceGraphicAlpha"
          operator="arithmetic"
-         result="result5" />
+         result="result5"
+         k2="0"
+         k4="0" />
       <feBlend
          id="feBlend6986"
          in2="result5"
@@ -120,9 +97,9 @@
          id="feSpecularLighting6990"
          in="result0"
          result="result1"
-         lighting-color="rgb(254,230,93)"
+         lighting-color="#fee65d"
          surfaceScale="3"
-         specularConstant="0.4"
+         specularConstant="0.40000001"
          specularExponent="15">
         <fePointLight
            id="fePointLight6992"
@@ -144,7 +121,8 @@
          result="result4"
          operator="arithmetic"
          k2="2.5"
-         k3="3.5" />
+         k3="3.5"
+         k4="0" />
       <feBlend
          id="feBlend6998"
          in2="result4"
@@ -154,7 +132,7 @@
        inkscape:label="Eroded Metal"
        inkscape:menu="Materials"
        inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter6636">
       <feGaussianBlur
          result="result0"
@@ -172,7 +150,9 @@
          xChannelSelector="R"
          in2="result1"
          result="result91"
-         id="feDisplacementMap6642" />
+         id="feDisplacementMap6642"
+         scale="0"
+         yChannelSelector="A" />
       <feComposite
          result="result2"
          operator="out"
@@ -186,7 +166,9 @@
          in="SourceAlpha"
          operator="arithmetic"
          result="result5"
-         id="feComposite6646" />
+         id="feComposite6646"
+         k2="0"
+         k4="0" />
       <feBlend
          result="fbSourceGraphic"
          mode="multiply"
@@ -200,9 +182,9 @@
       <feSpecularLighting
          in="result0"
          result="result1"
-         lighting-color="rgb(254,230,93)"
+         lighting-color="#fee65d"
          surfaceScale="3"
-         specularConstant="0.4"
+         specularConstant="0.40000001"
          specularExponent="15"
          id="feSpecularLighting6652">
         <fePointLight
@@ -225,7 +207,8 @@
          k2="2.5"
          k3="3.5"
          in2="result2"
-         id="feComposite6658" />
+         id="feComposite6658"
+         k4="0" />
       <feBlend
          mode="multiply"
          in2="result4"
@@ -235,7 +218,7 @@
        inkscape:label="Eroded Metal"
        inkscape:menu="Materials"
        inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter6662">
       <feGaussianBlur
          result="result0"
@@ -253,7 +236,9 @@
          xChannelSelector="R"
          in2="result1"
          result="result91"
-         id="feDisplacementMap6668" />
+         id="feDisplacementMap6668"
+         scale="0"
+         yChannelSelector="A" />
       <feComposite
          result="result2"
          operator="out"
@@ -267,7 +252,9 @@
          in="SourceAlpha"
          operator="arithmetic"
          result="result5"
-         id="feComposite6672" />
+         id="feComposite6672"
+         k2="0"
+         k4="0" />
       <feBlend
          result="fbSourceGraphic"
          mode="multiply"
@@ -281,9 +268,9 @@
       <feSpecularLighting
          in="result0"
          result="result1"
-         lighting-color="rgb(254,230,93)"
+         lighting-color="#fee65d"
          surfaceScale="3"
-         specularConstant="0.4"
+         specularConstant="0.40000001"
          specularExponent="15"
          id="feSpecularLighting6678">
         <fePointLight
@@ -306,7 +293,8 @@
          k2="2.5"
          k3="3.5"
          in2="result2"
-         id="feComposite6684" />
+         id="feComposite6684"
+         k4="0" />
       <feBlend
          mode="multiply"
          in2="result4"
@@ -316,7 +304,7 @@
        inkscape:label="Eroded Metal"
        inkscape:menu="Materials"
        inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter6688">
       <feGaussianBlur
          result="result0"
@@ -334,7 +322,9 @@
          xChannelSelector="R"
          in2="result1"
          result="result91"
-         id="feDisplacementMap6694" />
+         id="feDisplacementMap6694"
+         scale="0"
+         yChannelSelector="A" />
       <feComposite
          result="result2"
          operator="out"
@@ -348,7 +338,9 @@
          in="SourceAlpha"
          operator="arithmetic"
          result="result5"
-         id="feComposite6698" />
+         id="feComposite6698"
+         k2="0"
+         k4="0" />
       <feBlend
          result="fbSourceGraphic"
          mode="multiply"
@@ -362,9 +354,9 @@
       <feSpecularLighting
          in="result0"
          result="result1"
-         lighting-color="rgb(254,230,93)"
+         lighting-color="#fee65d"
          surfaceScale="3"
-         specularConstant="0.4"
+         specularConstant="0.40000001"
          specularExponent="15"
          id="feSpecularLighting6704">
         <fePointLight
@@ -387,7 +379,8 @@
          k2="2.5"
          k3="3.5"
          in2="result2"
-         id="feComposite6710" />
+         id="feComposite6710"
+         k4="0" />
       <feBlend
          mode="multiply"
          in2="result4"
@@ -397,7 +390,7 @@
        inkscape:label="Eroded Metal"
        inkscape:menu="Materials"
        inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter6714">
       <feGaussianBlur
          result="result0"
@@ -415,7 +408,9 @@
          xChannelSelector="R"
          in2="result1"
          result="result91"
-         id="feDisplacementMap6720" />
+         id="feDisplacementMap6720"
+         scale="0"
+         yChannelSelector="A" />
       <feComposite
          result="result2"
          operator="out"
@@ -429,7 +424,9 @@
          in="SourceAlpha"
          operator="arithmetic"
          result="result5"
-         id="feComposite6724" />
+         id="feComposite6724"
+         k2="0"
+         k4="0" />
       <feBlend
          result="fbSourceGraphic"
          mode="multiply"
@@ -443,9 +440,9 @@
       <feSpecularLighting
          in="result0"
          result="result1"
-         lighting-color="rgb(254,230,93)"
+         lighting-color="#fee65d"
          surfaceScale="3"
-         specularConstant="0.4"
+         specularConstant="0.40000001"
          specularExponent="15"
          id="feSpecularLighting6730">
         <fePointLight
@@ -468,7 +465,8 @@
          k2="2.5"
          k3="3.5"
          in2="result2"
-         id="feComposite6736" />
+         id="feComposite6736"
+         k4="0" />
       <feBlend
          mode="multiply"
          in2="result4"
@@ -478,7 +476,7 @@
        inkscape:label="Eroded Metal"
        inkscape:menu="Materials"
        inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter6740">
       <feGaussianBlur
          result="result0"
@@ -496,7 +494,9 @@
          xChannelSelector="R"
          in2="result1"
          result="result91"
-         id="feDisplacementMap6746" />
+         id="feDisplacementMap6746"
+         scale="0"
+         yChannelSelector="A" />
       <feComposite
          result="result2"
          operator="out"
@@ -510,7 +510,9 @@
          in="SourceAlpha"
          operator="arithmetic"
          result="result5"
-         id="feComposite6750" />
+         id="feComposite6750"
+         k2="0"
+         k4="0" />
       <feBlend
          result="fbSourceGraphic"
          mode="multiply"
@@ -524,9 +526,9 @@
       <feSpecularLighting
          in="result0"
          result="result1"
-         lighting-color="rgb(254,230,93)"
+         lighting-color="#fee65d"
          surfaceScale="3"
-         specularConstant="0.4"
+         specularConstant="0.40000001"
          specularExponent="15"
          id="feSpecularLighting6756">
         <fePointLight
@@ -549,7 +551,8 @@
          k2="2.5"
          k3="3.5"
          in2="result2"
-         id="feComposite6762" />
+         id="feComposite6762"
+         k4="0" />
       <feBlend
          mode="multiply"
          in2="result4"
@@ -559,7 +562,7 @@
        inkscape:label="Eroded Metal"
        inkscape:menu="Materials"
        inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter6766">
       <feGaussianBlur
          result="result0"
@@ -577,7 +580,9 @@
          xChannelSelector="R"
          in2="result1"
          result="result91"
-         id="feDisplacementMap6772" />
+         id="feDisplacementMap6772"
+         scale="0"
+         yChannelSelector="A" />
       <feComposite
          result="result2"
          operator="out"
@@ -591,7 +596,9 @@
          in="SourceAlpha"
          operator="arithmetic"
          result="result5"
-         id="feComposite6776" />
+         id="feComposite6776"
+         k2="0"
+         k4="0" />
       <feBlend
          result="fbSourceGraphic"
          mode="multiply"
@@ -605,9 +612,9 @@
       <feSpecularLighting
          in="result0"
          result="result1"
-         lighting-color="rgb(254,230,93)"
+         lighting-color="#fee65d"
          surfaceScale="3"
-         specularConstant="0.4"
+         specularConstant="0.40000001"
          specularExponent="15"
          id="feSpecularLighting6782">
         <fePointLight
@@ -630,7 +637,8 @@
          k2="2.5"
          k3="3.5"
          in2="result2"
-         id="feComposite6788" />
+         id="feComposite6788"
+         k4="0" />
       <feBlend
          mode="multiply"
          in2="result4"
@@ -640,7 +648,7 @@
        inkscape:label="Eroded Metal"
        inkscape:menu="Materials"
        inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter6792">
       <feGaussianBlur
          result="result0"
@@ -658,7 +666,9 @@
          xChannelSelector="R"
          in2="result1"
          result="result91"
-         id="feDisplacementMap6798" />
+         id="feDisplacementMap6798"
+         scale="0"
+         yChannelSelector="A" />
       <feComposite
          result="result2"
          operator="out"
@@ -672,7 +682,9 @@
          in="SourceAlpha"
          operator="arithmetic"
          result="result5"
-         id="feComposite6802" />
+         id="feComposite6802"
+         k2="0"
+         k4="0" />
       <feBlend
          result="fbSourceGraphic"
          mode="multiply"
@@ -686,9 +698,9 @@
       <feSpecularLighting
          in="result0"
          result="result1"
-         lighting-color="rgb(254,230,93)"
+         lighting-color="#fee65d"
          surfaceScale="3"
-         specularConstant="0.4"
+         specularConstant="0.40000001"
          specularExponent="15"
          id="feSpecularLighting6808">
         <fePointLight
@@ -711,7 +723,8 @@
          k2="2.5"
          k3="3.5"
          in2="result2"
-         id="feComposite6814" />
+         id="feComposite6814"
+         k4="0" />
       <feBlend
          mode="multiply"
          in2="result4"
@@ -721,7 +734,7 @@
        inkscape:label="Eroded Metal"
        inkscape:menu="Materials"
        inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter6818">
       <feGaussianBlur
          result="result0"
@@ -739,7 +752,9 @@
          xChannelSelector="R"
          in2="result1"
          result="result91"
-         id="feDisplacementMap6824" />
+         id="feDisplacementMap6824"
+         scale="0"
+         yChannelSelector="A" />
       <feComposite
          result="result2"
          operator="out"
@@ -753,7 +768,9 @@
          in="SourceAlpha"
          operator="arithmetic"
          result="result5"
-         id="feComposite6828" />
+         id="feComposite6828"
+         k2="0"
+         k4="0" />
       <feBlend
          result="fbSourceGraphic"
          mode="multiply"
@@ -767,9 +784,9 @@
       <feSpecularLighting
          in="result0"
          result="result1"
-         lighting-color="rgb(254,230,93)"
+         lighting-color="#fee65d"
          surfaceScale="3"
-         specularConstant="0.4"
+         specularConstant="0.40000001"
          specularExponent="15"
          id="feSpecularLighting6834">
         <fePointLight
@@ -792,7 +809,8 @@
          k2="2.5"
          k3="3.5"
          in2="result2"
-         id="feComposite6840" />
+         id="feComposite6840"
+         k4="0" />
       <feBlend
          mode="multiply"
          in2="result4"
@@ -802,7 +820,7 @@
        inkscape:label="Eroded Metal"
        inkscape:menu="Materials"
        inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter6844">
       <feGaussianBlur
          result="result0"
@@ -820,7 +838,9 @@
          xChannelSelector="R"
          in2="result1"
          result="result91"
-         id="feDisplacementMap6850" />
+         id="feDisplacementMap6850"
+         scale="0"
+         yChannelSelector="A" />
       <feComposite
          result="result2"
          operator="out"
@@ -834,7 +854,9 @@
          in="SourceAlpha"
          operator="arithmetic"
          result="result5"
-         id="feComposite6854" />
+         id="feComposite6854"
+         k2="0"
+         k4="0" />
       <feBlend
          result="fbSourceGraphic"
          mode="multiply"
@@ -848,9 +870,9 @@
       <feSpecularLighting
          in="result0"
          result="result1"
-         lighting-color="rgb(254,230,93)"
+         lighting-color="#fee65d"
          surfaceScale="3"
-         specularConstant="0.4"
+         specularConstant="0.40000001"
          specularExponent="15"
          id="feSpecularLighting6860">
         <fePointLight
@@ -873,7 +895,8 @@
          k2="2.5"
          k3="3.5"
          in2="result2"
-         id="feComposite6866" />
+         id="feComposite6866"
+         k4="0" />
       <feBlend
          mode="multiply"
          in2="result4"
@@ -883,7 +906,7 @@
        inkscape:label="Eroded Metal"
        inkscape:menu="Materials"
        inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter6870">
       <feGaussianBlur
          result="result0"
@@ -901,7 +924,9 @@
          xChannelSelector="R"
          in2="result1"
          result="result91"
-         id="feDisplacementMap6876" />
+         id="feDisplacementMap6876"
+         scale="0"
+         yChannelSelector="A" />
       <feComposite
          result="result2"
          operator="out"
@@ -915,7 +940,9 @@
          in="SourceAlpha"
          operator="arithmetic"
          result="result5"
-         id="feComposite6880" />
+         id="feComposite6880"
+         k2="0"
+         k4="0" />
       <feBlend
          result="fbSourceGraphic"
          mode="multiply"
@@ -929,9 +956,9 @@
       <feSpecularLighting
          in="result0"
          result="result1"
-         lighting-color="rgb(254,230,93)"
+         lighting-color="#fee65d"
          surfaceScale="3"
-         specularConstant="0.4"
+         specularConstant="0.40000001"
          specularExponent="15"
          id="feSpecularLighting6886">
         <fePointLight
@@ -954,7 +981,8 @@
          k2="2.5"
          k3="3.5"
          in2="result2"
-         id="feComposite6892" />
+         id="feComposite6892"
+         k4="0" />
       <feBlend
          mode="multiply"
          in2="result4"
@@ -964,7 +992,7 @@
        inkscape:label="Eroded Metal"
        inkscape:menu="Materials"
        inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter6896">
       <feGaussianBlur
          result="result0"
@@ -982,7 +1010,9 @@
          xChannelSelector="R"
          in2="result1"
          result="result91"
-         id="feDisplacementMap6902" />
+         id="feDisplacementMap6902"
+         scale="0"
+         yChannelSelector="A" />
       <feComposite
          result="result2"
          operator="out"
@@ -996,7 +1026,9 @@
          in="SourceAlpha"
          operator="arithmetic"
          result="result5"
-         id="feComposite6906" />
+         id="feComposite6906"
+         k2="0"
+         k4="0" />
       <feBlend
          result="fbSourceGraphic"
          mode="multiply"
@@ -1010,9 +1042,9 @@
       <feSpecularLighting
          in="result0"
          result="result1"
-         lighting-color="rgb(254,230,93)"
+         lighting-color="#fee65d"
          surfaceScale="3"
-         specularConstant="0.4"
+         specularConstant="0.40000001"
          specularExponent="15"
          id="feSpecularLighting6912">
         <fePointLight
@@ -1035,7 +1067,8 @@
          k2="2.5"
          k3="3.5"
          in2="result2"
-         id="feComposite6918" />
+         id="feComposite6918"
+         k4="0" />
       <feBlend
          mode="multiply"
          in2="result4"
@@ -1045,7 +1078,7 @@
        inkscape:label="Eroded Metal"
        inkscape:menu="Materials"
        inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter6922">
       <feGaussianBlur
          result="result0"
@@ -1063,7 +1096,9 @@
          xChannelSelector="R"
          in2="result1"
          result="result91"
-         id="feDisplacementMap6928" />
+         id="feDisplacementMap6928"
+         scale="0"
+         yChannelSelector="A" />
       <feComposite
          result="result2"
          operator="out"
@@ -1077,7 +1112,9 @@
          in="SourceAlpha"
          operator="arithmetic"
          result="result5"
-         id="feComposite6932" />
+         id="feComposite6932"
+         k2="0"
+         k4="0" />
       <feBlend
          result="fbSourceGraphic"
          mode="multiply"
@@ -1091,9 +1128,9 @@
       <feSpecularLighting
          in="result0"
          result="result1"
-         lighting-color="rgb(254,230,93)"
+         lighting-color="#fee65d"
          surfaceScale="3"
-         specularConstant="0.4"
+         specularConstant="0.40000001"
          specularExponent="15"
          id="feSpecularLighting6938">
         <fePointLight
@@ -1116,7 +1153,8 @@
          k2="2.5"
          k3="3.5"
          in2="result2"
-         id="feComposite6944" />
+         id="feComposite6944"
+         k4="0" />
       <feBlend
          mode="multiply"
          in2="result4"
@@ -1126,7 +1164,7 @@
        inkscape:label="Eroded Metal"
        inkscape:menu="Materials"
        inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter6948">
       <feGaussianBlur
          result="result0"
@@ -1144,7 +1182,9 @@
          xChannelSelector="R"
          in2="result1"
          result="result91"
-         id="feDisplacementMap6954" />
+         id="feDisplacementMap6954"
+         scale="0"
+         yChannelSelector="A" />
       <feComposite
          result="result2"
          operator="out"
@@ -1158,7 +1198,9 @@
          in="SourceAlpha"
          operator="arithmetic"
          result="result5"
-         id="feComposite6958" />
+         id="feComposite6958"
+         k2="0"
+         k4="0" />
       <feBlend
          result="fbSourceGraphic"
          mode="multiply"
@@ -1172,9 +1214,9 @@
       <feSpecularLighting
          in="result0"
          result="result1"
-         lighting-color="rgb(254,230,93)"
+         lighting-color="#fee65d"
          surfaceScale="3"
-         specularConstant="0.4"
+         specularConstant="0.40000001"
          specularExponent="15"
          id="feSpecularLighting6964">
         <fePointLight
@@ -1197,7 +1239,8 @@
          k2="2.5"
          k3="3.5"
          in2="result2"
-         id="feComposite6970" />
+         id="feComposite6970"
+         k4="0" />
       <feBlend
          mode="multiply"
          in2="result4"
@@ -1207,7 +1250,7 @@
        inkscape:label="Eroded Metal"
        inkscape:menu="Materials"
        inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter7000">
       <feGaussianBlur
          result="result0"
@@ -1225,7 +1268,9 @@
          xChannelSelector="R"
          in2="result1"
          result="result91"
-         id="feDisplacementMap7006" />
+         id="feDisplacementMap7006"
+         scale="0"
+         yChannelSelector="A" />
       <feComposite
          result="result2"
          operator="out"
@@ -1239,7 +1284,9 @@
          in="SourceAlpha"
          operator="arithmetic"
          result="result5"
-         id="feComposite7010" />
+         id="feComposite7010"
+         k2="0"
+         k4="0" />
       <feBlend
          result="fbSourceGraphic"
          mode="multiply"
@@ -1253,9 +1300,9 @@
       <feSpecularLighting
          in="result0"
          result="result1"
-         lighting-color="rgb(254,230,93)"
+         lighting-color="#fee65d"
          surfaceScale="3"
-         specularConstant="0.4"
+         specularConstant="0.40000001"
          specularExponent="15"
          id="feSpecularLighting7016">
         <fePointLight
@@ -1278,7 +1325,8 @@
          k2="2.5"
          k3="3.5"
          in2="result2"
-         id="feComposite7022" />
+         id="feComposite7022"
+         k4="0" />
       <feBlend
          mode="multiply"
          in2="result4"
@@ -1288,7 +1336,7 @@
        inkscape:label="Eroded Metal"
        inkscape:menu="Materials"
        inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter7026">
       <feGaussianBlur
          result="result0"
@@ -1306,7 +1354,9 @@
          xChannelSelector="R"
          in2="result1"
          result="result91"
-         id="feDisplacementMap7032" />
+         id="feDisplacementMap7032"
+         scale="0"
+         yChannelSelector="A" />
       <feComposite
          result="result2"
          operator="out"
@@ -1320,7 +1370,9 @@
          in="SourceAlpha"
          operator="arithmetic"
          result="result5"
-         id="feComposite7036" />
+         id="feComposite7036"
+         k2="0"
+         k4="0" />
       <feBlend
          result="fbSourceGraphic"
          mode="multiply"
@@ -1334,9 +1386,9 @@
       <feSpecularLighting
          in="result0"
          result="result1"
-         lighting-color="rgb(254,230,93)"
+         lighting-color="#fee65d"
          surfaceScale="3"
-         specularConstant="0.4"
+         specularConstant="0.40000001"
          specularExponent="15"
          id="feSpecularLighting7042">
         <fePointLight
@@ -1359,7 +1411,8 @@
          k2="2.5"
          k3="3.5"
          in2="result2"
-         id="feComposite7048" />
+         id="feComposite7048"
+         k4="0" />
       <feBlend
          mode="multiply"
          in2="result4"
@@ -1369,7 +1422,7 @@
        inkscape:label="Eroded Metal"
        inkscape:menu="Materials"
        inkscape:menu-tooltip="Eroded metal texture with ridges, grooves, holes and bumps"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter7052">
       <feGaussianBlur
          result="result0"
@@ -1387,7 +1440,9 @@
          xChannelSelector="R"
          in2="result1"
          result="result91"
-         id="feDisplacementMap7058" />
+         id="feDisplacementMap7058"
+         scale="0"
+         yChannelSelector="A" />
       <feComposite
          result="result2"
          operator="out"
@@ -1401,7 +1456,9 @@
          in="SourceAlpha"
          operator="arithmetic"
          result="result5"
-         id="feComposite7062" />
+         id="feComposite7062"
+         k2="0"
+         k4="0" />
       <feBlend
          result="fbSourceGraphic"
          mode="multiply"
@@ -1415,9 +1472,9 @@
       <feSpecularLighting
          in="result0"
          result="result1"
-         lighting-color="rgb(254,230,93)"
+         lighting-color="#fee65d"
          surfaceScale="3"
-         specularConstant="0.4"
+         specularConstant="0.40000001"
          specularExponent="15"
          id="feSpecularLighting7068">
         <fePointLight
@@ -1440,7 +1497,8 @@
          k2="2.5"
          k3="3.5"
          in2="result2"
-         id="feComposite7074" />
+         id="feComposite7074"
+         k4="0" />
       <feBlend
          mode="multiply"
          in2="result4"
@@ -1453,125 +1511,120 @@
      inkscape:pageshadow="2"
      inkscape:window-y="-8"
      pagecolor="#ffffff"
-     inkscape:window-height="705"
+     inkscape:window-height="1025"
      inkscape:window-maximized="1"
-     inkscape:zoom="1.6251106"
+     inkscape:zoom="2.2982535"
      inkscape:window-x="-8"
      showgrid="false"
      borderopacity="1.0"
-     inkscape:current-layer="g3793"
-     inkscape:cx="112.15805"
-     inkscape:cy="178.66452"
-     inkscape:window-width="1366"
+     inkscape:current-layer="svg2"
+     inkscape:cx="49.230719"
+     inkscape:cy="159.11421"
+     inkscape:window-width="1920"
      inkscape:pageopacity="0.0"
      inkscape:document-units="px" />
   <g
-     id="layer1"
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     transform="translate(0,-752.40002)">
-    <g
-       id="g3793">
-      <path
-         style="fill:#4d4d4d;fill-rule:evenodd;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter6636)"
-         d="m 187.09857,847.24423 58.5227,-62.87383 15.44652,13.92362 -57.43492,64.61428 z"
-         id="path4262"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#808080;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6662)"
-         d="m 262.37313,799.81692 c -6.23387,12.75315 -5.85052,26.27422 -4.13358,39.59529 -21.15342,5.18458 -36.16049,14.6481 -52.21356,24.36632 l -3.26335,-2.82823 58.08759,-63.74406 z"
-         id="path4234"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc" />
-      <path
-         style="fill:#808080;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter6688)"
-         d="m 244.75105,782.62995 c -13.19843,6.45813 -26.39686,5.96882 -39.59529,7.61448 -3.92257,19.45776 -9.79128,38.48305 -18.92741,56.78225 l 3.4809,2.17556 58.5227,-63.96161 z"
-         id="path4226"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc" />
-      <path
-         style="fill:#999999;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter6714)"
-         d="m 248.88462,785.02308 c -12.01718,6.95212 -26.41402,6.76527 -40.68306,6.9618 -2.8171,19.83162 -9.9658,39.26945 -19.14498,58.5227 z"
-         id="path4224"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#808080;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter6740)"
-         d="m 254.54109,790.67955 -3.69846,-3.48091 c -9.71752,7.08414 -19.43505,11.89008 -29.15257,14.35873 -8.7579,18.48783 -18.87561,35.3892 -31.11058,49.82044 l 4.78624,3.4809 z"
-         id="path4222"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc" />
-      <path
-         style="fill:#999999;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter6766)"
-         d="m 255.19376,790.8971 c -9.93508,5.99135 -19.87016,11.98249 -29.80524,14.57629 -8.30077,17.41749 -19.12868,33.99259 -30.89302,50.25555 z"
-         id="path4220"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#999999;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6792)"
-         d="m 202.32753,861.38541 c 17.48138,-8.59766 32.57161,-20.21171 54.38912,-23.93122 -3.03851,-18.7445 1.1529,-28.12272 4.35114,-40.24795 z"
-         id="path4232"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#808080;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6818)"
-         d="m 260.85023,795.46579 c -5.17811,10.49938 -11.18455,20.92346 -10.22516,31.9808 -18.01427,8.05219 -33.10488,21.22076 -48.95021,33.06859 l -4.13357,-2.39312 59.17537,-66.78985 z"
-         id="path4230"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccc" />
-      <path
-         style="fill:#999999;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6844)"
-         d="m 256.4991,790.8971 c -4.36561,10.35572 -9.77842,19.66424 -10.87783,33.28615 -21.34473,10.45809 -33.085,22.66245 -48.73265,34.15637 z"
-         id="path4228"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc" />
-      <path
-         style="fill:#d4aa00;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter6870)"
-         d="m 249.9724,785.02308 10.66027,-1.5229 -1.74045,11.09538 z"
-         id="path4264"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#d4aa00;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6896)"
-         d="m 243.0106,782.84751 20.23275,19.36253 c 3.34495,0.30458 2.81515,-1.55113 2.82824,-3.04579 l -20.23276,-18.92742 c -1.64159,-0.15731 -3.03646,0.0481 -2.82823,2.61068 z"
-         id="path4236"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         style="fill:#4d4d4d;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6922)"
-         d="M 187.54755,848.58961 203.60377,863.74149 73.341501,1004.2635 60.880812,991.64889 Z"
-         id="path4266"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         style="fill:#d4aa00;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6948)"
-         d="m 183.83084,847.57449 20.23275,19.36253 c 3.34495,0.30458 2.81515,-1.55113 2.82824,-3.04579 l -20.23276,-18.92742 c -1.64159,-0.15731 -3.03646,0.0481 -2.82823,2.61068 z"
-         id="path4236-5"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         style="fill:#552200;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4326);marker-mid:"
-         d="M 75.818427,1002.6884 135.37538,937.94627 119.5303,924.10106 61.380421,989.94273 Z"
-         id="path4324"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#d4aa00;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7000)"
-         d="m 118.33201,924.19322 16.64306,15.12017 c 3.34495,0.30458 2.81515,-1.55113 2.82824,-3.04579 l -16.64307,-14.68506 c -1.64159,-0.15731 -3.03646,0.0481 -2.82823,2.61068 z"
-         id="path4236-5-5"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         style="fill:#d4aa00;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter7026)"
-         d="m 61.568476,991.81053 12.618277,10.98657 -1.305339,1.3054 c -17.127701,10.932 -19.248696,4.1622 -12.618277,-11.20418 z"
-         id="path4322"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         style="fill:#d4aa00;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7052)"
-         d="m 58.355127,991.21618 16.64306,15.12012 c 3.34495,0.3046 2.81515,-1.5511 2.82824,-3.0458 l -16.64307,-14.685 c -1.64159,-0.15731 -3.03646,0.0481 -2.82823,2.61068 z"
-         id="path4236-5-5-8"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-    </g>
+     id="g3793"
+     transform="matrix(1.0958878,0,0,1.0958878,-47.721486,-852.61524)">
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter6636)"
+       d="m 187.09857,847.24423 58.5227,-62.87383 15.44652,13.92362 -57.43492,64.61428 z"
+       id="path4262"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6662)"
+       d="m 262.37313,799.81692 c -6.23387,12.75315 -5.85052,26.27422 -4.13358,39.59529 -21.15342,5.18458 -36.16049,14.6481 -52.21356,24.36632 l -3.26335,-2.82823 58.08759,-63.74406 z"
+       id="path4234"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6688)"
+       d="m 244.75105,782.62995 c -13.19843,6.45813 -26.39686,5.96882 -39.59529,7.61448 -3.92257,19.45776 -9.79128,38.48305 -18.92741,56.78225 l 3.4809,2.17556 58.5227,-63.96161 z"
+       id="path4226"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#999999;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6714)"
+       d="m 248.88462,785.02308 c -12.01718,6.95212 -26.41402,6.76527 -40.68306,6.9618 -2.8171,19.83162 -9.9658,39.26945 -19.14498,58.5227 z"
+       id="path4224"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6740)"
+       d="m 254.54109,790.67955 -3.69846,-3.48091 c -9.71752,7.08414 -19.43505,11.89008 -29.15257,14.35873 -8.7579,18.48783 -18.87561,35.3892 -31.11058,49.82044 l 4.78624,3.4809 z"
+       id="path4222"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#999999;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6766)"
+       d="m 255.19376,790.8971 c -9.93508,5.99135 -19.87016,11.98249 -29.80524,14.57629 -8.30077,17.41749 -19.12868,33.99259 -30.89302,50.25555 z"
+       id="path4220"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#999999;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6792)"
+       d="m 202.32753,861.38541 c 17.48138,-8.59766 32.57161,-20.21171 54.38912,-23.93122 -3.03851,-18.7445 1.1529,-28.12272 4.35114,-40.24795 z"
+       id="path4232"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#808080;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6818)"
+       d="m 260.85023,795.46579 c -5.17811,10.49938 -11.18455,20.92346 -10.22516,31.9808 -18.01427,8.05219 -33.10488,21.22076 -48.95021,33.06859 l -4.13357,-2.39312 59.17537,-66.78985 z"
+       id="path4230"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="fill:#999999;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6844)"
+       d="m 256.4991,790.8971 c -4.36561,10.35572 -9.77842,19.66424 -10.87783,33.28615 -21.34473,10.45809 -33.085,22.66245 -48.73265,34.15637 z"
+       id="path4228"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#d4aa00;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6870)"
+       d="m 249.9724,785.02308 10.66027,-1.5229 -1.74045,11.09538 z"
+       id="path4264"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#d4aa00;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6896)"
+       d="m 243.0106,782.84751 20.23275,19.36253 c 3.34495,0.30458 2.81515,-1.55113 2.82824,-3.04579 l -20.23276,-18.92742 c -1.64159,-0.15731 -3.03646,0.0481 -2.82823,2.61068 z"
+       id="path4236"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#4d4d4d;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6922)"
+       d="M 187.54755,848.58961 203.60377,863.74149 73.341501,1004.2635 60.880812,991.64889 Z"
+       id="path4266"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#d4aa00;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6948)"
+       d="m 183.83084,847.57449 20.23275,19.36253 c 3.34495,0.30458 2.81515,-1.55113 2.82824,-3.04579 l -20.23276,-18.92742 c -1.64159,-0.15731 -3.03646,0.0481 -2.82823,2.61068 z"
+       id="path4236-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#552200;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4326)"
+       d="M 75.818427,1002.6884 135.37538,937.94627 119.5303,924.10106 61.380421,989.94273 Z"
+       id="path4324"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#d4aa00;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7000)"
+       d="m 118.33201,924.19322 16.64306,15.12017 c 3.34495,0.30458 2.81515,-1.55113 2.82824,-3.04579 l -16.64307,-14.68506 c -1.64159,-0.15731 -3.03646,0.0481 -2.82823,2.61068 z"
+       id="path4236-5-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#d4aa00;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7026)"
+       d="m 61.568476,991.81053 12.618277,10.98657 -1.305339,1.3054 c -17.127701,10.932 -19.248696,4.1622 -12.618277,-11.20418 z"
+       id="path4322"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#d4aa00;fill-rule:evenodd;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7052)"
+       d="m 58.355127,991.21618 16.64306,15.12012 c 3.34495,0.3046 2.81515,-1.5511 2.82824,-3.0458 l -16.64307,-14.685 c -1.64159,-0.15731 -3.03646,0.0481 -2.82823,2.61068 z"
+       id="path4236-5-5-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
   </g>
   <metadata
      id="metadata23">
@@ -1585,28 +1638,20 @@
         <dc:publisher>
           <cc:Agent
              rdf:about="http://openclipart.org/">
-            <dc:title>Openclipart</dc:title>
+            <dc:title>OpenClipart Library</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:title></dc:title>
-        <dc:date>2012-11-01T10:50:14</dc:date>
-        <dc:description>A Bow and an Arrow. Created by bala swecha developer Prabhat.</dc:description>
-        <dc:source>https://openclipart.org/detail/172957/archers-tools-by-lpr577-172957</dc:source>
+        <dc:title>Mace</dc:title>
+        <dc:date></dc:date>
+        <dc:description></dc:description>
+        <dc:source>https://openclipart.org/detail/240937</dc:source>
         <dc:creator>
           <cc:Agent>
-            <dc:title>lpr577</dc:title>
+            <dc:title></dc:title>
           </cc:Agent>
         </dc:creator>
         <dc:subject>
-          <rdf:Bag>
-            <rdf:li>aim</rdf:li>
-            <rdf:li>archery</rdf:li>
-            <rdf:li>arrow</rdf:li>
-            <rdf:li>black</rdf:li>
-            <rdf:li>bow</rdf:li>
-            <rdf:li>shoot</rdf:li>
-            <rdf:li>string</rdf:li>
-          </rdf:Bag>
+          <rdf:Bag />
         </dc:subject>
       </cc:Work>
       <cc:License
