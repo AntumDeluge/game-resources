@@ -1,0 +1,2 @@
+Source:
+- weapons: https://opengameart.org/node/11602
