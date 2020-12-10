@@ -1,0 +1,7 @@
+Source:
+- weapons: https://opengameart.org/node/11602
+- scimitar: https://opengameart.org/node/11142
+- w_broadsword: https://opengameart.org/node/10886
+- w_dagger: https://opengameart.org/node/10884
+- w_longsword: https://opengameart.org/node/10879
+- w_shortsword: https://opengameart.org/node/10878
