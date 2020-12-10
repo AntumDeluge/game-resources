@@ -1,0 +1,7 @@
+Sources:
+- round: https://opengameart.org/node/10893
+- kite: https://opengameart.org/node/10892
+- great: https://opengameart.org/node/10891
+- spiral: https://opengameart.org/node/10913
+- barbed: https://opengameart.org/node/10916
+- winged: https://opengameart.org/node/10890
