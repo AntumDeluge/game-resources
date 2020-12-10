@@ -1,0 +1,4 @@
+Sources:
+- weapons: https://opengameart.org/node/11602
+- hand_axe: https://opengameart.org/node/10908
+- w_axe_war: https://opengameart.org/node/10894
