@@ -1,2 +1,1 @@
-Source:
-- weapons: https://opengameart.org/node/11602
+Source: https://opengameart.org/node/11602
