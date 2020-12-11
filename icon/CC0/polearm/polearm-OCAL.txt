@@ -1,2 +1,4 @@
+Sources:
 - spear_01: https://openclipart.org/detail/249163
 - spear_02: https://openclipart.org/detail/294734
+- trident_01: https://openclipart.org/detail/64267
