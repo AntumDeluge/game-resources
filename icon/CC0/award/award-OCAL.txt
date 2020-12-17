@@ -6,3 +6,6 @@ Sources:
 - medal_01_platinum: https://openclipart.org/detail/8778
 - trophy_01: https://openclipart.org/detail/120343
 - trophy_02: https://openclipart.org/detail/179202
+- trophy_03_gold: https://openclipart.org/detail/302918
+- trophy_03_silver: https://openclipart.org/detail/302917
+- trophy_03_bronze: https://openclipart.org/detail/302916
