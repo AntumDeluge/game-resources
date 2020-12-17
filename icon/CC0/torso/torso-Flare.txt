@@ -2,3 +2,4 @@ Sources:
 - https://opengameart.org/node/12815
 - https://opengameart.org/node/13879
 - https://opengameart.org/node/12818
+- https://opengameart.org/node/3267
