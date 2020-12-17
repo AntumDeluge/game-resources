@@ -1,2 +1,6 @@
 Sources:
 - ribbon_01: https://openclipart.org/detail/191178
+- medal_01_gold: https://openclipart.org/detail/3972
+- medal_01_silver: https://openclipart.org/detail/8777
+- medal_01_bronze: https://openclipart.org/detail/8779
+- medal_01_platinum: https://openclipart.org/detail/8778
