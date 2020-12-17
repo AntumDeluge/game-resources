@@ -9,3 +9,4 @@ Sources:
 - trophy_03_gold: https://openclipart.org/detail/302918
 - trophy_03_silver: https://openclipart.org/detail/302917
 - trophy_03_bronze: https://openclipart.org/detail/302916
+- trophy_04: https://openclipart.org/detail/170859
