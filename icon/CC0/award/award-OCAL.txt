@@ -4,4 +4,5 @@ Sources:
 - medal_01_silver: https://openclipart.org/detail/8777
 - medal_01_bronze: https://openclipart.org/detail/8779
 - medal_01_platinum: https://openclipart.org/detail/8778
-- tropy_01: https://openclipart.org/detail/120343
+- trophy_01: https://openclipart.org/detail/120343
+- trophy_02: https://openclipart.org/detail/179202
