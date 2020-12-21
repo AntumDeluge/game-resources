@@ -1,10 +1,108 @@
-<?xml version="1.0" standalone="yes"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="512" height="512">
-<path style="fill:#ffffff; stroke:none;" d="M0 0L0 241L1 241C1.00316 212.35 9.94216 183.098 21.1505 157C92.3562 -8.80188 330.948 -45.9976 449.282 90C465.937 109.141 480.407 130.602 490.421 154C501.757 180.487 510.997 209.913 511 239L512 239L512 0L0 0z"/>
-<path style="fill:#b5b5b5; stroke:none;" d="M248 6.42438C223.359 9.65979 198.909 11.5954 175 19.0255C112.58 38.4231 60.3914 81.5346 29.3086 139C15.9876 163.628 6.7368 191.259 2.8696 219C-1.78637 252.399 -0.717515 286.244 7.88426 319C39.6437 439.941 158.495 518.959 282 502.718C312.276 498.737 341.083 492.508 369 479.691C436.984 448.479 488.63 384.935 505.349 312C536.061 178.02 450.516 38.5082 314 11.1998C292.951 6.98926 269.455 3.60733 248 6.42438z"/>
-<path style="fill:#e1e1e1; stroke:none;" d="M234 9.42438C175.495 17.1061 123.146 34.9663 79 76.0895C57.4311 96.1814 39.8875 120.667 26.7531 147C-42.6549 286.156 38.3058 458.951 189 496.625C219.149 504.162 250.254 505.761 281 501.718C398.28 486.297 490.784 385.201 495.961 267C501.188 147.629 415.202 37.6447 298 14.1998C277.586 10.1163 254.812 6.69174 234 9.42438z"/>
-<path style="fill:#c5c5c5; stroke:none;" d="M233 43.4244C186.961 49.4693 144.551 62.9919 108.424 93.7137C89.0292 110.208 73.4745 130.887 61.1397 153C13.0868 239.146 32.9118 355.07 108.424 419.286C153.603 457.706 215.29 475.759 274 468.715C306.248 464.845 337.654 453.912 365 436.308C468.008 369.993 494.501 219.586 416.951 123.196C389.682 89.3032 352.445 64.7217 311 51.9753C286.816 44.5376 258.285 40.1044 233 43.4244z"/>
-<path style="fill:#e1e1e1; stroke:none;" d="M240 51.4244C196.761 57.1044 156.845 69.5705 122.424 97.7199C102.008 114.417 84.3769 135.815 71.7693 159C56.6162 186.866 47.4306 218.228 46.0394 250C40.4401 377.869 161.627 478.207 285 460.715C313.508 456.673 340.537 445.735 365 430.796C384.527 418.872 401.676 402.925 415.789 385C486.068 295.74 469.722 158.672 377 91.4252C357.379 77.195 335.327 65.9883 312 59.2909C289.481 52.8256 263.446 48.3445 240 51.4244z"/>
-<path style="fill:#c5c5c5; stroke:none;" d="M203 236C196.279 230.908 185.071 229.61 177 227.291C158.162 221.878 136.598 211.854 117 211L133.753 246L164.258 307L179 337L284 337L311 337C314.285 337 319.515 337.96 322.363 335.972C330.389 330.369 335.876 310.743 340.247 302C354.799 272.897 371.497 244.032 384 214C375.063 212.563 363.536 218.333 355 220.975C336.181 226.799 316.446 230.123 298 237L285.306 211L252 153C244.899 155.215 240.944 166.866 237.427 173C226.28 192.445 209.319 214.518 203 236z"/>
-<path style="fill:#ffffff; stroke:none;" d="M511 270C510.997 298.65 502.058 327.902 490.85 354C419.644 519.802 181.051 556.997 62.7184 421C46.0633 401.859 31.5928 380.398 21.5787 357C10.2429 330.513 1.00321 301.087 1 272L0 272L0 512L512 512L512 341L512 292L511 270z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="249.98695"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="coin_01_silver.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <title
+     id="title829">Silver Coin</title>
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Silver Coin</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>OpenClipart Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:source>https://openclipart.org/detail/283728</dc:source>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="1.3037281"
+     inkscape:cx="241.78442"
+     inkscape:cy="241.17749"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16"
+     inkscape:pagecheckerboard="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="g843"
+     transform="matrix(0.50053505,0,0,0.50053505,-0.07046315,-2.6976592)">
+    <g
+       inkscape:label="coin"
+       id="g835">
+      <path
+         style="display:inline;fill:#b5b5b5;stroke:none"
+         d="M 248,6.42438 C 223.359,9.65979 198.909,11.5954 175,19.0255 112.58,38.4231 60.3914,81.5346 29.3086,139 15.9876,163.628 6.7368,191.259 2.8696,219 -1.78637,252.399 -0.717515,286.244 7.88426,319 39.6437,439.941 158.495,518.959 282,502.718 c 30.276,-3.981 59.083,-10.21 87,-23.027 C 436.984,448.479 488.63,384.935 505.349,312 536.061,178.02 450.516,38.5082 314,11.1998 292.951,6.98926 269.455,3.60733 248,6.42438 Z"
+         id="path4"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#e1e1e1;stroke:none"
+         d="M 234,9.42438 C 175.495,17.1061 123.146,34.9663 79,76.0895 57.4311,96.1814 39.8875,120.667 26.7531,147 -42.6549,286.156 38.3058,458.951 189,496.625 c 30.149,7.537 61.254,9.136 92,5.093 C 398.28,486.297 490.784,385.201 495.961,267 501.188,147.629 415.202,37.6447 298,14.1998 277.586,10.1163 254.812,6.69174 234,9.42438 Z"
+         id="path6" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#c5c5c5;stroke:none"
+         d="M 233,43.4244 C 186.961,49.4693 144.551,62.9919 108.424,93.7137 89.0292,110.208 73.4745,130.887 61.1397,153 13.0868,239.146 32.9118,355.07 108.424,419.286 c 45.179,38.42 106.866,56.473 165.576,49.429 32.248,-3.87 63.654,-14.803 91,-32.407 C 468.008,369.993 494.501,219.586 416.951,123.196 389.682,89.3032 352.445,64.7217 311,51.9753 286.816,44.5376 258.285,40.1044 233,43.4244 Z"
+         id="path8" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#e1e1e1;stroke:none"
+         d="M 240,51.4244 C 196.761,57.1044 156.845,69.5705 122.424,97.7199 102.008,114.417 84.3769,135.815 71.7693,159 56.6162,186.866 47.4306,218.228 46.0394,250 40.4401,377.869 161.627,478.207 285,460.715 c 28.508,-4.042 55.537,-14.98 80,-29.919 C 384.527,418.872 401.676,402.925 415.789,385 486.068,295.74 469.722,158.672 377,91.4252 357.379,77.195 335.327,65.9883 312,59.2909 289.481,52.8256 263.446,48.3445 240,51.4244 Z"
+         id="path10" />
+    </g>
+    <path
+       inkscape:label="emblem"
+       id="path12"
+       d="m 203,236 c -6.721,-5.092 -17.929,-6.39 -26,-8.709 C 158.162,221.878 136.598,211.854 117,211 l 16.753,35 30.505,61 14.742,30 h 105 27 c 3.285,0 8.515,0.96 11.363,-1.028 8.026,-5.603 13.513,-25.229 17.884,-33.972 14.552,-29.103 31.25,-57.968 43.753,-88 -8.937,-1.437 -20.464,4.333 -29,6.975 -18.819,5.824 -38.554,9.148 -57,16.025 L 285.306,211 252,153 c -7.101,2.215 -11.056,13.866 -14.573,20 -11.147,19.445 -28.108,41.518 -34.427,63 z"
+       style="fill:#c5c5c5;stroke:none"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
