@@ -1,0 +1,8 @@
+Sources:
+- wooden_sign_01: https://openclipart.org/detail/188684
+- wooden_sign_02: https://openclipart.org/detail/260516
+- wooden_signpost_01: https://openclipart.org/detail/91099
+- wooden_signpost_02: https://openclipart.org/detail/288239
+- hanging_sign_01: https://openclipart.org/detail/263289
+- open_sign_01: https://openclipart.org/detail/104341
+- open_sign_neon_01: https://openclipart.org/detail/128557
