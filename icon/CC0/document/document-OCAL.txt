@@ -1,2 +1,3 @@
 Sources:
+- ruled_paper_01: https://openclipart.org/detail/16004
 - map_01: https://openclipart.org/detail/44005
