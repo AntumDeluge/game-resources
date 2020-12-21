@@ -2,4 +2,5 @@ Sources:
 - ruled_paper_01: https://openclipart.org/detail/16004
 - blank_parchment_01: https://openclipart.org/detail/57367
 - blank_parchment_02: https://openclipart.org/detail/127759
+- blank_parchment_03: https://openclipart.org/detail/304393
 - map_01: https://openclipart.org/detail/44005
