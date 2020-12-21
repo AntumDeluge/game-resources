@@ -1,0 +1,9 @@
+Sources:
+- coin_01_gold: https://openclipart.org/detail/283727
+- coin_01_silver: https://openclipart.org/detail/283728
+- coin_02_gold: https://openclipart.org/detail/190431
+- coin_03_gold: https://openclipart.org/detail/191935
+- coin_03_gold_pile: https://openclipart.org/detail/193341
+- coin_04_gold_pile: https://openclipart.org/detail/43969
+- coin_04_silver_pile: https://openclipart.org/detail/39667
+- coin_pile_01: https://openclipart.org/detail/190500
