@@ -5,4 +5,5 @@ Sources:
 - blank_parchment_03: https://openclipart.org/detail/304393
 - blank_parchment_04: https://openclipart.org/detail/267378
 - blank_scroll_01: https://openclipart.org/detail/103417
+- reiwa_era_scroll_01: https://openclipart.org/detail/323845
 - map_01: https://openclipart.org/detail/44005
