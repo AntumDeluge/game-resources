@@ -1,300 +1,297 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Creator: CorelDRAW -->
+
 <svg
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns="http://www.w3.org/2000/svg"
-    xmlns:odm="http://product.corel.com/CGS/11/cddns/"
-    xmlns:corel-charset="http://product.corel.com/CGS/11/cddns/"
-    xmlns:cc="http://web.resource.org/cc/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-    xmlns:ns1="http://sozi.baierouge.fr"
-    xmlns:xlink="http://www.w3.org/1999/xlink"
-    style="fill-rule:evenodd;image-rendering:optimizeQuality;text-rendering:geometricPrecision;shape-rendering:geometricPrecision"
-    xml:space="preserve"
-    viewBox="0 0 9500 11626"
-  >
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   xml:space="preserve"
+   viewBox="0 0 198.25979 256"
+   version="1.1"
+   id="svg109"
+   sodipodi:docname="ruled_paper_01.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="198.25978"
+   height="256"><title
+   id="title918">Ruled Paper</title><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1025"
+   id="namedview111"
+   showgrid="false"
+   inkscape:zoom="1.4142136"
+   inkscape:cx="118.06483"
+   inkscape:cy="192.16477"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg109"
+   inkscape:pagecheckerboard="true"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0" />
  <defs
-    >
-  <style
-        type="text/css"
-      >
+   id="defs4"><style
+     type="text/css"
+     id="style2">
     .fil0 {fill:#0093DD}
     .fil3 {fill:#0A0B0C}
     .fil2 {fill:#1F1A17}
     .fil1 {fill:#DA251D}
-  </style
-    >
- </defs
-  >
+  </style></defs>
  <g
-      id="Layer_x0020_1"
-    >
-  <g
-      >
-   <g
-        >
+   id="g1176"
+   transform="matrix(0.99998586,0,0,0.99998586,1.9193954e-4,0.00181938)"><path
+     inkscape:label="background"
+     inkscape:connector-curvature="0"
+     id="path970"
+     d="M 3.4648438,0 C 2.5179655,0.00145778 1.5437554,0.43845873 0.96900464,1.1913265 0.64990235,2.045316 0.29977089,2.8935612 0,3.7511295 7.6128381e-4,86.626145 -0.00152257,169.50118 0.00114193,252.37618 c 0.01062849,1.75532 1.39521937,3.47906 3.19341197,3.61242 2.150977,0.0262 4.3032731,0.004 6.4547664,0.0114 61.7454187,-8.5e-4 123.4908597,0.002 185.2362597,-0.001 1.77001,-0.0279 3.21849,-1.62825 3.3561,-3.34197 0.0399,-1.45165 0.008,-2.90559 0.0181,-4.35817 -7.7e-4,-81.55825 0.002,-163.116524 -0.001,-244.6747638 C 198.2462,1.869548 196.86263,0.14560071 195.06516,0.01139717 192.9142,-0.01476178 190.76192,0.0072774 188.61044,0 126.89524,0 65.180044,0 3.4648438,0 Z M 0,3.71875 C 0.33072917,2.8561198 0.66145833,1.9934896 0.9921875,1.1308594 0.35794608,1.8334148 -0.00454548,2.7715368 0,3.71875 Z"
+     style="display:inline;fill:#fcfbfb;fill-opacity:1;stroke-width:0.02309636" /><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g8">
     <path
-            class="fil0"
-            d="m500 1271h8500v84h-8500v-84z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path6"
+   d="m 500,1271 h 8500 v 84 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g12">
     <path
-            class="fil0"
-            d="m500 1744h8500v83h-8500v-83z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path10"
+   d="m 500,1744 h 8500 v 83 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g16">
     <path
-            class="fil0"
-            d="m500 2217h8500v83h-8500v-83z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path14"
+   d="m 500,2217 h 8500 v 83 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g20">
     <path
-            class="fil0"
-            d="m500 2690h8500v83h-8500v-83z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path18"
+   d="m 500,2690 h 8500 v 83 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g24">
     <path
-            class="fil0"
-            d="m500 3162h8500v84h-8500v-84z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path22"
+   d="m 500,3162 h 8500 v 84 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g28">
     <path
-            class="fil0"
-            d="m500 3635h8500v83h-8500v-83z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path26"
+   d="m 500,3635 h 8500 v 83 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g32">
     <path
-            class="fil0"
-            d="m500 4108h8500v83h-8500v-83z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path30"
+   d="m 500,4108 h 8500 v 83 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g36">
     <path
-            class="fil0"
-            d="m500 4580h8500v84h-8500v-84z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path34"
+   d="m 500,4580 h 8500 v 84 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g40">
     <path
-            class="fil0"
-            d="m500 5053h8500v84h-8500v-84z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path38"
+   d="m 500,5053 h 8500 v 84 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g44">
     <path
-            class="fil0"
-            d="m500 5526h8500v83h-8500v-83z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path42"
+   d="m 500,5526 h 8500 v 83 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g48">
     <path
-            class="fil0"
-            d="m500 5999h8500v83h-8500v-83z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path46"
+   d="m 500,5999 h 8500 v 83 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g52">
     <path
-            class="fil0"
-            d="m500 6471h8500v84h-8500v-84z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path50"
+   d="m 500,6471 h 8500 v 84 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g56">
     <path
-            class="fil0"
-            d="m500 6944h8500v83h-8500v-83z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path54"
+   d="m 500,6944 h 8500 v 83 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g60">
     <path
-            class="fil0"
-            d="m500 7417h8500v83h-8500v-83z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path58"
+   d="m 500,7417 h 8500 v 83 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g64">
     <path
-            class="fil0"
-            d="m500 7890h8500v83h-8500v-83z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path62"
+   d="m 500,7890 h 8500 v 83 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g68">
     <path
-            class="fil0"
-            d="m500 8362h8500v84h-8500v-84z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path66"
+   d="m 500,8362 h 8500 v 84 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g72">
     <path
-            class="fil0"
-            d="m500 8835h8500v83h-8500v-83z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path70"
+   d="m 500,8835 h 8500 v 83 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g76">
     <path
-            class="fil0"
-            d="m500 9308h8500v83h-8500v-83z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path74"
+   d="m 500,9308 h 8500 v 83 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g80">
     <path
-            class="fil0"
-            d="m500 9781h8500v83h-8500v-83z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path78"
+   d="m 500,9781 h 8500 v 83 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g84">
     <path
-            class="fil0"
-            d="m500 10253h8500v84h-8500v-84z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path82"
+   d="m 500,10253 h 8500 v 84 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g88">
     <path
-            class="fil0"
-            d="m500 10726h8500v83h-8500v-83z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#0093dd"
+   inkscape:connector-curvature="0"
+   id="path86"
+   d="m 500,10726 h 8500 v 83 H 500 Z"
+   class="fil0" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g92">
     <path
-            class="fil1"
-            d="m1542 313v11000h-84v-11000h84z"
-        />
-   </g
-      >
-   <g
-        >
+   style="fill:#da251d"
+   inkscape:connector-curvature="0"
+   id="path90"
+   d="m 1542,313 v 11000 h -84 V 313 Z"
+   class="fil1" />
+   </g><g
+     transform="matrix(0.02309636,0,0,0.02309636,-10.578133,-6.2591136)"
+     id="g96"
+     inkscape:label="g96">
     <path
-            class="fil2"
-            d="m608 271h8284v84h-8284v-84zm8284 0v84-84zc42 0 80 19 107 49l-62 56c-11-13-28-21-45-21v-84zm107 49c26 29 43 68 43 112h-84c0-22-8-42-21-56l62-56zm43 112h-84 84zv10762h-84v-10762h84zm0 10762h-84 84zc0 44-17 83-43 112l-62-56c13-14 21-34 21-56h84zm-43 112c-27 30-65 49-107 49v-84c17 0 33-8 45-21l62 56zm-107 49v-84 84zh-8284v-84h8284v84zm-8284 0v-84 84zc-42 0-80-19-107-49l62-56c11 13 28 21 45 21v84zm-107-49c-26-29-43-68-43-112h84c0 22 8 42 21 56l-62 56zm-43-112h84-84zv-10762h84v10762h-84zm0-10762h84-84zc0-44 17-83 43-112l62 56c-13 14-21 34-21 56h-84zm43-112c27-30 65-49 107-49v84c-17 0-33 8-45 21l-62-56zm107-49v84-84z"
-        />
-   </g
-      >
-   <circle
-          cy="5813"
-          cx="1e3"
-          r="125"
-          class="fil3"
-      />
-   <circle
-          cy="1086"
-          cx="1e3"
-          r="125"
-          class="fil3"
-      />
-   <circle
-          cy="10540"
-          cx="1e3"
-          r="125"
-          class="fil3"
-      />
-  </g
-    >
- </g
-  >
+   style="fill:#1f1a17"
+   inkscape:connector-curvature="0"
+   id="path94"
+   d="m 608,271 h 8284 v 84 H 608 Z m 8284,0 v 84 z m 0,0 c 42,0 80,19 107,49 l -62,56 c -11,-13 -28,-21 -45,-21 z m 107,49 c 26,29 43,68 43,112 h -84 c 0,-22 -8,-42 -21,-56 z m 43,112 h -84 z m 0,0 v 10762 h -84 V 432 Z m 0,10762 h -84 z m 0,0 c 0,44 -17,83 -43,112 l -62,-56 c 13,-14 21,-34 21,-56 z m -43,112 c -27,30 -65,49 -107,49 v -84 c 17,0 33,-8 45,-21 z m -107,49 v -84 z m 0,0 H 608 v -84 h 8284 z m -8284,0 v -84 z m 0,0 c -42,0 -80,-19 -107,-49 l 62,-56 c 11,13 28,21 45,21 z m -107,-49 c -26,-29 -43,-68 -43,-112 h 84 c 0,22 8,42 21,56 z m -43,-112 h 84 z m 0,0 V 432 h 84 V 11194 Z M 458,432 h 84 z m 0,0 c 0,-44 17,-83 43,-112 l 62,56 c -13,14 -21,34 -21,56 z m 43,-112 c 27,-30 65,-49 107,-49 v 84 c -17,0 -33,8 -45,21 z m 107,-49 v 84 z"
+   class="fil2" />
+   </g><circle
+     style="fill:#0a0b0c;stroke-width:0.02309636"
+     id="circle98"
+     class="fil3"
+     r="2.8870449"
+     cx="12.518227"
+     cy="128.00003" /><circle
+     style="fill:#0a0b0c;stroke-width:0.02309636"
+     id="circle100"
+     class="fil3"
+     r="2.8870449"
+     cx="12.518227"
+     cy="18.823534" /><circle
+     style="fill:#0a0b0c;stroke-width:0.02309636"
+     id="circle102"
+     class="fil3"
+     r="2.8870449"
+     cx="12.518227"
+     cy="237.17651" /></g>
 <metadata
-    ><rdf:RDF
-      ><cc:Work
-        ><dc:format
-          >image/svg+xml</dc:format
-        ><dc:type
-            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
-        /><cc:license
-            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
-        /><dc:publisher
-          ><cc:Agent
-              rdf:about="http://openclipart.org/"
-            ><dc:title
-              >Openclipart</dc:title
-            ></cc:Agent
-          ></dc:publisher
-        ><dc:title
-          >Loose Leaf Paper</dc:title
-        ><dc:date
-          >2008-03-25T18:33:19</dc:date
-        ><dc:description
-          >Simple piece of loose leaf paper</dc:description
-        ><dc:source
-          >https://openclipart.org/detail/16004/loose-leaf-paper-by-nexxuz</dc:source
-        ><dc:creator
-          ><cc:Agent
-            ><dc:title
-              >nexxuz</dc:title
-            ></cc:Agent
-          ></dc:creator
-        ><dc:subject
-          ><rdf:Bag
-            ><rdf:li
-              >how i did it</rdf:li
-            ><rdf:li
-              >office</rdf:li
-            ><rdf:li
-              >paper</rdf:li
-            ><rdf:li
-              >school</rdf:li
-            ><rdf:li
-              >supplies</rdf:li
-            ></rdf:Bag
-          ></dc:subject
-        ></cc:Work
-      ><cc:License
-          rdf:about="http://creativecommons.org/licenses/publicdomain/"
-        ><cc:permits
-            rdf:resource="http://creativecommons.org/ns#Reproduction"
-        /><cc:permits
-            rdf:resource="http://creativecommons.org/ns#Distribution"
-        /><cc:permits
-            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
-        /></cc:License
-      ></rdf:RDF
-    ></metadata
-  ></svg
->
+   id="metadata107"><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><cc:license
+         rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" /><dc:publisher><cc:Agent
+           rdf:about="http://openclipart.org/"><dc:title>OpenClipart Library</dc:title></cc:Agent></dc:publisher><dc:title>Ruled Paper</dc:title><dc:date>2008-03-25T18:33:19</dc:date><dc:description>Simple piece of loose leaf paper</dc:description><dc:source>https://openclipart.org/detail/16004</dc:source><dc:creator><cc:Agent><dc:title>nexxuz</dc:title></cc:Agent></dc:creator><dc:subject><rdf:Bag><rdf:li>how i did it</rdf:li><rdf:li>office</rdf:li><rdf:li>paper</rdf:li><rdf:li>school</rdf:li><rdf:li>supplies</rdf:li></rdf:Bag></dc:subject></cc:Work><cc:License
+       rdf:about="http://creativecommons.org/publicdomain/zero/1.0/"><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF></metadata></svg>
