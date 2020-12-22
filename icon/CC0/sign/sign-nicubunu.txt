@@ -1,4 +1,4 @@
 Sources:
-- https://opengameart.org/node/3069
-- https://opengameart.org/node/3068
-- https://opengameart.org/node/3070
+- signpost_01: https://opengameart.org/node/3068
+- signpost_02: https://opengameart.org/node/3069
+- sign_crossroad: https://opengameart.org/node/3070
