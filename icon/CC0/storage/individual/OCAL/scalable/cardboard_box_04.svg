@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg2"
+    sodipodi:docname="box-cartone2.svg"
+    inkscape:export-filename="C:\Documents and Settings\lorenzo\Desktop\edfre.png"
+    viewBox="0 0 128 128"
+    sodipodi:version="0.32"
+    inkscape:export-xdpi="90"
+    version="1.0"
+    inkscape:output_extension="org.inkscape.output.svg.inkscape"
+    inkscape:export-ydpi="90"
+    inkscape:version="0.46"
+  >
+  <defs
+      id="defs4"
+    >
+    <linearGradient
+        id="linearGradient4068"
+      >
+      <stop
+          id="stop4070"
+          style="stop-color:#e3b06f"
+          offset="0"
+      />
+      <stop
+          id="stop4072"
+          style="stop-color:#c5ac8e"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient4062"
+      >
+      <stop
+          id="stop4064"
+          style="stop-color:#6a4519"
+          offset="0"
+      />
+      <stop
+          id="stop4066"
+          style="stop-color:#ab7d46"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <filter
+        id="filter3842"
+        height="1.329"
+        width="1.2115"
+        y="-.16452"
+        x="-.10576"
+        inkscape:collect="always"
+      >
+      <feGaussianBlur
+          id="feGaussianBlur3844"
+          stdDeviation="2.5548707"
+          inkscape:collect="always"
+      />
+    </filter
+    >
+    <filter
+        id="filter3920"
+        height="1.3669"
+        width="1.1749"
+        y="-.18346"
+        x="-.087464"
+        inkscape:collect="always"
+      >
+      <feGaussianBlur
+          id="feGaussianBlur3922"
+          stdDeviation="2.1631241"
+          inkscape:collect="always"
+      />
+    </filter
+    >
+    <filter
+        id="filter3968"
+        inkscape:collect="always"
+      >
+      <feGaussianBlur
+          id="feGaussianBlur3970"
+          stdDeviation="1.1167048"
+          inkscape:collect="always"
+      />
+    </filter
+    >
+    <filter
+        id="filter4036"
+        height="6.9919"
+        width="2.4818"
+        y="-2.996"
+        x="-.74089"
+        inkscape:collect="always"
+      >
+      <feGaussianBlur
+          id="feGaussianBlur4038"
+          stdDeviation="51.518058"
+          inkscape:collect="always"
+      />
+    </filter
+    >
+    <linearGradient
+        id="linearGradient4046"
+        y2="344.23"
+        gradientUnits="userSpaceOnUse"
+        x2="348.2"
+        gradientTransform="matrix(.56742 0 0 .56742 98.753 167.76)"
+        y1="423.6"
+        x1="247.09"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4050"
+          style="stop-color:#6a4519"
+          offset="0"
+      />
+      <stop
+          id="stop4052"
+          style="stop-color:#c29158"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient4060"
+        y2="342.16"
+        xlink:href="#linearGradient4062"
+        gradientUnits="userSpaceOnUse"
+        x2="351.99"
+        gradientTransform="matrix(.56742 0 0 .56742 98.753 167.76)"
+        y1="416.01"
+        x1="401.69"
+        inkscape:collect="always"
+    />
+    <linearGradient
+        id="linearGradient4082"
+        y2="347.6"
+        xlink:href="#linearGradient4068"
+        gradientUnits="userSpaceOnUse"
+        x2="410.46"
+        gradientTransform="matrix(.56742 0 0 .56742 98.753 167.76)"
+        y1="324.83"
+        x1="384.06"
+        inkscape:collect="always"
+    />
+    <linearGradient
+        id="linearGradient4090"
+        y2="393.12"
+        gradientUnits="userSpaceOnUse"
+        x2="281.81"
+        gradientTransform="matrix(.56742 0 0 .56742 98.753 167.76)"
+        y1="313.75"
+        x1="397.62"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop4086"
+          style="stop-color:#6f4e28"
+          offset="0"
+      />
+      <stop
+          id="stop4088"
+          style="stop-color:#130c04"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient4098"
+        y2="358.02"
+        xlink:href="#linearGradient4062"
+        gradientUnits="userSpaceOnUse"
+        x2="268.35"
+        gradientTransform="matrix(.56742 0 0 .56742 98.753 167.76)"
+        y1="302.12"
+        x1="323.53"
+        inkscape:collect="always"
+    />
+    <linearGradient
+        id="linearGradient2423"
+        y2="368.86"
+        xlink:href="#linearGradient4068"
+        gradientUnits="userSpaceOnUse"
+        x2="277.78"
+        gradientTransform="matrix(.56742 0 0 .56742 98.753 167.76)"
+        y1="330.9"
+        x1="295.54"
+        inkscape:collect="always"
+    />
+    <filter
+        id="filter3345"
+        height="1.7751"
+        width="1.1326"
+        y="-.38756"
+        x="-.066316"
+        inkscape:collect="always"
+      >
+      <feGaussianBlur
+          id="feGaussianBlur3347"
+          stdDeviation="2.3089849"
+          inkscape:collect="always"
+      />
+    </filter
+    >
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="22"
+      pagecolor="#ffffff"
+      inkscape:window-height="904"
+      inkscape:zoom="5.7890625"
+      inkscape:window-x="0"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="64"
+      inkscape:cy="50.944704"
+      inkscape:window-width="1280"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Livello 1"
+      inkscape:groupmode="layer"
+      transform="translate(-221.62 -300.12)"
+    >
+    <path
+        id="path3378"
+        style="filter:url(#filter3968);stroke:#000000;stroke-width:4;fill:none"
+        d="m407.83 458.7l-57.29 37.27-105.59-28.99"
+        inkscape:export-ydpi="114"
+        inkscape:export-filename="C:\Documents and Settings\lorenzo\Desktop\ass.png"
+        transform="matrix(.56742 0 0 .56742 97.618 143.93)"
+        inkscape:export-xdpi="114"
+    />
+    <path
+        id="path3276"
+        style="fill-rule:evenodd;fill:url(#linearGradient4090)"
+        d="m284.17 336.93l44.98 7.35v43.51l-45.12 0.54 0.14-51.4z"
+        inkscape:export-ydpi="114.58"
+        inkscape:export-filename="C:\Documents and Settings\lorenzo\Desktop\ass.png"
+        inkscape:export-xdpi="114.58"
+    />
+    <path
+        id="path3274"
+        style="fill-rule:evenodd;fill:url(#linearGradient4098)"
+        d="m236.38 349.28l47.93-12.35-0.14 54.6-47.53 2.4-0.26-44.65z"
+        inkscape:export-ydpi="114.58"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="C:\Documents and Settings\lorenzo\Desktop\ass.png"
+        inkscape:export-xdpi="114.58"
+    />
+    <path
+        id="path3264"
+        style="fill-rule:evenodd;fill:url(#linearGradient4046)"
+        d="m236.42 349.37l59.86 10.55v65.69l-59.86-16.06v-60.18z"
+        inkscape:export-ydpi="114.58"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="C:\Documents and Settings\lorenzo\Desktop\ass.png"
+        inkscape:export-xdpi="114.58"
+    />
+    <path
+        id="path3266"
+        style="fill-rule:evenodd;fill:url(#linearGradient4060)"
+        d="m296.28 425.69v-65.79l33.22-15.07v59.74l-33.22 21.12z"
+        inkscape:export-ydpi="114.58"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="C:\Documents and Settings\lorenzo\Desktop\ass.png"
+        inkscape:export-xdpi="114.58"
+    />
+    <path
+        id="path3640"
+        style="filter:url(#filter3842);fill-rule:evenodd;fill:#6a4519;fill-opacity:.75648"
+        d="m349.16 381.4c-8.97 36.58-9.66 37.27-9.66 37.27l-48.31-10.35 57.97-26.92z"
+        inkscape:export-ydpi="114"
+        inkscape:export-filename="C:\Documents and Settings\lorenzo\Desktop\ass.png"
+        transform="matrix(.56742 0 0 .56742 97.618 143.93)"
+        inkscape:export-xdpi="114"
+    />
+    <path
+        id="path2501"
+        style="filter:url(#filter3345);stroke:#000000;stroke-width:1px;fill:none"
+        d="m324.41 347.28l-28.26 13.3-54.31-9.97"
+    />
+    <path
+        id="path3268"
+        style="fill-rule:evenodd;fill:url(#linearGradient2423)"
+        d="m236.38 349.28l59.91 10.62-14.72 23.79-58.2-12.5 13.01-21.91z"
+        inkscape:export-ydpi="114.58"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="C:\Documents and Settings\lorenzo\Desktop\ass.png"
+        inkscape:export-xdpi="114.58"
+    />
+    <path
+        id="path3846"
+        style="filter:url(#filter3920);fill-rule:evenodd;fill:#6a4519;fill-opacity:.75648"
+        d="m350.54 380.71l17.26 28.3 42.1-17.95-59.36-10.35z"
+        inkscape:export-ydpi="114"
+        inkscape:export-filename="C:\Documents and Settings\lorenzo\Desktop\ass.png"
+        transform="matrix(.56742 0 0 .56742 97.618 143.93)"
+        inkscape:export-xdpi="114"
+    />
+    <path
+        id="path3270"
+        style="fill-rule:evenodd;fill:url(#linearGradient4082)"
+        d="m296.28 359.9l19.86 14.03 32.36-15.06-19.18-14.55-33.04 15.58z"
+        inkscape:export-ydpi="114.58"
+        sodipodi:nodetypes="ccccc"
+        inkscape:export-filename="C:\Documents and Settings\lorenzo\Desktop\ass.png"
+        inkscape:export-xdpi="114.58"
+    />
+    <path
+        id="use3972"
+        style="filter:url(#filter4036);stroke:#000000;stroke-width:4;fill:none"
+        d="m407.83 458.7l-162.88 8.28"
+        inkscape:export-ydpi="114"
+        sodipodi:nodetypes="cc"
+        inkscape:export-filename="C:\Documents and Settings\lorenzo\Desktop\ass.png"
+        transform="matrix(.56742 0 0 .56742 97.618 143.93)"
+        inkscape:export-xdpi="114"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Open Box</dc:title
+        >
+        <dc:date
+          >2010-11-28T11:37:30</dc:date
+        >
+        <dc:description
+          >An open cardboard box</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/98491/open-box-by-piercolone</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >piercolone</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >aperta</rdf:li
+            >
+            <rdf:li
+              >box</rdf:li
+            >
+            <rdf:li
+              >open</rdf:li
+            >
+            <rdf:li
+              >scatola</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
