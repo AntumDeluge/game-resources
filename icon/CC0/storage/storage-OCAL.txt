@@ -1,13 +1,13 @@
 Sources:
-- chest_01: https://openclipart.org/detail/3907
-- chest_02: https://openclipart.org/detail/76483
 - cardboard_box_01: https://openclipart.org/detail/192847
 - cardboard_box_02: https://openclipart.org/detail/26101
 - cardboard_box_03: https://openclipart.org/detail/3574
 - cardboard_box_04: https://openclipart.org/detail/98491
+- chest_01: https://openclipart.org/detail/3907
+- chest_02: https://openclipart.org/detail/76483
 - gift_01: https://openclipart.org/detail/75775
+- plastic_bin_01_red: https://openclipart.org/detail/172769
 - wooden_crate_01: https://openclipart.org/detail/300901
 - wooden_crate_02: https://openclipart.org/detail/62857
 - wooden_crate_03: https://openclipart.org/detail/194862
 - wooden_crate_04: https://openclipart.org/detail/215590
-- plastic_bin_01_red: https://openclipart.org/detail/172769

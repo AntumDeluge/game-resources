@@ -1,257 +1,254 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
 <svg
-    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns="http://www.w3.org/2000/svg"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:ns1="http://sozi.baierouge.fr"
-    xmlns:cc="http://web.resource.org/cc/"
-    xmlns:xlink="http://www.w3.org/1999/xlink"
-    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-    id="Layer_2"
-    enable-background="new 0 0 600 600"
-    xml:space="preserve"
-    viewBox="0 0 600 600"
-    version="1.1"
-    y="0px"
-    x="0px"
-  >
-<path
-      d="m480.2 179.95l-184.35-29.93s14.286 200.68 14.286 202.72 165.31 21.769 165.31 21.769l4.75-194.56z"
-      fill="#BA8916"
-  />
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_2"
+   enable-background="new 0 0 600 600"
+   xml:space="preserve"
+   viewBox="0 0 256 191.30016"
+   version="1.1"
+   y="0px"
+   x="0px"
+   sodipodi:docname="cardboard_box_01.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="256"
+   height="191.30016"><title
+   id="title889">Cardboard Box</title><defs
+   id="defs79" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1025"
+   id="namedview77"
+   showgrid="false"
+   inkscape:zoom="0.39333333"
+   inkscape:cx="-54.393593"
+   inkscape:cy="214.67"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_2"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0" />
+
 <linearGradient
-      id="SVGID_1_"
-      y2="262.26"
-      gradientUnits="userSpaceOnUse"
-      x2="480.2"
-      y1="262.26"
-      x1="295.85"
-    >
+   id="SVGID_1_"
+   y2="262.26001"
+   gradientUnits="userSpaceOnUse"
+   x2="480.20001"
+   y1="262.26001"
+   x1="295.85001">
 	<stop
-        style="stop-color:#624B00;stop-opacity:0"
-        offset=".0061"
-    />
+   style="stop-color:#624B00;stop-opacity:0"
+   offset=".0061"
+   id="stop4" />
 	<stop
-        style="stop-color:#624B00"
-        offset="1"
-    />
-</linearGradient
-  >
-<path
-      d="m480.2 179.95l-184.35-29.93s14.286 200.68 14.286 202.72 165.31 21.769 165.31 21.769l4.75-194.56z"
-      fill="url(#SVGID_1_)"
-  />
-<polygon
-      points="296 149.33 103.33 240.5 129.86 447.3 310.67 343.67"
-      fill="#BA8916"
-  />
+   style="stop-color:#624B00"
+   offset="1"
+   id="stop6" />
+</linearGradient>
+
+
 <linearGradient
-      id="SVGID_2_"
-      y2="298.32"
-      gradientUnits="userSpaceOnUse"
-      x2="310.67"
-      y1="298.32"
-      x1="103.33"
-    >
+   id="SVGID_2_"
+   y2="298.32001"
+   gradientUnits="userSpaceOnUse"
+   x2="310.67001"
+   y1="298.32001"
+   x1="103.33">
 	<stop
-        style="stop-color:#624B00"
-        offset="0"
-    />
+   style="stop-color:#624B00"
+   offset="0"
+   id="stop13" />
 	<stop
-        style="stop-color:#FFFFFF;stop-opacity:0"
-        offset="1"
-    />
-</linearGradient
-  >
-<polygon
-      points="296 149.33 103.33 240.5 129.86 447.3 310.67 343.67"
-      fill="url(#SVGID_2_)"
-  />
-<polygon
-      points="321.67 514.67 475.73 374.89 480.49 181.33 309.42 285.1"
-      fill="#624B00"
-  />
+   style="stop-color:#FFFFFF;stop-opacity:0"
+   offset="1"
+   id="stop15" />
+</linearGradient>
+
+
 <linearGradient
-      id="SVGID_3_"
-      y2="348"
-      gradientUnits="userSpaceOnUse"
-      x2="480.49"
-      y1="348"
-      x1="309.42"
-    >
+   id="SVGID_3_"
+   y2="348"
+   gradientUnits="userSpaceOnUse"
+   x2="480.48999"
+   y1="348"
+   x1="309.42001">
 	<stop
-        style="stop-color:#947211"
-        offset="0"
-    />
+   style="stop-color:#947211"
+   offset="0"
+   id="stop22" />
 	<stop
-        style="stop-color:#FFFFFF;stop-opacity:0"
-        offset="1"
-    />
-</linearGradient
-  >
-<polygon
-      points="321.67 514.67 475.73 374.89 480.49 181.33 309.42 285.1"
-      fill="url(#SVGID_3_)"
-  />
-<polygon
-      points="129.86 447.3 322 514.67 310.14 284.71 103.33 240.5"
-      fill="#624B00"
-  />
+   style="stop-color:#FFFFFF;stop-opacity:0"
+   offset="1"
+   id="stop24" />
+</linearGradient>
+
+
 <linearGradient
-      id="SVGID_4_"
-      y2="377.58"
-      gradientUnits="userSpaceOnUse"
-      x2="322"
-      y1="377.58"
-      x1="103.33"
-    >
+   id="SVGID_4_"
+   y2="377.57999"
+   gradientUnits="userSpaceOnUse"
+   x2="322"
+   y1="377.57999"
+   x1="103.33">
 	<stop
-        style="stop-color:#947211"
-        offset="0"
-    />
+   style="stop-color:#947211"
+   offset="0"
+   id="stop31" />
 	<stop
-        style="stop-color:#FFFFFF;stop-opacity:0"
-        offset="1"
-    />
-</linearGradient
-  >
-<polygon
-      points="129.86 447.3 322 514.67 310.14 284.71 103.33 240.5"
-      fill="url(#SVGID_4_)"
-  />
-<polygon
-      points="295.67 150 208.78 115.32 16.258 194.24 103.33 241"
-      fill="#947211"
-  />
+   style="stop-color:#FFFFFF;stop-opacity:0"
+   offset="1"
+   id="stop33" />
+</linearGradient>
+
+
 <linearGradient
-      id="SVGID_5_"
-      y2="178.16"
-      gradientUnits="userSpaceOnUse"
-      x2="295.67"
-      y1="178.16"
-      x1="16.258"
-    >
+   id="SVGID_5_"
+   y2="178.16"
+   gradientUnits="userSpaceOnUse"
+   x2="295.67001"
+   y1="178.16"
+   x1="16.257999">
 	<stop
-        style="stop-color:#AD9013"
-        offset="0"
-    />
+   style="stop-color:#AD9013"
+   offset="0"
+   id="stop40" />
 	<stop
-        style="stop-color:#FFFFFF;stop-opacity:0"
-        offset="1"
-    />
-</linearGradient
-  >
-<polygon
-      points="295.67 150 208.78 115.32 16.258 194.24 103.33 241"
-      fill="url(#SVGID_5_)"
-  />
-<path
-      d="m103.33 240.5l-80.272 78.911 208.16 59.864 78.911-94.558c0.01 0-205.44-44.21-206.8-44.21z"
-      fill="#947211"
-  />
+   style="stop-color:#FFFFFF;stop-opacity:0"
+   offset="1"
+   id="stop42" />
+</linearGradient>
+
+
 <linearGradient
-      id="SVGID_6_"
-      y2="309.88"
-      gradientUnits="userSpaceOnUse"
-      x2="310.14"
-      y1="309.88"
-      x1="23.061"
-    >
+   id="SVGID_6_"
+   y2="309.88"
+   gradientUnits="userSpaceOnUse"
+   x2="310.14001"
+   y1="309.88"
+   x1="23.061001">
 	<stop
-        style="stop-color:#AD9013"
-        offset="0"
-    />
+   style="stop-color:#AD9013"
+   offset="0"
+   id="stop49" />
 	<stop
-        style="stop-color:#FFFFFF;stop-opacity:0"
-        offset="1"
-    />
-</linearGradient
-  >
-<path
-      d="m103.33 240.5l-80.272 78.911 208.16 59.864 78.911-94.558c0.01 0-205.44-44.21-206.8-44.21z"
-      fill="url(#SVGID_6_)"
-  />
-<polygon
-      points="310 284.33 436.67 329.61 586.17 215.31 480.05 180.62"
-      fill="#947211"
-  />
+   style="stop-color:#FFFFFF;stop-opacity:0"
+   offset="1"
+   id="stop51" />
+</linearGradient>
+
+
 <linearGradient
-      id="SVGID_7_"
-      y2="255.11"
-      gradientUnits="userSpaceOnUse"
-      x2="586.17"
-      y1="255.11"
-      x1="310"
-    >
+   id="SVGID_7_"
+   y2="255.11"
+   gradientUnits="userSpaceOnUse"
+   x2="586.16998"
+   y1="255.11"
+   x1="310">
 	<stop
-        style="stop-color:#AD9013"
-        offset="0"
-    />
+   style="stop-color:#AD9013"
+   offset="0"
+   id="stop58" />
 	<stop
-        style="stop-color:#FFFFFF;stop-opacity:0"
-        offset="1"
-    />
-</linearGradient
-  >
-<polygon
-      points="310 284.33 436.67 329.61 586.17 215.31 480.05 180.62"
-      fill="url(#SVGID_7_)"
-  />
-<polygon
-      points="342.11 88.794 295.85 150.02 480.2 180.95 522.38 107.16"
-      fill="#947211"
-  />
+   style="stop-color:#FFFFFF;stop-opacity:0"
+   offset="1"
+   id="stop60" />
+</linearGradient>
+
+
 <linearGradient
-      id="SVGID_8_"
-      y2="134.87"
-      gradientUnits="userSpaceOnUse"
-      x2="522.38"
-      y1="134.87"
-      x1="295.85"
-    >
+   id="SVGID_8_"
+   y2="134.87"
+   gradientUnits="userSpaceOnUse"
+   x2="522.38"
+   y1="134.87"
+   x1="295.85001">
 	<stop
-        style="stop-color:#AD9013"
-        offset="0"
-    />
+   style="stop-color:#AD9013"
+   offset="0"
+   id="stop67" />
 	<stop
-        style="stop-color:#FFFFFF;stop-opacity:0"
-        offset="1"
-    />
-</linearGradient
-  >
-<polygon
-      points="342.11 88.794 295.85 150.02 480.2 180.95 522.38 107.16"
-      fill="url(#SVGID_8_)"
-  />
+   style="stop-color:#FFFFFF;stop-opacity:0"
+   offset="1"
+   id="stop69" />
+</linearGradient>
+<g
+   id="g907"
+   transform="matrix(0.44919216,0,0,0.44919216,-7.3029661,-39.885569)"><path
+     id="path2"
+     d="M 480.2,179.95 295.85,150.02 c 0,0 14.286,200.68 14.286,202.72 0,2.04 165.31,21.769 165.31,21.769 l 4.75,-194.56 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ba8916" /><path
+     id="path9"
+     d="M 480.2,179.95 295.85,150.02 c 0,0 14.286,200.68 14.286,202.72 0,2.04 165.31,21.769 165.31,21.769 l 4.75,-194.56 z"
+     inkscape:connector-curvature="0"
+     style="fill:url(#SVGID_1_)" /><polygon
+     id="polygon11"
+     points="310.67,343.67 296,149.33 103.33,240.5 129.86,447.3 "
+     style="fill:#ba8916" /><polygon
+     id="polygon18"
+     points="310.67,343.67 296,149.33 103.33,240.5 129.86,447.3 "
+     style="fill:url(#SVGID_2_)" /><polygon
+     id="polygon20"
+     points="309.42,285.1 321.67,514.67 475.73,374.89 480.49,181.33 "
+     style="fill:#624b00" /><polygon
+     id="polygon27"
+     points="309.42,285.1 321.67,514.67 475.73,374.89 480.49,181.33 "
+     style="fill:url(#SVGID_3_)" /><polygon
+     id="polygon29"
+     points="103.33,240.5 129.86,447.3 322,514.67 310.14,284.71 "
+     style="fill:#624b00" /><polygon
+     id="polygon36"
+     points="103.33,240.5 129.86,447.3 322,514.67 310.14,284.71 "
+     style="fill:url(#SVGID_4_)" /><polygon
+     id="polygon38"
+     points="103.33,241 295.67,150 208.78,115.32 16.258,194.24 "
+     style="fill:#947211" /><polygon
+     id="polygon45"
+     points="103.33,241 295.67,150 208.78,115.32 16.258,194.24 "
+     style="fill:url(#SVGID_5_)" /><path
+     id="path47"
+     d="m 103.33,240.5 -80.272,78.911 208.16,59.864 78.911,-94.558 c 0.01,0 -205.44,-44.21 -206.8,-44.21 z"
+     inkscape:connector-curvature="0"
+     style="fill:#947211" /><path
+     id="path54"
+     d="m 103.33,240.5 -80.272,78.911 208.16,59.864 78.911,-94.558 c 0.01,0 -205.44,-44.21 -206.8,-44.21 z"
+     inkscape:connector-curvature="0"
+     style="fill:url(#SVGID_6_)" /><polygon
+     id="polygon56"
+     points="480.05,180.62 310,284.33 436.67,329.61 586.17,215.31 "
+     style="fill:#947211" /><polygon
+     id="polygon63"
+     points="480.05,180.62 310,284.33 436.67,329.61 586.17,215.31 "
+     style="fill:url(#SVGID_7_)" /><polygon
+     id="polygon65"
+     points="522.38,107.16 342.11,88.794 295.85,150.02 480.2,180.95 "
+     style="fill:#947211" /><polygon
+     id="polygon72"
+     points="522.38,107.16 342.11,88.794 295.85,150.02 480.2,180.95 "
+     style="fill:url(#SVGID_8_)" /></g>
 <metadata
-    ><rdf:RDF
-      ><cc:Work
-        ><dc:format
-          >image/svg+xml</dc:format
-        ><dc:type
-            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
-        /><cc:license
-            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
-        /><dc:publisher
-          ><cc:Agent
-              rdf:about="http://openclipart.org/"
-            ><dc:title
-              >Openclipart</dc:title
-            ></cc:Agent
-          ></dc:publisher
-        ></cc:Work
-      ><cc:License
-          rdf:about="http://creativecommons.org/licenses/publicdomain/"
-        ><cc:permits
-            rdf:resource="http://creativecommons.org/ns#Reproduction"
-        /><cc:permits
-            rdf:resource="http://creativecommons.org/ns#Distribution"
-        /><cc:permits
-            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
-        /></cc:License
-      ></rdf:RDF
-    ></metadata
-  ></svg
->
+   id="metadata74"><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><cc:license
+         rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" /><dc:publisher><cc:Agent
+           rdf:about="http://openclipart.org/"><dc:title>OpenClipart Library</dc:title></cc:Agent></dc:publisher><dc:title>Cardboard Box</dc:title><dc:source>https://openclipart.org/detail/192847</dc:source></cc:Work><cc:License
+       rdf:about="http://creativecommons.org/publicdomain/zero/1.0/"><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF></metadata></svg>
