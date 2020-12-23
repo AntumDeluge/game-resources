@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="tea_spoon.svg">
+  <title
+     id="title839">Tea Spoon</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8644426"
+     inkscape:cx="-30.481993"
+     inkscape:cy="64.988968"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Tea Spoon</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:source>https://openclipart.org/detail/301328</dc:source>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>OpenClipart Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:label="tea_spoon"
+     d="m 147.45251,116.11499 c 6.58627,-0.9409 17.58132,-2.15062 25.00096,-9.1939 12.41984,-11.77465 11.15635,-26.15693 7.31211,-30.00117 l -0.72583,-0.72583 c -3.84424,-3.84423 -18.22651,-5.10772 -30.00116,7.31211 -7.31211,7.68847 -8.44119,19.19429 -9.30144,25.75369 -0.18818,0.7796 -0.43012,1.66673 -0.75271,2.68827 -1.26349,4.11306 -24.11384,25.99563 -25.53862,27.25912 -1.45167,1.23661 -29.033389,24.67837 -30.135579,25.40421 -1.07531,0.69895 -15.10811,8.49495 -7.500289,15.61888 7.123929,7.60782 14.919929,-6.42498 15.618879,-7.50029 0.72584,-1.10219 24.140719,-28.65702 25.404209,-30.13557 1.26349,-1.42479 23.14606,-24.27513 27.25912,-25.53862 1.34414,-0.43013 2.41945,-0.69896 3.36035,-0.9409 z"
+     id="path34"
+     inkscape:connector-curvature="0"
+     style="display:inline;fill:#ababab;stroke:#000000;stroke-width:1.35398972;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</svg>

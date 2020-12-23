@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="dinner_fork.svg">
+  <title
+     id="title839">Dinner Fork</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8644426"
+     inkscape:cx="-30.481993"
+     inkscape:cy="64.988968"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Dinner Fork</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:source>https://openclipart.org/detail/301328</dc:source>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>OpenClipart Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:label="dinner_fork"
+     d="m 107.47828,157.21591 c 2.52698,-2.95711 46.6416,-49.38363 55.51291,-51.42672 8.87131,-2.04309 12.4736,-1.34414 19.35558,-6.129272 16.85549,-11.801531 55.55054,-60.76579 55.55054,-60.76579 -0.13442,-0.134414 -0.43013,-0.430124 -0.92746,-1.008104 -1.61834,-1.822651 -46.98837,46.235659 -51.10144,49.434708 -4.08617,3.172165 -4.54318,-0.457007 -3.87111,-1.612966 0.69895,-1.129076 48.98307,-53.821974 48.98307,-53.821974 -0.21506,-0.161296 -1.62909,-1.704367 -1.62909,-1.704367 0,0 -50.06914,51.03692 -51.52081,51.52081 -4.78513,1.612965 -2.5001,-3.145283 -2.9571,-2.52698 1.34413,-2.419448 50.77884,-52.606872 50.77884,-52.606872 0,0 -1.63985,-1.586083 -1.80114,-1.801145 0,0 -52.0961,48.870169 -53.22518,49.56912 -1.15596,0.672069 -4.78513,0.215063 -1.61297,-3.871117 3.19905,-4.113062 50.44013,-50.332591 48.61748,-51.950933 -0.56992,-0.505396 -0.87638,-0.790353 -1.0108,-0.924767 0,0 -48.11745,39.622499 -59.75768,56.585521 -4.75825,6.908869 -4.11307,10.457394 -6.15616,19.328704 -2.04309,8.871314 -48.44273,53.012804 -51.426718,55.512894 -2.957104,2.52698 -59.599079,49.16857 -61.857231,50.51271 -2.285035,1.37102 -31.856071,15.94148 -13.656442,33.22709 17.285615,18.19963 31.856071,-11.37141 33.227091,-13.65644 1.344138,-2.25815 47.95884,-58.92701 50.48582,-61.88411 z"
+     id="path22"
+     inkscape:connector-curvature="0"
+     style="display:inline;fill:#ababab;stroke:#000000;stroke-width:1.35398972;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</svg>
