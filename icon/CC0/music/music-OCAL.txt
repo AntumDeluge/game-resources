@@ -1,3 +1,4 @@
 Sources:
 - accordion: https://openclipart.org/detail/279321
 - saxophone: https://openclipart.org/detail/294043
+- trumpet: https://openclipart.org/detail/8274
