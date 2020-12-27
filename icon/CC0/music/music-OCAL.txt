@@ -5,6 +5,7 @@ Sources:
 - flute: https://openclipart.org/detail/8613
 - guitar: https://openclipart.org/detail/10115
 - guitar_electric: https://openclipart.org/detail/4444
+- harp: https://openclipart.org/detail/8464
 - piano: http://www.clker.com/clipart-piano.html
 - saxophone: https://openclipart.org/detail/294043
 - trumpet: https://openclipart.org/detail/8274
