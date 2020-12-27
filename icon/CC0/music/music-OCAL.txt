@@ -10,6 +10,6 @@ Sources:
 - oboe: https://openclipart.org/detail/8492
 - piano: http://www.clker.com/clipart-piano.html
 - recorder: https://openclipart.org/detail/3305
-- saxophone: https://openclipart.org/detail/294043
+- saxophone: http://www.clker.com/clipart-saxophone.html
 - trumpet: https://openclipart.org/detail/8274
 - violin: https://openclipart.org/detail/4802
