@@ -1,6 +1,7 @@
 Sources:
 - accordion: https://openclipart.org/detail/279321
 - clarinet: https://openclipart.org/detail/694
+- drums: https://openclipart.org/detail/274
 - piano: http://www.clker.com/clipart-piano.html
 - saxophone: https://openclipart.org/detail/294043
 - trumpet: https://openclipart.org/detail/8274
