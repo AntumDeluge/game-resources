@@ -1,4 +1,5 @@
 Sources:
 - accordion: https://openclipart.org/detail/279321
+- piano: http://www.clker.com/clipart-piano.html
 - saxophone: https://openclipart.org/detail/294043
 - trumpet: https://openclipart.org/detail/8274
