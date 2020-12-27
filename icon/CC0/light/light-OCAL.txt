@@ -1,3 +1,4 @@
 Sources:
 - candle_01: https://openclipart.org/detail/242421
 - candle_02: https://openclipart.org/detail/285015
+- torch_01: https://openclipart.org/detail/251484
