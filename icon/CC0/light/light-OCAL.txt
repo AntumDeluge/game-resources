@@ -2,6 +2,7 @@ Sources:
 - candle_01: https://openclipart.org/detail/242421
 - candle_02: https://openclipart.org/detail/285015
 - flashlight_01: https://openclipart.org/detail/1638
+- flashlight_02: https://openclipart.org/detail/171446
 - lightbule_01: https://openclipart.org/detail/110269
 - lightbulb_01_on: https://openclipart.org/detail/116581
 - torch_01: https://openclipart.org/detail/251484
