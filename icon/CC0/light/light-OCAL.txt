@@ -1,0 +1,2 @@
+Sources:
+- candle_01: https://openclipart.org/detail/242421
