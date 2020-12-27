@@ -1,5 +1,5 @@
 Sources:
-- accordion: https://openclipart.org/detail/279321
+- accordion: http://www.clker.com/clipart-accordian.html
 - clarinet: https://openclipart.org/detail/694
 - drums: https://openclipart.org/detail/274
 - flute: https://openclipart.org/detail/8613
