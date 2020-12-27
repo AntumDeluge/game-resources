@@ -7,6 +7,7 @@ Sources:
 - guitar_electric: https://openclipart.org/detail/4444
 - harp: https://openclipart.org/detail/8464
 - lute: https://openclipart.org/detail/8991
+- oboe: https://openclipart.org/detail/8492
 - piano: http://www.clker.com/clipart-piano.html
 - saxophone: https://openclipart.org/detail/294043
 - trumpet: https://openclipart.org/detail/8274
