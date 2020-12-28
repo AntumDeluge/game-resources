@@ -1,3 +1,6 @@
 Sources:
+- bowl_01: https://openclipart.org/detail/204110
+- bowl_02: https://openclipart.org/detail/155455
+- bowl_03: https://openclipart.org/detail/179982
 - forks, spoons, knife: https://openclipart.org/detail/301328
 - plate: https://openclipart.org/detail/191198
