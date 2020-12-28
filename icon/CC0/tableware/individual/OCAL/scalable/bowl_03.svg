@@ -1,469 +1,413 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    xmlns="http://www.w3.org/2000/svg"
-    xmlns:cc="http://web.resource.org/cc/"
-    xmlns:xlink="http://www.w3.org/1999/xlink"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-    xmlns:ns1="http://sozi.baierouge.fr"
-    id="Layer_1"
-    xml:space="preserve"
-    viewBox="0 0 600 600"
-    y="0px"
-    version="1.1"
-    enable-background="new 0 0 600 600"
-    x="0px"
-  >
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   xml:space="preserve"
+   viewBox="0 0 256 159.08983"
+   y="0px"
+   version="1.1"
+   enable-background="new 0 0 600 600"
+   x="0px"
+   sodipodi:docname="bowl_03.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="256"
+   height="159.08983"><defs
+   id="defs144" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1025"
+   id="namedview142"
+   showgrid="false"
+   inkscape:pagecheckerboard="true"
+   inkscape:zoom="1.1125147"
+   inkscape:cx="-1.075921"
+   inkscape:cy="130.04305"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0" />
 <radialGradient
-      id="SVGID_1_"
-      gradientUnits="userSpaceOnUse"
-      cy="249.1"
-      cx="301.92"
-      gradientTransform="matrix(.8893 0 0 .7885 33.213 60.222)"
-      r="317.19"
-    >
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   cy="249.10001"
+   cx="301.92001"
+   gradientTransform="matrix(0.8893,0,0,0.7885,33.213,60.222)"
+   r="317.19">
 	<stop
-        stop-color="#DBCDA8"
-        offset="0"
-    />
+   stop-color="#DBCDA8"
+   offset="0"
+   id="stop2" />
 	<stop
-        stop-color="#B2A381"
-        offset=".3753"
-    />
+   stop-color="#B2A381"
+   offset=".3753"
+   id="stop4" />
 	<stop
-        stop-color="#87775A"
-        offset=".816"
-    />
+   stop-color="#87775A"
+   offset=".816"
+   id="stop6" />
 	<stop
-        stop-color="#45392B"
-        offset="1"
-    />
-</radialGradient
-  >
-<path
-      fill="url(#SVGID_1_)"
-      clip-rule="evenodd"
-      d="m300 483.71c68.522 0 137.91-16.764 140.07-33.423 2.069-15.982 13.025-26.887 32.383-46.199 43-42.904 76.05-128.91 86.3-154.11 3.312-8.149 9.093-5.5 19.316-16.377 0 11.685-124.5 30.229-278.07 30.229s-278.07-18.55-278.07-30.23c10.224 10.878 16.003 8.229 19.315 16.377 10.25 25.205 43.299 111.21 86.301 154.11 19.355 19.312 30.312 30.217 32.383 46.199 2.16 16.65 71.55 33.42 140.07 33.42z"
-      fill-rule="evenodd"
-  />
+   stop-color="#45392B"
+   offset="1"
+   id="stop8" />
+</radialGradient>
+
 <radialGradient
-      id="SVGID_2_"
-      gradientUnits="userSpaceOnUse"
-      cy="249.1"
-      cx="301.92"
-      gradientTransform="matrix(.8893 0 0 .7885 33.213 60.222)"
-      r="317.19"
-    >
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   cy="249.10001"
+   cx="301.92001"
+   gradientTransform="matrix(0.8893,0,0,0.7885,33.213,60.222)"
+   r="317.19">
 	<stop
-        stop-color="#DBCDA8"
-        stop-opacity="0"
-        offset="0"
-    />
+   stop-color="#DBCDA8"
+   stop-opacity="0"
+   offset="0"
+   id="stop13" />
 	<stop
-        stop-color="#B2A381"
-        stop-opacity=".092"
-        offset=".3358"
-    />
+   stop-color="#B2A381"
+   stop-opacity=".092"
+   offset=".3358"
+   id="stop15" />
 	<stop
-        stop-color="#87775A"
-        stop-opacity=".2"
-        offset=".7301"
-    />
+   stop-color="#87775A"
+   stop-opacity=".2"
+   offset=".7301"
+   id="stop17" />
 	<stop
-        stop-color="#45392B"
-        offset="1"
-    />
-</radialGradient
-  >
-<path
-      fill="url(#SVGID_2_)"
-      clip-rule="evenodd"
-      d="m300 483.71c68.522 0 137.91-16.764 140.07-33.423 2.069-15.982 13.025-26.887 32.383-46.199 43-42.904 76.05-128.91 86.3-154.11 3.312-8.149 9.093-5.5 19.316-16.377 0 11.684-124.5 30.229-278.07 30.229s-278.07-18.55-278.07-30.23c10.224 10.877 16.003 8.228 19.315 16.377 10.25 25.205 43.299 111.21 86.301 154.11 19.355 19.312 30.312 30.217 32.383 46.199 2.16 16.65 71.55 33.42 140.07 33.42z"
-      fill-rule="evenodd"
-  />
-<path
-      fill="#DBCDA8"
-      clip-rule="evenodd"
-      d="m580 163.82c0 10.86-125.36 27.637-280 27.637s-280-16.78-280-27.64c0-10.861 125.36-27.842 280-27.842s280 16.98 280 27.84z"
-      fill-rule="evenodd"
-  />
+   stop-color="#45392B"
+   offset="1"
+   id="stop19" />
+</radialGradient>
+
+
 <linearGradient
-      id="SVGID_3_"
-      y2="213.51"
-      gradientUnits="userSpaceOnUse"
-      x2="580"
-      y1="213.51"
-      x1="20"
-    >
+   id="SVGID_3_"
+   y2="213.50999"
+   gradientUnits="userSpaceOnUse"
+   x2="580"
+   y1="213.50999"
+   x1="20">
 	<stop
-        stop-color="#87775A"
-        offset="0"
-    />
+   stop-color="#87775A"
+   offset="0"
+   id="stop26" />
 	<stop
-        stop-color="#A6967B"
-        offset=".144"
-    />
+   stop-color="#A6967B"
+   offset=".144"
+   id="stop28" />
 	<stop
-        stop-color="#C7B99F"
-        offset=".2997"
-    />
+   stop-color="#C7B99F"
+   offset=".2997"
+   id="stop30" />
 	<stop
-        stop-color="#DED2BB"
-        offset=".4239"
-    />
+   stop-color="#DED2BB"
+   offset=".4239"
+   id="stop32" />
 	<stop
-        stop-color="#E9DEC6"
-        offset=".5"
-    />
+   stop-color="#E9DEC6"
+   offset=".5"
+   id="stop34" />
 	<stop
-        stop-color="#DED2BB"
-        offset=".5761"
-    />
+   stop-color="#DED2BB"
+   offset=".5761"
+   id="stop36" />
 	<stop
-        stop-color="#C7B99F"
-        offset=".7003"
-    />
+   stop-color="#C7B99F"
+   offset=".7003"
+   id="stop38" />
 	<stop
-        stop-color="#A6967B"
-        offset=".856"
-    />
+   stop-color="#A6967B"
+   offset=".856"
+   id="stop40" />
 	<stop
-        stop-color="#87775A"
-        offset="1"
-    />
-</linearGradient
-  >
-<path
-      fill="url(#SVGID_3_)"
-      clip-rule="evenodd"
-      d="m20 234.98c0 10.86 125.36 28.659 280 28.659s280-17.8 280-28.66v-71.609c0 10.86-125.36 27.637-280 27.637s-280-16.78-280-27.64v71.61z"
-      fill-rule="evenodd"
-  />
+   stop-color="#87775A"
+   offset="1"
+   id="stop42" />
+</linearGradient>
+
 <radialGradient
-      id="SVGID_4_"
-      gradientUnits="userSpaceOnUse"
-      cy="461.52"
-      cx="300.99"
-      gradientTransform="matrix(.8893 0 0 .7885 33.213 78.833)"
-      r="130.92"
-    >
+   id="SVGID_4_"
+   gradientUnits="userSpaceOnUse"
+   cy="461.51999"
+   cx="300.98999"
+   gradientTransform="matrix(0.8893,0,0,0.7885,33.213,78.833)"
+   r="130.92">
 	<stop
-        stop-color="#DBCDA8"
-        offset="0"
-    />
+   stop-color="#DBCDA8"
+   offset="0"
+   id="stop47" />
 	<stop
-        stop-color="#B2A381"
-        offset=".3612"
-    />
+   stop-color="#B2A381"
+   offset=".3612"
+   id="stop49" />
 	<stop
-        stop-color="#87775A"
-        offset=".7853"
-    />
+   stop-color="#87775A"
+   offset=".7853"
+   id="stop51" />
 	<stop
-        stop-color="#695B46"
-        offset="1"
-    />
-</radialGradient
-  >
-<path
-      fill="url(#SVGID_4_)"
-      clip-rule="evenodd"
-      d="m156.61 438.57c2.159 16.658 74.871 33.421 143.39 33.421s141.23-16.763 143.39-33.421l-3.319 11.992c-2.159 16.659-71.548 33.422-140.07 33.422s-137.91-16.763-140.07-33.422l-3.32-11.99z"
-      fill-rule="evenodd"
-  />
+   stop-color="#695B46"
+   offset="1"
+   id="stop53" />
+</radialGradient>
+
 <linearGradient
-      id="SVGID_5_"
-      y2="216.72"
-      gradientUnits="userSpaceOnUse"
-      x2="580"
-      y1="216.72"
-      x1="20"
-    >
+   id="SVGID_5_"
+   y2="216.72"
+   gradientUnits="userSpaceOnUse"
+   x2="580"
+   y1="216.72"
+   x1="20">
 	<stop
-        stop-color="#82151C"
-        offset="0"
-    />
+   stop-color="#82151C"
+   offset="0"
+   id="stop58" />
 	<stop
-        stop-color="#B67A6B"
-        offset=".5"
-    />
+   stop-color="#B67A6B"
+   offset=".5"
+   id="stop60" />
 	<stop
-        stop-color="#82151C"
-        offset="1"
-    />
-</linearGradient
-  >
-<path
-      fill="url(#SVGID_5_)"
-      clip-rule="evenodd"
-      d="m20 207.89c0 10.86 125.36 29.069 280 29.069s280-18.21 280-29.07v-11.407c0 10.86-125.36 28.659-280 28.659s-280-17.79-280-28.65v11.4z"
-      fill-rule="evenodd"
-  />
+   stop-color="#82151C"
+   offset="1"
+   id="stop62" />
+</linearGradient>
+
 <linearGradient
-      id="SVGID_6_"
-      y2="200.74"
-      gradientUnits="userSpaceOnUse"
-      x2="580"
-      y1="200.74"
-      x1="20"
-    >
+   id="SVGID_6_"
+   y2="200.74001"
+   gradientUnits="userSpaceOnUse"
+   x2="580"
+   y1="200.74001"
+   x1="20">
 	<stop
-        stop-color="#1F3951"
-        offset="0"
-    />
+   stop-color="#1F3951"
+   offset="0"
+   id="stop67" />
 	<stop
-        stop-color="#6D87A5"
-        offset=".5"
-    />
+   stop-color="#6D87A5"
+   offset=".5"
+   id="stop69" />
 	<stop
-        stop-color="#314F6E"
-        offset="1"
-    />
-</linearGradient
-  >
-<path
-      fill="url(#SVGID_6_)"
-      clip-rule="evenodd"
-      d="m20 189.76c0 10.861 125.36 27.842 280 27.842s280-16.98 280-27.84v-5.888c0 10.86-125.36 27.637-280 27.637s-280-16.78-280-27.64v5.89z"
-      fill-rule="evenodd"
-  />
+   stop-color="#314F6E"
+   offset="1"
+   id="stop71" />
+</linearGradient>
+
 <linearGradient
-      id="SVGID_7_"
-      y2="233.2"
-      gradientUnits="userSpaceOnUse"
-      x2="580"
-      y1="233.2"
-      x1="20"
-    >
+   id="SVGID_7_"
+   y2="233.2"
+   gradientUnits="userSpaceOnUse"
+   x2="580"
+   y1="233.2"
+   x1="20">
 	<stop
-        stop-color="#1F3951"
-        offset="0"
-    />
+   stop-color="#1F3951"
+   offset="0"
+   id="stop76" />
 	<stop
-        stop-color="#6D87A5"
-        offset=".5"
-    />
+   stop-color="#6D87A5"
+   offset=".5"
+   id="stop78" />
 	<stop
-        stop-color="#314F6E"
-        offset="1"
-    />
-</linearGradient
-  >
-<path
-      fill="url(#SVGID_7_)"
-      clip-rule="evenodd"
-      d="m20 221.82c0 10.86 125.36 28.659 280 28.659s280-17.8 280-28.66v-5.888c0 10.86-125.36 28.455-280 28.455s-280-17.59-280-28.45v5.89z"
-      fill-rule="evenodd"
-  />
+   stop-color="#314F6E"
+   offset="1"
+   id="stop80" />
+</linearGradient>
+
 <linearGradient
-      id="SVGID_8_"
-      y2="366.97"
-      gradientUnits="userSpaceOnUse"
-      x2="2008.9"
-      gradientTransform="matrix(-1 0 0 1 2096.9 0)"
-      y1="366.97"
-      x1="1584.8"
-    >
+   id="SVGID_8_"
+   y2="366.97"
+   gradientUnits="userSpaceOnUse"
+   x2="2008.9"
+   gradientTransform="matrix(-1,0,0,1,2096.9,0)"
+   y1="366.97"
+   x1="1584.8">
 	<stop
-        stop-color="#82151C"
-        offset="0"
-    />
+   stop-color="#82151C"
+   offset="0"
+   id="stop85" />
 	<stop
-        stop-color="#A3584B"
-        offset=".5"
-    />
+   stop-color="#A3584B"
+   offset=".5"
+   id="stop87" />
 	<stop
-        stop-color="#82151C"
-        offset="1"
-    />
-</linearGradient
-  >
-<path
-      fill="url(#SVGID_8_)"
-      clip-rule="evenodd"
-      d="m300 383.96c-80.667 0-153.5-8.132-204.46-21.372l-7.598-12.606c50.255 14.412 127.3 22.365 212.06 22.365 84.754 0 160.24-7.953 212.06-22.365l-7.598 12.606c-51.69 12.73-123.79 21.37-204.46 21.37z"
-      fill-rule="evenodd"
-  />
+   stop-color="#82151C"
+   offset="1"
+   id="stop89" />
+</linearGradient>
+
 <linearGradient
-      id="SVGID_9_"
-      y2="350.8"
-      gradientUnits="userSpaceOnUse"
-      x2="519.19"
-      y1="350.8"
-      x1="80.807"
-    >
+   id="SVGID_9_"
+   y2="350.79999"
+   gradientUnits="userSpaceOnUse"
+   x2="519.19"
+   y1="350.79999"
+   x1="80.806999">
 	<stop
-        stop-color="#1F3951"
-        offset="0"
-    />
+   stop-color="#1F3951"
+   offset="0"
+   id="stop94" />
 	<stop
-        stop-color="#58708C"
-        offset=".5"
-    />
+   stop-color="#58708C"
+   offset=".5"
+   id="stop96" />
 	<stop
-        stop-color="#314F6E"
-        offset="1"
-    />
-</linearGradient
-  >
-<path
-      fill="url(#SVGID_9_)"
-      clip-rule="evenodd"
-      d="m300 364.39c-86.755 0-165.12-8.943-215.65-20.735l-3.538-6.45c51.58 11.651 130.42 21.093 219.19 21.093s166.05-9.441 219.19-21.093l-3.539 6.45c-51.26 11.78-128.9 20.73-215.65 20.73z"
-      fill-rule="evenodd"
-  />
+   stop-color="#314F6E"
+   offset="1"
+   id="stop98" />
+</linearGradient>
+
 <linearGradient
-      id="SVGID_10_"
-      y2="384.12"
-      gradientUnits="userSpaceOnUse"
-      x2="499.56"
-      y1="384.12"
-      x1="100.44"
-    >
+   id="SVGID_10_"
+   y2="384.12"
+   gradientUnits="userSpaceOnUse"
+   x2="499.56"
+   y1="384.12"
+   x1="100.44">
 	<stop
-        stop-color="#1F3951"
-        offset="0"
-    />
+   stop-color="#1F3951"
+   offset="0"
+   id="stop103" />
 	<stop
-        stop-color="#475E79"
-        offset=".5"
-    />
+   stop-color="#475E79"
+   offset=".5"
+   id="stop105" />
 	<stop
-        stop-color="#314F6E"
-        offset="1"
-    />
-</linearGradient
-  >
-<path
-      fill="url(#SVGID_10_)"
-      clip-rule="evenodd"
-      d="m300 398.08c-75.81 0-143.39-5.835-195-21.271l-4.56-6.654c50.207 13.802 121.44 21.834 199.56 21.834 78.122 0 146.96-9.835 199.56-21.834l-4.56 6.654c-51.61 11.69-119.19 21.27-195 21.27"
-      fill-rule="evenodd"
-  />
-<path
-      fill="#564B3A"
-      clip-rule="evenodd"
-      d="m566.7 163.82c0 8.612-119.4 23.566-266.7 23.566s-266.7-14.95-266.7-23.57c0-8.612 119.4-23.771 266.7-23.771s266.7 15.16 266.7 23.77z"
-      fill-rule="evenodd"
-  />
+   stop-color="#314F6E"
+   offset="1"
+   id="stop107" />
+</linearGradient>
+
+
 <linearGradient
-      id="SVGID_11_"
-      y2="248.74"
-      gradientUnits="userSpaceOnUse"
-      x2="580"
-      y1="248.74"
-      x1="20"
-    >
+   id="SVGID_11_"
+   y2="248.74001"
+   gradientUnits="userSpaceOnUse"
+   x2="580"
+   y1="248.74001"
+   x1="20">
 	<stop
-        stop-color="#45392B"
-        offset="0"
-    />
+   stop-color="#45392B"
+   offset="0"
+   id="stop114" />
 	<stop
-        stop-color="#483C2D"
-        offset=".0125"
-    />
+   stop-color="#483C2D"
+   offset=".0125"
+   id="stop116" />
 	<stop
-        stop-color="#6C5E49"
-        offset=".1769"
-    />
+   stop-color="#6C5E49"
+   offset=".1769"
+   id="stop118" />
 	<stop
-        stop-color="#897A5F"
-        offset=".3187"
-    />
+   stop-color="#897A5F"
+   offset=".3187"
+   id="stop120" />
 	<stop
-        stop-color="#9D8D6D"
-        offset=".4311"
-    />
+   stop-color="#9D8D6D"
+   offset=".4311"
+   id="stop122" />
 	<stop
-        stop-color="#A49472"
-        offset=".5"
-    />
+   stop-color="#A49472"
+   offset=".5"
+   id="stop124" />
 	<stop
-        stop-color="#9D8D6D"
-        offset=".5689"
-    />
+   stop-color="#9D8D6D"
+   offset=".5689"
+   id="stop126" />
 	<stop
-        stop-color="#897A5F"
-        offset=".6813"
-    />
+   stop-color="#897A5F"
+   offset=".6813"
+   id="stop128" />
 	<stop
-        stop-color="#6C5E49"
-        offset=".8231"
-    />
+   stop-color="#6C5E49"
+   offset=".8231"
+   id="stop130" />
 	<stop
-        stop-color="#483C2D"
-        offset=".9875"
-    />
+   stop-color="#483C2D"
+   offset=".9875"
+   id="stop132" />
 	<stop
-        stop-color="#45392B"
-        offset="1"
-    />
-</linearGradient
-  >
-<path
-      fill="url(#SVGID_11_)"
-      clip-rule="evenodd"
-      d="m20 235.23c0 10.859 125.36 28.659 280 28.659s280-17.8 280-28.66v-1.636c0 10.861-125.36 28.66-280 28.66s-280-17.79-280-28.65v1.63z"
-      fill-rule="evenodd"
-  />
+   stop-color="#45392B"
+   offset="1"
+   id="stop134" />
+</linearGradient>
+<g
+   id="g964"
+   transform="matrix(0.45714286,0,0,0.45714286,-9.1428572,-62.16)"><path
+     id="path11"
+     d="m 300,483.71 c 68.522,0 137.91,-16.764 140.07,-33.423 2.069,-15.982 13.025,-26.887 32.383,-46.199 43,-42.904 76.05,-128.91 86.3,-154.11 3.312,-8.149 9.093,-5.5 19.316,-16.377 0,11.685 -124.5,30.229 -278.07,30.229 -153.57,0 -278.07,-18.55 -278.07,-30.23 10.224,10.878 16.003,8.229 19.315,16.377 10.25,25.205 43.299,111.21 86.301,154.11 19.355,19.312 30.312,30.217 32.383,46.199 2.16,16.65 71.55,33.42 140.07,33.42 z"
+     inkscape:connector-curvature="0"
+     style="clip-rule:evenodd;fill:url(#SVGID_1_);fill-rule:evenodd" /><path
+     id="path22"
+     d="m 300,483.71 c 68.522,0 137.91,-16.764 140.07,-33.423 2.069,-15.982 13.025,-26.887 32.383,-46.199 43,-42.904 76.05,-128.91 86.3,-154.11 3.312,-8.149 9.093,-5.5 19.316,-16.377 0,11.684 -124.5,30.229 -278.07,30.229 -153.57,0 -278.07,-18.55 -278.07,-30.23 10.224,10.877 16.003,8.228 19.315,16.377 10.25,25.205 43.299,111.21 86.301,154.11 19.355,19.312 30.312,30.217 32.383,46.199 2.16,16.65 71.55,33.42 140.07,33.42 z"
+     inkscape:connector-curvature="0"
+     style="clip-rule:evenodd;fill:url(#SVGID_2_);fill-rule:evenodd" /><path
+     id="path24"
+     d="m 580,163.82 c 0,10.86 -125.36,27.637 -280,27.637 -154.64,0 -280,-16.78 -280,-27.64 0,-10.861 125.36,-27.842 280,-27.842 154.64,0 280,16.98 280,27.84 z"
+     inkscape:connector-curvature="0"
+     style="clip-rule:evenodd;fill:#dbcda8;fill-rule:evenodd" /><path
+     id="path45"
+     d="m 20,234.98 c 0,10.86 125.36,28.659 280,28.659 154.64,0 280,-17.8 280,-28.66 V 163.37 c 0,10.86 -125.36,27.637 -280,27.637 -154.64,0 -280,-16.78 -280,-27.64 v 71.61 z"
+     inkscape:connector-curvature="0"
+     style="clip-rule:evenodd;fill:url(#SVGID_3_);fill-rule:evenodd" /><path
+     id="path56"
+     d="m 156.61,438.57 c 2.159,16.658 74.871,33.421 143.39,33.421 68.519,0 141.23,-16.763 143.39,-33.421 l -3.319,11.992 c -2.159,16.659 -71.548,33.422 -140.07,33.422 -68.522,0 -137.91,-16.763 -140.07,-33.422 l -3.32,-11.99 z"
+     inkscape:connector-curvature="0"
+     style="clip-rule:evenodd;fill:url(#SVGID_4_);fill-rule:evenodd" /><path
+     id="path65"
+     d="m 20,207.89 c 0,10.86 125.36,29.069 280,29.069 154.64,0 280,-18.21 280,-29.07 v -11.407 c 0,10.86 -125.36,28.659 -280,28.659 -154.64,0 -280,-17.79 -280,-28.65 v 11.4 z"
+     inkscape:connector-curvature="0"
+     style="clip-rule:evenodd;fill:url(#SVGID_5_);fill-rule:evenodd" /><path
+     id="path74"
+     d="m 20,189.76 c 0,10.861 125.36,27.842 280,27.842 154.64,0 280,-16.98 280,-27.84 v -5.888 c 0,10.86 -125.36,27.637 -280,27.637 -154.64,0 -280,-16.78 -280,-27.64 v 5.89 z"
+     inkscape:connector-curvature="0"
+     style="clip-rule:evenodd;fill:url(#SVGID_6_);fill-rule:evenodd" /><path
+     id="path83"
+     d="m 20,221.82 c 0,10.86 125.36,28.659 280,28.659 154.64,0 280,-17.8 280,-28.66 v -5.888 c 0,10.86 -125.36,28.455 -280,28.455 -154.64,0 -280,-17.59 -280,-28.45 v 5.89 z"
+     inkscape:connector-curvature="0"
+     style="clip-rule:evenodd;fill:url(#SVGID_7_);fill-rule:evenodd" /><path
+     id="path92"
+     d="m 300,383.96 c -80.667,0 -153.5,-8.132 -204.46,-21.372 l -7.598,-12.606 c 50.255,14.412 127.3,22.365 212.06,22.365 84.754,0 160.24,-7.953 212.06,-22.365 l -7.598,12.606 c -51.69,12.73 -123.79,21.37 -204.46,21.37 z"
+     inkscape:connector-curvature="0"
+     style="clip-rule:evenodd;fill:url(#SVGID_8_);fill-rule:evenodd" /><path
+     id="path101"
+     d="m 300,364.39 c -86.755,0 -165.12,-8.943 -215.65,-20.735 l -3.538,-6.45 c 51.58,11.651 130.42,21.093 219.19,21.093 88.77,0 166.05,-9.441 219.19,-21.093 l -3.539,6.45 c -51.26,11.78 -128.9,20.73 -215.65,20.73 z"
+     inkscape:connector-curvature="0"
+     style="clip-rule:evenodd;fill:url(#SVGID_9_);fill-rule:evenodd" /><path
+     id="path110"
+     d="m 300,398.08 c -75.81,0 -143.39,-5.835 -195,-21.271 l -4.56,-6.654 c 50.207,13.802 121.44,21.834 199.56,21.834 78.122,0 146.96,-9.835 199.56,-21.834 l -4.56,6.654 c -51.61,11.69 -119.19,21.27 -195,21.27"
+     inkscape:connector-curvature="0"
+     style="clip-rule:evenodd;fill:url(#SVGID_10_);fill-rule:evenodd" /><path
+     id="path112"
+     d="m 566.7,163.82 c 0,8.612 -119.4,23.566 -266.7,23.566 -147.3,0 -266.7,-14.95 -266.7,-23.57 0,-8.612 119.4,-23.771 266.7,-23.771 147.3,0 266.7,15.16 266.7,23.77 z"
+     inkscape:connector-curvature="0"
+     style="clip-rule:evenodd;fill:#564b3a;fill-rule:evenodd" /><path
+     id="path137"
+     d="m 20,235.23 c 0,10.859 125.36,28.659 280,28.659 154.64,0 280,-17.8 280,-28.66 v -1.636 c 0,10.861 -125.36,28.66 -280,28.66 -154.64,0 -280,-17.79 -280,-28.65 v 1.63 z"
+     inkscape:connector-curvature="0"
+     style="clip-rule:evenodd;fill:url(#SVGID_11_);fill-rule:evenodd" /></g>
 <metadata
-    ><rdf:RDF
-      ><cc:Work
-        ><dc:format
-          >image/svg+xml</dc:format
-        ><dc:type
-            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
-        /><cc:license
-            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
-        /><dc:publisher
-          ><cc:Agent
-              rdf:about="http://openclipart.org/"
-            ><dc:title
-              >Openclipart</dc:title
-            ></cc:Agent
-          ></dc:publisher
-        ><dc:title
-          >Stone Crockery Bowl</dc:title
-        ><dc:date
-          >2013-07-04T13:16:12</dc:date
-        ><dc:description
-          >This stone crockery bowl is ready for filling with fruit, flowers, or whatever you please including a small shrub or tree.</dc:description
-        ><dc:source
-          >https://openclipart.org/detail/179982/stone-crockery-bowl-by-bnsonger47-179982</dc:source
-        ><dc:creator
-          ><cc:Agent
-            ><dc:title
-              >bnsonger47</dc:title
-            ></cc:Agent
-          ></dc:creator
-        ><dc:subject
-          ><rdf:Bag
-            ><rdf:li
-              >Bowl</rdf:li
-            ><rdf:li
-              >Crockery</rdf:li
-            ><rdf:li
-              >Dish</rdf:li
-            ><rdf:li
-              >Stone</rdf:li
-            ><rdf:li
-              >Tableware</rdf:li
-            ></rdf:Bag
-          ></dc:subject
-        ></cc:Work
-      ><cc:License
-          rdf:about="http://creativecommons.org/licenses/publicdomain/"
-        ><cc:permits
-            rdf:resource="http://creativecommons.org/ns#Reproduction"
-        /><cc:permits
-            rdf:resource="http://creativecommons.org/ns#Distribution"
-        /><cc:permits
-            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
-        /></cc:License
-      ></rdf:RDF
-    ></metadata
-  ></svg
->
+   id="metadata139"><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><cc:license
+         rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" /><dc:publisher><cc:Agent
+           rdf:about="http://openclipart.org/"><dc:title>OpenClipart Library</dc:title></cc:Agent></dc:publisher><dc:title>Stone Crockery Bowl</dc:title><dc:date>2013-07-04T13:16:12</dc:date><dc:description>This stone crockery bowl is ready for filling with fruit, flowers, or whatever you please including a small shrub or tree.</dc:description><dc:source>https://openclipart.org/detail/179982</dc:source><dc:creator><cc:Agent><dc:title>bnsonger47</dc:title></cc:Agent></dc:creator><dc:subject><rdf:Bag><rdf:li>Bowl</rdf:li><rdf:li>Crockery</rdf:li><rdf:li>Dish</rdf:li><rdf:li>Stone</rdf:li><rdf:li>Tableware</rdf:li></rdf:Bag></dc:subject></cc:Work><cc:License
+       rdf:about="http://creativecommons.org/publicdomain/zero/1.0/"><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF></metadata></svg>
