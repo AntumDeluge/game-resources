@@ -1,2 +1,3 @@
 Sources:
 - gold_bar: https://openclipart.org/detail/19182
+- silver_bar https://openclipart.org/detail/190308
