@@ -1,4 +1,8 @@
 Sources:
 - krohnkite: https://openclipart.org/detail/326566
+- ore_adamantite: https://openclipart.org/detail/326978
 - ore_coal: https://openclipart.org/detail/326976
+- ore_gold: https://openclipart.org/detail/326980
 - ore_grayscale: https://openclipart.org/detail/326969
+- ore_mithril: https://openclipart.org/detail/326977
+- ore_silver: https://openclipart.org/detail/326981
