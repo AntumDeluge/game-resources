@@ -1,3 +1,4 @@
 Sources:
 - krohnkite: https://openclipart.org/detail/326566
+- ore_coal: https://openclipart.org/detail/326976
 - ore_grayscale: https://openclipart.org/detail/326969
