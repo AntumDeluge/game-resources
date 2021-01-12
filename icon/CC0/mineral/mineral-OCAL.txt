@@ -1,0 +1,2 @@
+Sources:
+- ore_grayscale: https://openclipart.org/detail/326969
