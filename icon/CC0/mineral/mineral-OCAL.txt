@@ -1,2 +1,3 @@
 Sources:
+- krohnkite: https://openclipart.org/detail/326566
 - ore_grayscale: https://openclipart.org/detail/326969
