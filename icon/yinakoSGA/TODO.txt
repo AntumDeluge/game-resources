@@ -1,4 +1,0 @@
-
-TODO:
-- remove background
-- scale down to 32x32
