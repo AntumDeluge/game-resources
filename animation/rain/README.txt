@@ -1,6 +1,6 @@
 Description:
-  Tileable rain animations created for Stendhal. Motion blur
-  & coloring effects added by Kimmo Rundelin.
+  Tileable rain animations created for Stendhal. Motion blur, coloring
+  effects, & light/heavy versions added by Kimmo Rundelin.
 
 Licensing:
   - OpenGameArt.org Attribution (OGA BY) 3.0 or newer
