@@ -14,5 +14,7 @@
 </table>
 
 
-By [Kelvin Shadewing](https://opengameart.org/users/kelvin-shadewing):
+[OpenGameArt.org submission](https://opengameart.org/node/139341)
+
+By [Kelvin Shadewing](https://opengameart.org/users/kelvin-shadewing) ([kelvinshadewing.net](http://kelvinshadewing.net/)):
 - [Overhead Pony Template](https://opengameart.org/node/85883) (CC BY-SA 4.0 / GPL 3.0)
