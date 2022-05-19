@@ -1,4 +1,18 @@
 ### Baby Horse Remix Sprites Sources
 
+<table style="border: 0px;">
+  <tr style="border: 0px;">
+    <td style="border: 0px; vertical-align: top; text-align: center;">
+      ![Static Preview](preview.png)
+    </td>
+    </tr>
+    <tr style="border: 0px;">
+    <td style="border: 0px; vertical-align: top; text-align: center;">
+      ![Animated Preview](preview.gif)
+    </td>
+  </tr>
+</table>
+
+
 By [Kelvin Shadewing](https://opengameart.org/users/kelvin-shadewing):
 - [Overhead Pony Template](https://opengameart.org/node/85883) (CC BY-SA 4.0 / GPL 3.0)
