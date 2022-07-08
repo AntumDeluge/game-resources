@@ -8,4 +8,5 @@ Licensing:
 - Creative Commons Attribution (CC BY) version 3.0 or newer
 
 Links:
-- https://stendhalgame.org/
+- OGA submission: https://opengameart.org/node/140789
+- Stendhal: https://stendhalgame.org/
