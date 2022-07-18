@@ -1,1 +1,0 @@
-- Clean up 96x128 scaled version.
