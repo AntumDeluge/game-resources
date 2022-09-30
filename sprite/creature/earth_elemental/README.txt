@@ -11,6 +11,6 @@ Copyright/Attribution:
   Jordan Irwin (AntumDeluge)
 
 Links:
-- OGA Submission:
+- OGA Submission: https://opengameart.org/node/142988
 - Stendhal:       https://stendhalgame.org/
 - Original:       https://opengameart.org/node/3393
