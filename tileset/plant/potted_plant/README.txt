@@ -21,3 +21,4 @@ Notes:
 
 Links:
 - Stendhal: https://stendhalgame.org/
+- OGA submission: https://opengameart.org/node/147540
