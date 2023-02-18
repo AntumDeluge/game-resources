@@ -1,8 +1,8 @@
 
-Animated Daisies Tileset
+Daisies
 
 Description:
-  Animated daisies drawn for Stendhal.
+  Simple animated daisies tilesets drawn for Stendhal.
 
 Licensing:
 - OpenGameArg.org Attribution (OGA BY) version 3.0 or newer
@@ -10,3 +10,4 @@ Licensing:
 
 Links:
 - Stendhal: https://stendhalgame.org/
+- OGA submission: https://opengameart.org/node/147534
