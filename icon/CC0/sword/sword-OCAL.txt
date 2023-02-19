@@ -1,9 +1,11 @@
+
 Sources:
 - long_sword_01: https://openclipart.org/detail/22181
 - medieval_sword_01: https://openclipart.org/detail/169233
 - gladius_01: https://openclipart.org/detail/23530
 - gladius_02: https://openclipart.org/detail/230853
 - scimitar_01: https://openclipart.org/detail/4292
+- scimitar_02: https://openclipart.org/detail/170823
 - tanto_01: https://openclipart.org/detail/139051
 - heavy_sword_01: https://openclipart.org/detail/193923
 - muramasa_01: https://openclipart.org/detail/139081
