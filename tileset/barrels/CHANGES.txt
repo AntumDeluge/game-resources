@@ -1,3 +1,7 @@
+
+2023-02-19:
+- added barrel with snow
+
 1.0:
 - Reworked barrels from Mage City Arcanos tileset by Hyptosis.
 - Reworked barrels to create short barrles.
