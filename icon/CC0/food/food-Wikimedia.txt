@@ -1,1 +1,6 @@
-Source: https://commons.wikimedia.org/wiki/File:Habanero%27s_%2B_Jalape%C3%B1o%27s.JPG
+
+pepper_habanero & pepper_jalapeno:
+- https://commons.wikimedia.org/wiki/File:Habanero%27s_%2B_Jalape%C3%B1o%27s.JPG
+
+potato:
+- https://commons.wikimedia.org/wiki/File:Potatoes.jpg
