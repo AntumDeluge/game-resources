@@ -1,3 +1,4 @@
+
 - compass_01: https://openclipart.org/detail/301393
 - compass_02: https://openclipart.org/detail/171173
 - compass_03: https://openclipart.org/detail/95083
@@ -13,3 +14,4 @@
 - tape_measure_04: https://openclipart.org/detail/325712
 - toolbox_01: https://openclipart.org/detail/95239
 - toolbox_02: https://openclipart.org/detail/95359
+- wiresnips: https://openclipart.org/detail/216787
