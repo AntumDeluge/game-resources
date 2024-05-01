@@ -1,3 +1,7 @@
+
+1.1
+- created alternate style
+
 1.0
-- Created defense (def) ring.
-- Created attack (atk) ring.
+- created defense (def) ring
+- created attack (atk) ring
