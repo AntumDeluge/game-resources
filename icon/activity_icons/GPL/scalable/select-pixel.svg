@@ -1,0 +1,1574 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="24"
+   version="1.1"
+   width="24"
+   id="svg208"
+   sodipodi:docname="select-pixel.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title208">Pixel Select Icon</title>
+  <sodipodi:namedview
+     id="namedview208"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="18.822222"
+     inkscape:cx="7.5708383"
+     inkscape:cy="12.086777"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g211"
+     showgrid="true">
+    <inkscape:grid
+       id="grid211"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#3f3fff"
+       empopacity="0.25098039"
+       color="#3f3fff"
+       opacity="0.1254902"
+       empspacing="24"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     id="g211"
+     transform="matrix(0.025,0,0,0.025,4,3)"
+     inkscape:label="hand">
+    <g
+       id="g210"
+       inkscape:label="fill">
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="160"
+         y="80"
+         id="rect8" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="200"
+         y="80"
+         id="rect9" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="160"
+         y="120"
+         id="rect12" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="200"
+         y="120"
+         id="rect13" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="160"
+         y="160"
+         id="rect16" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="200"
+         y="160"
+         id="rect17" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="160"
+         y="200"
+         id="rect22" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="200"
+         y="200"
+         id="rect23" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="160"
+         y="240"
+         id="rect31" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="200"
+         y="240"
+         id="rect32" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="280"
+         y="240"
+         id="rect34" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="320"
+         y="240"
+         id="rect35" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="160"
+         y="280"
+         id="rect41" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="200"
+         y="280"
+         id="rect42" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="280"
+         y="280"
+         id="rect44" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="320"
+         y="280"
+         id="rect45" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="400"
+         y="280"
+         id="rect47" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="440"
+         y="280"
+         id="rect48" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="160"
+         y="320"
+         id="rect55" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="200"
+         y="320"
+         id="rect56" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="280"
+         y="320"
+         id="rect58" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="320"
+         y="320"
+         id="rect59" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="400"
+         y="320"
+         id="rect61" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="440"
+         y="320"
+         id="rect62" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="160"
+         y="360"
+         id="rect71" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="200"
+         y="360"
+         id="rect72" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="280"
+         y="360"
+         id="rect74" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="320"
+         y="360"
+         id="rect75" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="400"
+         y="360"
+         id="rect77" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="440"
+         y="360"
+         id="rect78" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="520"
+         y="360"
+         id="rect80" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="560"
+         y="360"
+         id="rect81" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="40"
+         y="400"
+         id="rect84" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="80"
+         y="400"
+         id="rect85" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="160"
+         y="400"
+         id="rect87" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="200"
+         y="400"
+         id="rect88" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="240"
+         y="400"
+         id="rect89" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="280"
+         y="400"
+         id="rect90" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="320"
+         y="400"
+         id="rect91" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="360"
+         y="400"
+         id="rect92" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="400"
+         y="400"
+         id="rect93" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="440"
+         y="400"
+         id="rect94" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="520"
+         y="400"
+         id="rect96" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="560"
+         y="400"
+         id="rect97" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="40"
+         y="440"
+         id="rect100" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="80"
+         y="440"
+         id="rect101" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="160"
+         y="440"
+         id="rect103" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="200"
+         y="440"
+         id="rect104" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="240"
+         y="440"
+         id="rect105" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="280"
+         y="440"
+         id="rect106" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="320"
+         y="440"
+         id="rect107" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="360"
+         y="440"
+         id="rect108" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="400"
+         y="440"
+         id="rect109" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="440"
+         y="440"
+         id="rect110" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="480"
+         y="440"
+         id="rect111" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="520"
+         y="440"
+         id="rect112" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="560"
+         y="440"
+         id="rect113" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="40"
+         y="480"
+         id="rect116" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="80"
+         y="480"
+         id="rect117" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="160"
+         y="480"
+         id="rect119" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="200"
+         y="480"
+         id="rect120" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="240"
+         y="480"
+         id="rect121" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="280"
+         y="480"
+         id="rect122" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="320"
+         y="480"
+         id="rect123" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="360"
+         y="480"
+         id="rect124" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="400"
+         y="480"
+         id="rect125" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="440"
+         y="480"
+         id="rect126" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="480"
+         y="480"
+         id="rect127" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="520"
+         y="480"
+         id="rect128" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="560"
+         y="480"
+         id="rect129" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="40"
+         y="520"
+         id="rect132" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="80"
+         y="520"
+         id="rect133" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="120"
+         y="520"
+         id="rect134" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="160"
+         y="520"
+         id="rect135" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="200"
+         y="520"
+         id="rect136" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="240"
+         y="520"
+         id="rect137" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="280"
+         y="520"
+         id="rect138" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="320"
+         y="520"
+         id="rect139" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="360"
+         y="520"
+         id="rect140" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="400"
+         y="520"
+         id="rect141" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="440"
+         y="520"
+         id="rect142" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="480"
+         y="520"
+         id="rect143" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="520"
+         y="520"
+         id="rect144" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="560"
+         y="520"
+         id="rect145" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="40"
+         y="560"
+         id="rect148" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="80"
+         y="560"
+         id="rect149" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="120"
+         y="560"
+         id="rect150" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="160"
+         y="560"
+         id="rect151" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="200"
+         y="560"
+         id="rect152" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="240"
+         y="560"
+         id="rect153" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="280"
+         y="560"
+         id="rect154" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="320"
+         y="560"
+         id="rect155" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="360"
+         y="560"
+         id="rect156" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="400"
+         y="560"
+         id="rect157" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="440"
+         y="560"
+         id="rect158" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="480"
+         y="560"
+         id="rect159" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="520"
+         y="560"
+         id="rect160" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="560"
+         y="560"
+         id="rect161" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="40"
+         y="600"
+         id="rect164" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="80"
+         y="600"
+         id="rect165" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="120"
+         y="600"
+         id="rect166" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="160"
+         y="600"
+         id="rect167" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="200"
+         y="600"
+         id="rect168" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="240"
+         y="600"
+         id="rect169" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="280"
+         y="600"
+         id="rect170" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="320"
+         y="600"
+         id="rect171" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="360"
+         y="600"
+         id="rect172" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="400"
+         y="600"
+         id="rect173" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="440"
+         y="600"
+         id="rect174" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="480"
+         y="600"
+         id="rect175" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="520"
+         y="600"
+         id="rect176" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="560"
+         y="600"
+         id="rect177" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="80"
+         y="640"
+         id="rect181" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="120"
+         y="640"
+         id="rect182" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="160"
+         y="640"
+         id="rect183" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="200"
+         y="640"
+         id="rect184" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="240"
+         y="640"
+         id="rect185" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="280"
+         y="640"
+         id="rect186" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="320"
+         y="640"
+         id="rect187" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="360"
+         y="640"
+         id="rect188" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="400"
+         y="640"
+         id="rect189" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="440"
+         y="640"
+         id="rect190" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="480"
+         y="640"
+         id="rect191" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         width="40"
+         x="520"
+         y="640"
+         id="rect192" />
+    </g>
+    <g
+       id="g209"
+       inkscape:label="shading">
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="160"
+         y="40"
+         id="rect4" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="200"
+         y="40"
+         id="rect5" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="280"
+         y="200"
+         id="rect25" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="320"
+         y="200"
+         id="rect26" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="400"
+         y="240"
+         id="rect37" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="440"
+         y="240"
+         id="rect38" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="520"
+         y="320"
+         id="rect64" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="560"
+         y="320"
+         id="rect65" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="40"
+         y="360"
+         id="rect68" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="80"
+         y="360"
+         id="rect69" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="40"
+         y="640"
+         id="rect180" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="560"
+         y="640"
+         id="rect193" />
+    </g>
+    <g
+       id="g208"
+       inkscape:label="outline">
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="160"
+         y="0"
+         id="rect1" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="200"
+         y="0"
+         id="rect2" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="120"
+         y="40"
+         id="rect3" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="240"
+         y="40"
+         id="rect6" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="120"
+         y="80"
+         id="rect7" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="240"
+         y="80"
+         id="rect10" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="120"
+         y="120"
+         id="rect11" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="240"
+         y="120"
+         id="rect14" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="120"
+         y="160"
+         id="rect15" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="240"
+         y="160"
+         id="rect18" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="280"
+         y="160"
+         id="rect19" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="320"
+         y="160"
+         id="rect20" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="120"
+         y="200"
+         id="rect21" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="240"
+         y="200"
+         id="rect24" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="360"
+         y="200"
+         id="rect27" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="400"
+         y="200"
+         id="rect28" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="440"
+         y="200"
+         id="rect29" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="120"
+         y="240"
+         id="rect30" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="240"
+         y="240"
+         id="rect33" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="360"
+         y="240"
+         id="rect36" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="480"
+         y="240"
+         id="rect39" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="120"
+         y="280"
+         id="rect40" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="240"
+         y="280"
+         id="rect43" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="360"
+         y="280"
+         id="rect46" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="480"
+         y="280"
+         id="rect49" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="520"
+         y="280"
+         id="rect50" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="560"
+         y="280"
+         id="rect51" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="40"
+         y="320"
+         id="rect52" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="80"
+         y="320"
+         id="rect53" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="120"
+         y="320"
+         id="rect54" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="240"
+         y="320"
+         id="rect57" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="360"
+         y="320"
+         id="rect60" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="480"
+         y="320"
+         id="rect63" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="600"
+         y="320"
+         id="rect66" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="0"
+         y="360"
+         id="rect67" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="120"
+         y="360"
+         id="rect70" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="240"
+         y="360"
+         id="rect73" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="360"
+         y="360"
+         id="rect76" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="480"
+         y="360"
+         id="rect79" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="600"
+         y="360"
+         id="rect82" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="0"
+         y="400"
+         id="rect83" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="120"
+         y="400"
+         id="rect86" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="480"
+         y="400"
+         id="rect95" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="600"
+         y="400"
+         id="rect98" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="0"
+         y="440"
+         id="rect99" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="120"
+         y="440"
+         id="rect102" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="600"
+         y="440"
+         id="rect114" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="0"
+         y="480"
+         id="rect115" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="120"
+         y="480"
+         id="rect118" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="600"
+         y="480"
+         id="rect130" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="0"
+         y="520"
+         id="rect131" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="600"
+         y="520"
+         id="rect146" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="0"
+         y="560"
+         id="rect147" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="600"
+         y="560"
+         id="rect162" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="0"
+         y="600"
+         id="rect163" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="600"
+         y="600"
+         id="rect178" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="0"
+         y="640"
+         id="rect179" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="600"
+         y="640"
+         id="rect194" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="40"
+         y="680"
+         id="rect195" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="80"
+         y="680"
+         id="rect196" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="120"
+         y="680"
+         id="rect197" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="160"
+         y="680"
+         id="rect198" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="200"
+         y="680"
+         id="rect199" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="240"
+         y="680"
+         id="rect200" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="280"
+         y="680"
+         id="rect201" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="320"
+         y="680"
+         id="rect202" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="360"
+         y="680"
+         id="rect203" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="400"
+         y="680"
+         id="rect204" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="440"
+         y="680"
+         id="rect205" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="480"
+         y="680"
+         id="rect206" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="520"
+         y="680"
+         id="rect207" />
+      <rect
+         fill="#000000"
+         height="40"
+         width="40"
+         x="560"
+         y="680"
+         id="rect208" />
+    </g>
+  </g>
+  <metadata
+     id="metadata208">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Pixel Select Icon</dc:title>
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.html" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>zoli111</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>GitLab</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:source>https://gitlab.com/cursors/simp1e/</dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>menu</rdf:li>
+            <rdf:li>button</rdf:li>
+            <rdf:li>cursor</rdf:li>
+            <rdf:li>mouse</rdf:li>
+            <rdf:li>hand</rdf:li>
+            <rdf:li>point</rdf:li>
+            <rdf:li>highlight</rdf:li>
+            <rdf:li>select</rdf:li>
+            <rdf:li>zoli111</rdf:li>
+            <rdf:li>pixel</rdf:li>
+            <rdf:li>pixelized</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:date>2024-01-19</dc:date>
+        <dc:description>A simple pixelized select icon.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Jordan Irwin (AntumDeluge)</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

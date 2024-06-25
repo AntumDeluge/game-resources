@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="pickup.svg"
+   inkscape:export-filename="../normal.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">Pick Up Icon</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="true"
+     gridtolerance="10000"
+     inkscape:current-layer="svg5"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="false"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-others="false"
+     showguides="false"
+     inkscape:zoom="10.78465"
+     inkscape:cx="-8.1133833"
+     inkscape:cy="3.7553374"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <path
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccccccccc"
+     id="cursor"
+     d="m 4.5,13 v 5.5 c 0,1 1,2 2,2 h 11 c 1,0 2,-1 2,-2 V 12 c 0,-2 -3,-2 -3,0 V 13.5 10 c 0,-2 -3,-2 -3,0 V 12.5 9 c 0,-2 -3,-2 -3,0 V 12.5 10 c 0,-2 -3,-2 -3,0 V 15.5 13 c 0,-2 -3,-2 -3,0 z"
+     style="color:#000000;display:inline;fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.6736"
+     inkscape:label="hand"
+     sodipodi:insensitive="true" />
+  <metadata
+     id="metadata2661">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.html" />
+        <dc:title>Pick Up Icon</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>zoli111</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>GitLab</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>menu</rdf:li>
+            <rdf:li>button</rdf:li>
+            <rdf:li>cursor</rdf:li>
+            <rdf:li>mouse</rdf:li>
+            <rdf:li>hand</rdf:li>
+            <rdf:li>select</rdf:li>
+            <rdf:li>grab</rdf:li>
+            <rdf:li>pick up</rdf:li>
+            <rdf:li>pickup</rdf:li>
+            <rdf:li>zoli111</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:source>https://gitlab.com/cursors/simp1e/</dc:source>
+        <dc:description>A simple pick up icon.</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

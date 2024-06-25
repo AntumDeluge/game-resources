@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="24"
+   version="1.1"
+   width="24"
+   id="svg83"
+   sodipodi:docname="magic-pixel.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title83">Pixel Magic Icon</title>
+  <sodipodi:namedview
+     id="namedview83"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.60883"
+     inkscape:cx="0.43620225"
+     inkscape:cy="18.836006"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg83"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#3f3fff"
+       empopacity="0.25098039"
+       color="#3f3fff"
+       opacity="0.1254902"
+       empspacing="24"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     id="g86"
+     inkscape:label="wand"
+     transform="matrix(0.025,0,0,0.025,2,3)">
+    <g
+       id="g85"
+       inkscape:label="fill">
+      <rect
+         fill="#ffffff"
+         height="40"
+         opacity="0.968627"
+         width="40"
+         x="640"
+         y="80"
+         id="rect7" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         opacity="0.968627"
+         width="40"
+         x="600"
+         y="120"
+         id="rect12" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         opacity="0.968627"
+         width="40"
+         x="120"
+         y="600"
+         id="rect72" />
+      <rect
+         fill="#ffffff"
+         height="40"
+         opacity="0.968627"
+         width="40"
+         x="80"
+         y="640"
+         id="rect77" />
+    </g>
+    <g
+       id="g84"
+       inkscape:label="shading">
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="640"
+         y="40"
+         id="rect3" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="600"
+         y="80"
+         id="rect6" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="680"
+         y="80"
+         id="rect8" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="560"
+         y="120"
+         id="rect11" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="640"
+         y="120"
+         id="rect13" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="600"
+         y="160"
+         id="rect18" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="440"
+         y="240"
+         id="rect26" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="400"
+         y="280"
+         id="rect31" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="360"
+         y="320"
+         id="rect36" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="120"
+         y="560"
+         id="rect66" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="80"
+         y="600"
+         id="rect71" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="160"
+         y="600"
+         id="rect73" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="40"
+         y="640"
+         id="rect76" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="120"
+         y="640"
+         id="rect78" />
+      <rect
+         fill="#bbbeba"
+         height="40"
+         width="40"
+         x="80"
+         y="680"
+         id="rect81" />
+    </g>
+    <g
+       id="g83"
+       inkscape:label="outline">
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="640"
+         y="0"
+         id="rect1" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="600"
+         y="40"
+         id="rect2" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="680"
+         y="40"
+         id="rect4" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="560"
+         y="80"
+         id="rect5" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="720"
+         y="80"
+         id="rect9" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="520"
+         y="120"
+         id="rect10" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="680"
+         y="120"
+         id="rect14" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="480"
+         y="160"
+         id="rect15" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="520"
+         y="160"
+         id="rect16" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="560"
+         y="160"
+         id="rect17" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="640"
+         y="160"
+         id="rect19" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="440"
+         y="200"
+         id="rect20" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="480"
+         y="200"
+         id="rect21" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="520"
+         y="200"
+         id="rect22" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="560"
+         y="200"
+         id="rect23" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="600"
+         y="200"
+         id="rect24" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="400"
+         y="240"
+         id="rect25" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="480"
+         y="240"
+         id="rect27" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="520"
+         y="240"
+         id="rect28" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="560"
+         y="240"
+         id="rect29" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="360"
+         y="280"
+         id="rect30" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="440"
+         y="280"
+         id="rect32" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="480"
+         y="280"
+         id="rect33" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="520"
+         y="280"
+         id="rect34" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="320"
+         y="320"
+         id="rect35" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="400"
+         y="320"
+         id="rect37" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="440"
+         y="320"
+         id="rect38" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="480"
+         y="320"
+         id="rect39" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="280"
+         y="360"
+         id="rect40" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="320"
+         y="360"
+         id="rect41" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="360"
+         y="360"
+         id="rect42" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="400"
+         y="360"
+         id="rect43" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="440"
+         y="360"
+         id="rect44" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="240"
+         y="400"
+         id="rect45" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="280"
+         y="400"
+         id="rect46" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="320"
+         y="400"
+         id="rect47" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="360"
+         y="400"
+         id="rect48" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="400"
+         y="400"
+         id="rect49" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="200"
+         y="440"
+         id="rect50" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="240"
+         y="440"
+         id="rect51" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="280"
+         y="440"
+         id="rect52" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="320"
+         y="440"
+         id="rect53" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="360"
+         y="440"
+         id="rect54" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="160"
+         y="480"
+         id="rect55" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="200"
+         y="480"
+         id="rect56" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="240"
+         y="480"
+         id="rect57" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="280"
+         y="480"
+         id="rect58" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="320"
+         y="480"
+         id="rect59" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="120"
+         y="520"
+         id="rect60" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="160"
+         y="520"
+         id="rect61" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="200"
+         y="520"
+         id="rect62" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="240"
+         y="520"
+         id="rect63" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="280"
+         y="520"
+         id="rect64" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="80"
+         y="560"
+         id="rect65" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="160"
+         y="560"
+         id="rect67" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="200"
+         y="560"
+         id="rect68" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="240"
+         y="560"
+         id="rect69" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="40"
+         y="600"
+         id="rect70" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="200"
+         y="600"
+         id="rect74" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="0"
+         y="640"
+         id="rect75" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="160"
+         y="640"
+         id="rect79" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="40"
+         y="680"
+         id="rect80" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="120"
+         y="680"
+         id="rect82" />
+      <rect
+         fill="#000000"
+         height="40"
+         opacity="0.933333"
+         width="40"
+         x="80"
+         y="720"
+         id="rect83" />
+    </g>
+  </g>
+  <metadata
+     id="metadata83">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Pixel Magic Icon</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jordan Irwin (AntumDeluge)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Stendhal Game</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>menu</rdf:li>
+            <rdf:li>button</rdf:li>
+            <rdf:li>cursor</rdf:li>
+            <rdf:li>Stendhal</rdf:li>
+            <rdf:li>magic</rdf:li>
+            <rdf:li>wand</rdf:li>
+            <rdf:li>pixel</rdf:li>
+            <rdf:li>pixelized</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:date>2022-01-11</dc:date>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:description>A simple pixelized magic icon.</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="24"
+   version="1.1"
+   width="24"
+   id="svg128"
+   sodipodi:docname="activity.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title131">Activity Icon</title>
+  <sodipodi:namedview
+     id="namedview128"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="52.123077"
+     inkscape:cx="10.331316"
+     inkscape:cy="13.094008"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg128"
+     showgrid="true" />
+  <defs
+     id="defs1" />
+  <g
+     id="g131"
+     inkscape:label="cog"
+     transform="matrix(0.025,0,0,0.025,5.5,5.5)"
+     style="display:inline">
+    <path
+       id="path9"
+       style="display:inline;fill:#ffffff"
+       inkscape:label="fill"
+       d="m 140,0 -20,20 v 60 h -20 l -20,20 v 20 H 20 L 0,140 v 80 l 20,20 h 20 v 40 H 20 L 0,300 v 80 l 20,20 h 60 v 20 l 20,20 h 20 v 60 l 20,20 h 80 l 20,-20 v -20 h 40 v 20 l 20,20 h 80 l 20,-20 v -60 h 20 l 20,-20 v -20 h 60 l 20,-20 v -80 l -20,-20 h -20 v -40 h 20 l 20,-20 V 140 L 500,120 H 440 V 100 L 420,80 H 400 V 20 L 380,0 H 300 L 280,20 V 40 H 240 V 20 L 220,0 Z m 100,200 h 40 v 20 l 20,20 h 20 v 40 h -20 l -20,20 v 20 h -40 v -20 l -20,-20 h -20 v -40 h 20 l 20,-20 z" />
+    <path
+       id="path13"
+       style="display:inline;fill:#bbbeba;fill-opacity:1;stroke-width:0.923077"
+       inkscape:label="shading"
+       d="M 130.76923,38.461538 V 93.846154 H 112.30769 L 93.846154,112.30769 v 18.46154 H 38.461538 L 20,149.23077 v 73.84615 l 18.461538,18.46154 h 18.461539 v 36.92308 H 38.461538 L 20,296.92308 v 73.84615 l 18.461538,18.46154 h 55.384616 v 18.46154 l 18.461536,18.46154 h 18.46154 v 55.38461 L 149.23077,500 h 73.84615 l 18.46154,-18.46154 v -18.46154 h 36.92308 v 18.46154 L 296.92308,500 h 73.84615 l 18.46154,-18.46154 v -55.38461 h 18.46154 l 18.46154,-18.46154 v -18.46154 h 55.38461 L 500,370.76923 v -73.84615 l -18.46154,-18.46154 h -18.46154 v -36.92308 h 18.46154 L 500,223.07692 V 149.23077 L 481.53846,130.76923 H 426.15385 V 112.30769 L 407.69231,93.846154 H 389.23077 V 38.461538 L 370.76923,20 H 296.92308 L 278.46154,38.461538 V 56.923077 H 241.53846 V 38.461538 L 223.07692,20 h -73.84615 z m 36.92308,18.461539 h 36.92307 v 18.461538 l 18.46154,18.461539 h 73.84616 L 315.38462,75.384615 V 56.923077 h 36.92307 v 55.384613 l 18.46154,18.46154 h 18.46154 v 18.46154 l 18.46154,18.46154 h 55.38461 v 36.92307 h -18.46154 l -18.46153,18.46154 v 73.84616 l 18.46153,18.46154 h 18.46154 v 36.92307 h -55.38461 l -18.46154,18.46154 v 18.46154 h -18.46154 l -18.46154,18.46154 v 55.38461 h -36.92307 v -18.46154 l -18.46154,-18.46153 h -73.84616 l -18.46154,18.46153 v 18.46154 H 167.69231 V 407.69231 L 149.23077,389.23077 H 130.76923 V 370.76923 L 112.30769,352.30769 H 56.923077 V 315.38462 H 75.384615 L 93.846154,296.92308 V 223.07692 L 75.384615,204.61538 H 56.923077 v -36.92307 h 55.384613 l 18.46154,-18.46154 v -18.46154 h 18.46154 l 18.46154,-18.46154 z M 240,200 v 10 h 40 v -10 z m -40,40 v 40 h 10 v -40 z m 110,0 v 40 h 10 v -40 z m -70,70 v 10 h 40 v -10 z" />
+    <path
+       id="rect128"
+       d="m 120,20 v 60 h -20 l -20,20 v 20 H 20 L 0,140 v 80 l 20,20 h 20 v 40 H 20 L 0,300 v 80 l 20,20 h 60 v 20 l 20,20 h 20 v 60 l 20,20 h 80 l 20,-20 v -20 h 40 v 20 l 20,20 h 80 l 20,-20 v -60 h 20 l 20,-20 v -20 h 60 l 20,-20 v -80 l -20,-20 h -20 v -40 h 20 l 20,-20 V 140 L 500,120 H 440 V 100 L 420,80 H 400 V 20 L 380,0 H 300 L 280,20 V 40 H 240 V 20 L 220,0 h -80 z m 40,20 h 40 v 20 l 20,20 h 80 L 320,60 V 40 h 40 v 60 l 20,20 h 20 v 20 l 20,20 h 60 v 40 h -20 l -20,20 v 80 l 20,20 h 20 v 40 h -60 l -20,20 v 20 h -20 l -20,20 v 60 h -40 v -20 l -20,-20 h -80 l -20,20 v 20 H 160 V 420 L 140,400 H 120 V 380 L 100,360 H 40 V 320 H 60 L 80,300 V 220 L 60,200 H 40 v -40 h 60 l 20,-20 v -20 h 20 l 20,-20 z m 60,120 -20,20 v 20 h -20 l -20,20 v 80 l 20,20 h 20 v 20 l 20,20 h 80 l 20,-20 v -20 h 20 l 20,-20 v -80 l -20,-20 h -20 v -20 l -20,-20 z m 20,40 h 40 v 20 l 20,20 h 20 v 40 h -20 l -20,20 v 20 h -40 v -20 l -20,-20 h -20 v -40 h 20 l 20,-20 z"
+       inkscape:label="outline"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+       style="display:inline" />
+  </g>
+  <metadata
+     id="metadata131">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Hendrik Brummermann</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Jordan Irwin (AntumDeluge)</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/old-licenses/gpl-2.0.html" />
+        <dc:title>Activity Icon</dc:title>
+        <dc:description>A simple activity icon.</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>menu</rdf:li>
+            <rdf:li>button</rdf:li>
+            <rdf:li>cursor</rdf:li>
+            <rdf:li>Stendhal</rdf:li>
+            <rdf:li>cog</rdf:li>
+            <rdf:li>gear</rdf:li>
+            <rdf:li>settings</rdf:li>
+            <rdf:li>activity</rdf:li>
+            <rdf:li>action</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Stendhal Game</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:date>2010-10-30</dc:date>
+        <dc:source>https://github.com/arianne/stendhal/blob/b380ac338b68999566ba6b1792e24d159457b775/data/sprites/cursor/activity.png</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="24"
+   version="1.1"
+   width="24"
+   id="svg104"
+   sodipodi:docname="attack.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title104">Attack Icon</title>
+  <sodipodi:namedview
+     id="namedview104"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8"
+     inkscape:cx="-15.6875"
+     inkscape:cy="16.5625"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg104" />
+  <defs
+     id="defs1" />
+  <g
+     id="g107"
+     inkscape:label="sword"
+     transform="matrix(0.025,0,0,0.025,2.5,2.5)"
+     style="display:inline">
+    <path
+       id="path3"
+       style="display:inline;fill:#ffffff"
+       d="M 660,0 C 526.66667,133.33333 393.33333,266.66667 260,400 c -6.66667,0 -13.33333,0 -20,0 -26.66667,-26.66667 -53.33333,-53.33333 -80,-80 -13.33333,0 -26.66667,0 -40,0 -13.33333,13.33333 -26.666667,26.66667 -40,40 0,13.33333 0,26.66667 0,40 33.33333,33.33333 66.66667,66.66667 100,100 -60,60 -120,120 -180,180 0,6.66667 0,13.33333 0,20 20,20 40,40 60,60 6.666667,0 13.333333,0 20,0 60,-60 120,-120 180,-180 33.33333,33.33333 66.66667,66.66667 100,100 13.33333,0 26.66667,0 40,0 13.33333,-13.33333 26.66667,-26.66667 40,-40 0,-13.33333 0,-26.66667 0,-40 -26.66667,-26.66667 -53.33333,-53.33333 -80,-80 0,-6.66667 0,-13.33333 0,-20 C 493.33333,366.66667 626.66667,233.33333 760,100 760,66.666667 760,33.333333 760,0 726.66667,0 693.33333,0 660,0 Z"
+       inkscape:label="fill" />
+    <path
+       id="rect94"
+       style="display:inline;fill:#bbbeba"
+       inkscape:label="shading"
+       d="M 680,80 320,440 v 40 L 720,80 Z m -550,290 -10,10 100,100 v 60 h 60 L 380,640 390,630 290,530 V 470 H 230 Z M 160,560 40,680 c 6.666667,6.66667 13.333333,13.33333 20,20 L 180,580 Z"
+       sodipodi:nodetypes="ccccccccccccccccccccc" />
+    <path
+       id="rect104"
+       style="display:inline"
+       inkscape:label="outline"
+       d="M 660,0 260,400 h -20 l -80,-80 h -40 l -40,40 v 40 L 180,500 0,680 v 20 l 60,60 H 80 L 260,580 360,680 h 40 l 40,-40 V 600 L 360,520 V 500 L 760,100 V 0 Z m 20,40 h 40 V 80 L 320,480 v 60 l 80,80 -20,20 -100,-100 h -60 v -60 l -100,-100 20,-20 80,80 h 60 z M 160,560 180,580 60,700 40,680 Z"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccc" />
+  </g>
+  <metadata
+     id="metadata104">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>menu</rdf:li>
+            <rdf:li>button</rdf:li>
+            <rdf:li>cursor</rdf:li>
+            <rdf:li>Stendhal</rdf:li>
+            <rdf:li>attack</rdf:li>
+            <rdf:li>weapon</rdf:li>
+            <rdf:li>sword</rdf:li>
+            <rdf:li>blade</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>A simple attack icon.</dc:description>
+        <dc:title>Attack Icon</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jordan Irwin (AntumDeluge)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Stendhal Game</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:date>2021-12-23</dc:date>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

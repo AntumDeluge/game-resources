@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="inspect.svg"
+   inkscape:export-filename="look.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">Inspect Icon</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="true"
+     gridtolerance="10000"
+     inkscape:current-layer="svg5"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="false"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-others="false"
+     showguides="false"
+     inkscape:zoom="15.251798"
+     inkscape:cx="8.5563681"
+     inkscape:cy="5.2125001"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <g
+     id="cursor_look"
+     transform="matrix(-0.99577241,0,0,0.99577241,236.08678,-363.44419)"
+     style="stroke-miterlimit:4.6736;enable-background:new"
+     inkscape:label="magnifying_glass">
+    <path
+       style="color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+       d="m 230,385 -4.5,-4.5 3,-3 4.5,4.5 c 0.5,0.5 1,2 0,3 -1,1 -2.5,0.5 -3,0 z"
+       id="path5789-36-5-2-3-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="handle" />
+    <path
+       id="path824-9"
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.00023;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 9.5,2.5 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -7,-7 z m 0,2.3339844 A 4.666666,4.6666665 0 0 1 14.166016,9.5 4.666666,4.6666665 0 0 1 9.5,14.166016 4.666666,4.6666665 0 0 1 4.8339844,9.5 4.666666,4.6666665 0 0 1 9.5,4.8339844 Z"
+       transform="translate(214,366)"
+       inkscape:label="lens" />
+    <path
+       id="path2"
+       style="display:inline;fill:#bbbeba;fill-opacity:1;stroke:none;stroke-width:0.928568;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:label="shading"
+       d="m 223.50046,369.00033 c 3.58984,0 6.50013,2.91029 6.50013,6.50013 0,3.58983 -2.9103,6.50014 -6.50013,6.50014 -3.58984,0 -6.50014,-2.91031 -6.50014,-6.50014 0,-3.58984 2.91031,-6.50013 6.50014,-6.50013 z m 0,0.45112 c -3.34024,0 -6.04901,2.70876 -6.04901,6.04901 0,3.34024 2.70876,6.04705 6.04901,6.04705 3.34024,0 6.04705,-2.70681 6.04705,-6.04705 0,-3.34025 -2.7068,-6.04901 -6.04705,-6.04901 z m 9.06959,12.85905 -2.51061,-2.51061 -0.75319,1.2553 2.25956,2.25956" />
+  </g>
+  <metadata
+     id="metadata2661">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Inspect Icon</dc:title>
+        <dc:date>2022-01-02</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>zoli111</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>GitLab</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:source>https://gitlab.com/cursors/simp1e/</dc:source>
+        <dc:description>A simple inspect icon.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Jordan Irwin (AntumDeluge)</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>menu</rdf:li>
+            <rdf:li>button</rdf:li>
+            <rdf:li>cursor</rdf:li>
+            <rdf:li>mouse</rdf:li>
+            <rdf:li>look</rdf:li>
+            <rdf:li>search</rdf:li>
+            <rdf:li>inspect</rdf:li>
+            <rdf:li>magnifying glass</rdf:li>
+            <rdf:li />
+            <rdf:li>zoli111</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="https://www.gnu.org/licenses/gpl-3.0.html" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
